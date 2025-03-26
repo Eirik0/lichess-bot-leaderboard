@@ -177,7 +177,7 @@ jobs:
 
   # Run tests on mac, windows, and ubuntu
   check-tests:
-    name: 🧪 check-tests / ${{ matrix.name }}
+    name: 🧪 check-tests
     runs-on: ${{ matrix.os }}
     needs:
       - determine-which-jobs
@@ -189,10 +189,7 @@ jobs:
       needs.check-types.result != 'failure'
     strategy:
       matrix:
-        include:
-          - { name: 🐧 ubuntu, os: ubuntu-latest }
-          - { name: 🖼️ windows, os: windows-latest }
-          - { name: 🍏 macos, os: macos-latest }
+        os: [ubuntu-latest, windows-latest, macos-latest]
     steps:
       # Setup
       - name: 🛒 Checkout repo
