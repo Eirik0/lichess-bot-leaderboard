@@ -183,16 +183,16 @@ jobs:
       - determine-which-jobs
       - check-style-jinja
       - check-types
-    if: |
-      needs.determine-which-jobs.outputs.check-tests == 'true' &&
-      needs.check-style-jinja.result != 'failure' &&
-      needs.check-types.result != 'failure'
     strategy:
       matrix:
         include:
           - { name: 🐧 ubuntu, os: ubuntu-latest }
           - { name: 🖼️ windows, os: windows-latest }
           - { name: 🍏 macos, os: macos-latest }
+    if: |
+      needs.determine-which-jobs.outputs.check-tests == 'true' &&
+      needs.check-style-jinja.result != 'failure' &&
+      needs.check-types.result != 'failure'
     steps:
       # Setup
       - name: 🛒 Checkout repo
