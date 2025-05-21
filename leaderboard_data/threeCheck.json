@@ -8,8 +8,9 @@
       "games": 201
     },
     "rank_info": {
-      "rank": 4,
-      "peak_rank": 4,
+      "rank": 3,
+      "delta_rank": 1,
+      "peak_rank": 3,
       "peak_rating": 2342,
       "last_played": 1747744076
     }
@@ -24,7 +25,6 @@
     },
     "rank_info": {
       "rank": 8,
-      "delta_games": 1,
       "peak_rank": 8,
       "peak_rating": 1597,
       "last_played": 1747779911
@@ -132,16 +132,19 @@
   {
     "name": "Nikitosik-ai",
     "perf": {
-      "rating": 2362,
-      "rd": 84,
-      "prog": 59,
-      "games": 51
+      "rating": 2313,
+      "rd": 80,
+      "prog": -9,
+      "games": 53
     },
     "rank_info": {
-      "rank": 3,
+      "rank": 4,
+      "delta_rank": -1,
+      "delta_rating": -49,
+      "delta_games": 2,
       "peak_rank": 3,
       "peak_rating": 2362,
-      "last_played": 1747751132
+      "last_played": 1747787934
     }
   },
   {
@@ -233,7 +236,7 @@
     "name": "Stockfish-MEDIUM",
     "perf": {
       "rating": 2070,
-      "rd": 61,
+      "rd": 62,
       "prog": -1,
       "games": 82
     },
@@ -247,16 +250,18 @@
   {
     "name": "ToromBot",
     "perf": {
-      "rating": 2471,
-      "rd": 71,
-      "prog": -34,
-      "games": 511
+      "rating": 2478,
+      "rd": 70,
+      "prog": -29,
+      "games": 512
     },
     "rank_info": {
       "rank": 1,
+      "delta_rating": 7,
+      "delta_games": 1,
       "peak_rank": 1,
-      "peak_rating": 2471,
-      "last_played": 1747765609
+      "peak_rating": 2478,
+      "last_played": 1747787934
     }
   },
   {
