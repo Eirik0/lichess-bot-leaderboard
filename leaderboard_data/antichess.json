@@ -21,7 +21,8 @@
       "games": 55796
     },
     "rank_info": {
-      "rank": 8,
+      "rank": 9,
+      "delta_rank": -1,
       "peak_rank": 8,
       "peak_rating": 2233,
       "last_played": 1748377547
@@ -120,7 +121,8 @@
       "games": 22
     },
     "rank_info": {
-      "rank": 7,
+      "rank": 8,
+      "delta_rank": -1,
       "peak_rank": 7,
       "peak_rating": 2262,
       "last_played": 1747454545
@@ -148,7 +150,8 @@
       "games": 54
     },
     "rank_info": {
-      "rank": 13,
+      "rank": 14,
+      "delta_rank": -1,
       "peak_rank": 13,
       "peak_rating": 675,
       "last_played": 1747379130
@@ -157,16 +160,19 @@
   {
     "name": "MinOpponentMoves",
     "perf": {
-      "rating": 1123,
+      "rating": 1119,
       "rd": 45,
-      "prog": 5,
-      "games": 6132
+      "prog": -9,
+      "games": 6133
     },
     "rank_info": {
-      "rank": 12,
+      "rank": 13,
+      "delta_rank": -1,
+      "delta_rating": -4,
+      "delta_games": 1,
       "peak_rank": 12,
       "peak_rating": 1123,
-      "last_played": 1748363185
+      "last_played": 1748427953
     }
   },
   {
@@ -214,6 +220,21 @@
     }
   },
   {
+    "name": "NilatacBot",
+    "perf": {
+      "rating": 2448,
+      "rd": 100,
+      "prog": 10,
+      "games": 4946
+    },
+    "rank_info": {
+      "rank": 7,
+      "peak_rank": 7,
+      "peak_rating": 2448,
+      "last_played": 1748427953
+    }
+  },
+  {
     "name": "Official_bot",
     "perf": {
       "rating": 1301,
@@ -235,7 +256,8 @@
       "games": 3565
     },
     "rank_info": {
-      "rank": 9,
+      "rank": 10,
+      "delta_rank": -1,
       "peak_rank": 9,
       "peak_rating": 2178,
       "last_played": 1747513525
@@ -258,16 +280,15 @@
     "name": "pawnrobot",
     "perf": {
       "rating": 1790,
-      "rd": 50,
+      "rd": 51,
       "prog": -36,
       "games": 3570
     },
     "rank_info": {
-      "rank": 11,
-      "delta_rating": -3,
-      "delta_games": 1,
+      "rank": 12,
+      "delta_rank": -1,
       "peak_rank": 11,
-      "peak_rating": 1793,
+      "peak_rating": 1790,
       "last_played": 1748420798
     }
   },
@@ -335,9 +356,8 @@
       "games": 62
     },
     "rank_info": {
-      "rank": 10,
-      "delta_rating": 7,
-      "delta_games": 1,
+      "rank": 11,
+      "delta_rank": -1,
       "peak_rank": 10,
       "peak_rating": 2094,
       "last_played": 1748420798
