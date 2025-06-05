@@ -76,8 +76,9 @@
       "games": 16
     },
     "rank_info": {
-      "rank": 2,
-      "peak_rank": 2,
+      "rank": 1,
+      "delta_rank": 1,
+      "peak_rank": 1,
       "peak_rating": 2575,
       "last_played": 1748528717
     }
@@ -236,14 +237,15 @@
     "perf": {
       "rating": 842,
       "rd": 45,
-      "prog": 35,
-      "games": 6667
+      "prog": -5,
+      "games": 6691
     },
     "rank_info": {
       "rank": 8,
+      "delta_games": 24,
       "peak_rank": 8,
       "peak_rating": 842,
-      "last_played": 1749119159
+      "last_played": 1749140786
     }
   },
   {
@@ -325,10 +327,8 @@
     },
     "rank_info": {
       "rank": 7,
-      "delta_rating": -2,
-      "delta_games": 5,
       "peak_rank": 7,
-      "peak_rating": 1263,
+      "peak_rating": 1261,
       "last_played": 1749133530
     }
   },
@@ -407,17 +407,19 @@
   {
     "name": "ToromBot",
     "perf": {
-      "rating": 2580,
-      "rd": 51,
-      "prog": 1,
-      "games": 3006
+      "rating": 2571,
+      "rd": 50,
+      "prog": -9,
+      "games": 3008
     },
     "rank_info": {
-      "rank": 1,
-      "delta_games": 9,
+      "rank": 2,
+      "delta_rank": -1,
+      "delta_rating": -9,
+      "delta_games": 2,
       "peak_rank": 1,
       "peak_rating": 2580,
-      "last_played": 1749133530
+      "last_played": 1749140786
     }
   },
   {
