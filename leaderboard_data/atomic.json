@@ -76,8 +76,9 @@
       "games": 16
     },
     "rank_info": {
-      "rank": 2,
-      "peak_rank": 2,
+      "rank": 1,
+      "delta_rank": 1,
+      "peak_rank": 1,
       "peak_rating": 2575,
       "last_played": 1748528717
     }
@@ -111,16 +112,18 @@
   {
     "name": "colinbot",
     "perf": {
-      "rating": 2033,
-      "rd": 54,
-      "prog": -11,
-      "games": 238
+      "rating": 2032,
+      "rd": 53,
+      "prog": -12,
+      "games": 239
     },
     "rank_info": {
       "rank": 6,
+      "delta_rating": -1,
+      "delta_games": 1,
       "peak_rank": 6,
       "peak_rating": 2033,
-      "last_played": 1749371165
+      "last_played": 1749457614
     }
   },
   {
@@ -148,6 +151,19 @@
     "rank_info": {
       "peak_rating": 2262,
       "last_played": 1747729608
+    }
+  },
+  {
+    "name": "Endogenetic-Bot",
+    "perf": {
+      "rating": 1483,
+      "rd": 476,
+      "games": 1,
+      "prov": true
+    },
+    "rank_info": {
+      "peak_rating": 1483,
+      "last_played": 1749457614
     }
   },
   {
@@ -360,16 +376,18 @@
   {
     "name": "RaspFish",
     "perf": {
-      "rating": 2501,
+      "rating": 2502,
       "rd": 52,
       "prog": -28,
-      "games": 1611
+      "games": 1612
     },
     "rank_info": {
       "rank": 3,
+      "delta_rating": 1,
+      "delta_games": 1,
       "peak_rank": 3,
-      "peak_rating": 2501,
-      "last_played": 1749392663
+      "peak_rating": 2502,
+      "last_played": 1749457614
     }
   },
   {
@@ -418,18 +436,18 @@
   {
     "name": "ToromBot",
     "perf": {
-      "rating": 2576,
-      "rd": 49,
-      "prog": 3,
-      "games": 3024
+      "rating": 2575,
+      "rd": 48,
+      "prog": 2,
+      "games": 3025
     },
     "rank_info": {
       "rank": 1,
-      "delta_rating": -8,
+      "delta_rating": -1,
       "delta_games": 1,
       "peak_rank": 1,
-      "peak_rating": 2584,
-      "last_played": 1749450426
+      "peak_rating": 2576,
+      "last_played": 1749457614
     }
   },
   {
