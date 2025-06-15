@@ -28,31 +28,34 @@
   {
     "name": "colinbot",
     "perf": {
-      "rating": 2037,
+      "rating": 2042,
       "rd": 48,
-      "prog": 14,
-      "games": 228
+      "prog": 20,
+      "games": 230
     },
     "rank_info": {
       "rank": 4,
+      "delta_rating": 5,
+      "delta_games": 2,
       "peak_rank": 4,
-      "peak_rating": 2037,
-      "last_played": 1749918357
+      "peak_rating": 2042,
+      "last_played": 1749983133
     }
   },
   {
     "name": "DavidsGuterBot",
     "perf": {
       "rating": 1545,
-      "rd": 46,
-      "prog": 9,
-      "games": 2776
+      "rd": 45,
+      "prog": 7,
+      "games": 2777
     },
     "rank_info": {
       "rank": 6,
+      "delta_games": 1,
       "peak_rank": 6,
       "peak_rating": 1545,
-      "last_played": 1749918357
+      "last_played": 1749983133
     }
   },
   {
@@ -145,10 +148,8 @@
     },
     "rank_info": {
       "rank": 8,
-      "delta_rating": -1,
-      "delta_games": 1,
       "peak_rank": 8,
-      "peak_rating": 954,
+      "peak_rating": 953,
       "last_played": 1749975960
     }
   },
@@ -183,16 +184,18 @@
   {
     "name": "OpeningsBot",
     "perf": {
-      "rating": 1899,
-      "rd": 58,
-      "prog": -15,
-      "games": 805
+      "rating": 1893,
+      "rd": 57,
+      "prog": -20,
+      "games": 806
     },
     "rank_info": {
       "rank": 5,
+      "delta_rating": -6,
+      "delta_games": 1,
       "peak_rank": 5,
       "peak_rating": 1899,
-      "last_played": 1749896722
+      "last_played": 1749983133
     }
   },
   {
@@ -205,11 +208,23 @@
     },
     "rank_info": {
       "rank": 7,
-      "delta_rating": 2,
-      "delta_games": 1,
       "peak_rank": 7,
       "peak_rating": 1246,
       "last_played": 1749975960
+    }
+  },
+  {
+    "name": "PyChessBot",
+    "perf": {
+      "rating": 1957,
+      "rd": 233,
+      "prog": -23,
+      "games": 146,
+      "prov": true
+    },
+    "rank_info": {
+      "peak_rating": 1957,
+      "last_played": 1749983133
     }
   },
   {
