@@ -212,8 +212,6 @@
       "prov": true
     },
     "rank_info": {
-      "delta_rating": -32,
-      "delta_games": 2,
       "peak_rating": 1799,
       "last_played": 1749968797
     }
@@ -274,16 +272,18 @@
   {
     "name": "MinOpponentMoves",
     "perf": {
-      "rating": 841,
+      "rating": 862,
       "rd": 45,
-      "prog": 4,
-      "games": 7082
+      "prog": 20,
+      "games": 7089
     },
     "rank_info": {
       "rank": 7,
+      "delta_rating": 21,
+      "delta_games": 7,
       "peak_rank": 7,
-      "peak_rating": 841,
-      "last_played": 1749939903
+      "peak_rating": 862,
+      "last_played": 1749975960
     }
   },
   {
@@ -446,7 +446,7 @@
     "name": "ToromBot",
     "perf": {
       "rating": 2569,
-      "rd": 50,
+      "rd": 51,
       "prog": 4,
       "games": 3043
     },
