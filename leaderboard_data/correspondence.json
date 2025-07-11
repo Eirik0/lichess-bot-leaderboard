@@ -108,6 +108,19 @@
     }
   },
   {
+    "name": "ChessatronBot",
+    "perf": {
+      "rating": 2101,
+      "rd": 431,
+      "games": 1,
+      "prov": true
+    },
+    "rank_info": {
+      "peak_rating": 2101,
+      "last_played": 1752222399
+    }
+  },
+  {
     "name": "ChessChildren",
     "perf": {
       "rating": 1884,
@@ -304,16 +317,18 @@
   {
     "name": "GarboBot",
     "perf": {
-      "rating": 2014,
+      "rating": 2012,
       "rd": 58,
-      "prog": -21,
-      "games": 124
+      "prog": -20,
+      "games": 125
     },
     "rank_info": {
       "rank": 5,
+      "delta_rating": -2,
+      "delta_games": 1,
       "peak_rank": 5,
       "peak_rating": 2014,
-      "last_played": 1752157537
+      "last_played": 1752222399
     }
   },
   {
@@ -696,8 +711,6 @@
     },
     "rank_info": {
       "rank": 3,
-      "delta_rating": 2,
-      "delta_games": 1,
       "peak_rank": 3,
       "peak_rating": 2343,
       "last_played": 1752215225
@@ -722,7 +735,7 @@
     "name": "pawnocchio_bot",
     "perf": {
       "rating": 2575,
-      "rd": 81,
+      "rd": 82,
       "prog": 70,
       "games": 59
     },
