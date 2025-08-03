@@ -169,7 +169,8 @@
       "games": 96
     },
     "rank_info": {
-      "rank": 9,
+      "rank": 10,
+      "delta_rank": -1,
       "peak_rank": 9,
       "peak_rating": 1311,
       "last_played": 1754144718
@@ -336,7 +337,8 @@
       "games": 978
     },
     "rank_info": {
-      "rank": 10,
+      "rank": 11,
+      "delta_rank": -1,
       "peak_rank": 10,
       "peak_rating": 735,
       "last_played": 1753878495
@@ -414,14 +416,18 @@
   {
     "name": "Jibbby",
     "perf": {
-      "rating": 1777,
-      "rd": 74,
-      "prog": -60,
-      "games": 603
+      "rating": 1764,
+      "rd": 72,
+      "prog": -51,
+      "games": 606
     },
     "rank_info": {
+      "rank": 9,
+      "delta_rank": -9,
+      "delta_rating": -13,
+      "delta_games": 3,
       "peak_rating": 1777,
-      "last_played": 1752942373
+      "last_played": 1754224081
     }
   },
   {
@@ -664,6 +670,19 @@
       "peak_rank": 1,
       "peak_rating": 2694,
       "last_played": 1753749963
+    }
+  },
+  {
+    "name": "MrDeepSeekGPT",
+    "perf": {
+      "rating": 2216,
+      "rd": 256,
+      "games": 3,
+      "prov": true
+    },
+    "rank_info": {
+      "peak_rating": 2216,
+      "last_played": 1754224081
     }
   },
   {
