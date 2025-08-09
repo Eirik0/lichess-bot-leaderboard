@@ -102,10 +102,8 @@
     },
     "rank_info": {
       "rank": 7,
-      "delta_rating": -2,
-      "delta_games": 1,
       "peak_rank": 7,
-      "peak_rating": 2249,
+      "peak_rating": 2247,
       "last_played": 1754764003
     }
   },
@@ -216,8 +214,9 @@
       "games": 42
     },
     "rank_info": {
-      "rank": 2,
-      "peak_rank": 2,
+      "rank": 1,
+      "delta_rank": 1,
+      "peak_rank": 1,
       "peak_rating": 2528,
       "last_played": 1754756773
     }
@@ -304,7 +303,7 @@
     "name": "MinOpponentMoves",
     "perf": {
       "rating": 910,
-      "rd": 66,
+      "rd": 67,
       "prog": 4,
       "games": 5537
     },
@@ -371,16 +370,18 @@
   {
     "name": "NimsiluBot",
     "perf": {
-      "rating": 2446,
-      "rd": 91,
-      "prog": 94,
-      "games": 42
+      "rating": 2487,
+      "rd": 79,
+      "prog": 16,
+      "games": 47
     },
     "rank_info": {
       "rank": 3,
+      "delta_rating": 41,
+      "delta_games": 5,
       "peak_rank": 3,
-      "peak_rating": 2446,
-      "last_played": 1754511973
+      "peak_rating": 2487,
+      "last_played": 1754771142
     }
   },
   {
@@ -511,18 +512,19 @@
   {
     "name": "ToromBot",
     "perf": {
-      "rating": 2547,
-      "rd": 63,
-      "prog": -6,
-      "games": 584
+      "rating": 2526,
+      "rd": 59,
+      "prog": -12,
+      "games": 589
     },
     "rank_info": {
-      "rank": 1,
-      "delta_rating": 4,
-      "delta_games": 1,
+      "rank": 2,
+      "delta_rank": -1,
+      "delta_rating": -21,
+      "delta_games": 5,
       "peak_rank": 1,
       "peak_rating": 2547,
-      "last_played": 1754764003
+      "last_played": 1754771142
     }
   },
   {
