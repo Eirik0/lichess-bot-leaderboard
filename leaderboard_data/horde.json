@@ -89,10 +89,8 @@
     },
     "rank_info": {
       "rank": 4,
-      "delta_rating": -2,
-      "delta_games": 1,
       "peak_rank": 4,
-      "peak_rating": 1844,
+      "peak_rating": 1842,
       "last_played": 1756095999
     }
   },
@@ -158,8 +156,6 @@
       "prov": true
     },
     "rank_info": {
-      "delta_rating": 68,
-      "delta_games": 1,
       "peak_rating": 2242,
       "last_played": 1756095999
     }
@@ -327,7 +323,7 @@
     "name": "MinOpponentMoves",
     "perf": {
       "rating": 988,
-      "rd": 68,
+      "rd": 69,
       "prog": -8,
       "games": 2595
     },
@@ -420,30 +416,34 @@
   {
     "name": "NimsiluBot",
     "perf": {
-      "rating": 2539,
-      "rd": 54,
-      "prog": 3,
-      "games": 115
+      "rating": 2544,
+      "rd": 50,
+      "prog": 10,
+      "games": 122
     },
     "rank_info": {
       "rank": 1,
+      "delta_rating": 5,
+      "delta_games": 7,
       "peak_rank": 1,
-      "peak_rating": 2557,
-      "last_played": 1756052754
+      "peak_rating": 2544,
+      "last_played": 1756103244
     }
   },
   {
     "name": "NNUE_Drift",
     "perf": {
-      "rating": 2499,
-      "rd": 210,
-      "prog": -133,
-      "games": 16,
+      "rating": 2355,
+      "rd": 144,
+      "prog": -277,
+      "games": 21,
       "prov": true
     },
     "rank_info": {
+      "delta_rating": -144,
+      "delta_games": 5,
       "peak_rating": 2499,
-      "last_played": 1756052754
+      "last_played": 1756103244
     }
   },
   {
@@ -585,16 +585,18 @@
   {
     "name": "ToromBot",
     "perf": {
-      "rating": 2530,
-      "rd": 51,
-      "prog": 5,
-      "games": 1953
+      "rating": 2525,
+      "rd": 46,
+      "prog": 3,
+      "games": 1963
     },
     "rank_info": {
       "rank": 2,
+      "delta_rating": -5,
+      "delta_games": 10,
       "peak_rank": 2,
       "peak_rating": 2530,
-      "last_played": 1756052754
+      "last_played": 1756103244
     }
   },
   {
