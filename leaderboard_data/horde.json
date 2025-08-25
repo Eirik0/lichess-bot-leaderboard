@@ -88,11 +88,10 @@
       "games": 385
     },
     "rank_info": {
-      "rank": 4,
-      "delta_rating": -2,
-      "delta_games": 2,
+      "rank": 5,
+      "delta_rank": -1,
       "peak_rank": 4,
-      "peak_rating": 1842,
+      "peak_rating": 1840,
       "last_played": 1756110420
     }
   },
@@ -184,7 +183,8 @@
       "games": 64
     },
     "rank_info": {
-      "rank": 6,
+      "rank": 7,
+      "delta_rank": -1,
       "peak_rank": 6,
       "peak_rating": 1285,
       "last_played": 1755592002
@@ -418,30 +418,35 @@
   {
     "name": "NimsiluBot",
     "perf": {
-      "rating": 2544,
-      "rd": 50,
-      "prog": 10,
-      "games": 122
+      "rating": 2546,
+      "rd": 45,
+      "prog": -9,
+      "games": 162
     },
     "rank_info": {
       "rank": 1,
+      "delta_rating": 2,
+      "delta_games": 40,
       "peak_rank": 1,
-      "peak_rating": 2544,
-      "last_played": 1756103244
+      "peak_rating": 2546,
+      "last_played": 1756117562
     }
   },
   {
     "name": "NNUE_Drift",
     "perf": {
-      "rating": 2355,
-      "rd": 144,
-      "prog": -277,
-      "games": 21,
-      "prov": true
+      "rating": 2432,
+      "rd": 57,
+      "prog": 18,
+      "games": 57
     },
     "rank_info": {
-      "peak_rating": 2355,
-      "last_played": 1756103244
+      "rank": 3,
+      "delta_rank": -3,
+      "delta_rating": 77,
+      "delta_games": 36,
+      "peak_rating": 2432,
+      "last_played": 1756117562
     }
   },
   {
@@ -466,7 +471,8 @@
       "games": 486
     },
     "rank_info": {
-      "rank": 5,
+      "rank": 6,
+      "delta_rank": -1,
       "peak_rank": 5,
       "peak_rating": 1755,
       "last_played": 1756038459
@@ -481,7 +487,8 @@
       "games": 1430
     },
     "rank_info": {
-      "rank": 7,
+      "rank": 8,
+      "delta_rank": -1,
       "peak_rank": 7,
       "peak_rating": 1253,
       "last_played": 1755959058
@@ -522,9 +529,8 @@
       "games": 616
     },
     "rank_info": {
-      "rank": 3,
-      "delta_rating": 2,
-      "delta_games": 2,
+      "rank": 4,
+      "delta_rank": -1,
       "peak_rank": 3,
       "peak_rating": 2302,
       "last_played": 1756110420
