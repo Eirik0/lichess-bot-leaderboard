@@ -75,7 +75,6 @@
     },
     "rank_info": {
       "rank": 8,
-      "delta_games": 3,
       "peak_rank": 8,
       "peak_rating": 2283,
       "last_played": 1756801602
@@ -84,16 +83,18 @@
   {
     "name": "DarkOnBot",
     "perf": {
-      "rating": 2491,
-      "rd": 64,
-      "prog": -24,
-      "games": 38
+      "rating": 2497,
+      "rd": 63,
+      "prog": -16,
+      "games": 42
     },
     "rank_info": {
       "rank": 5,
+      "delta_rating": 6,
+      "delta_games": 4,
       "peak_rank": 5,
-      "peak_rating": 2491,
-      "last_played": 1756794424
+      "peak_rating": 2497,
+      "last_played": 1756808745
     }
   },
   {
@@ -133,7 +134,6 @@
     },
     "rank_info": {
       "rank": 7,
-      "delta_games": 2,
       "peak_rank": 7,
       "peak_rating": 2477,
       "last_played": 1756801602
@@ -510,6 +510,19 @@
     }
   },
   {
+    "name": "SF_Bot1nok",
+    "perf": {
+      "rating": 1500,
+      "rd": 324,
+      "games": 2,
+      "prov": true
+    },
+    "rank_info": {
+      "peak_rating": 1500,
+      "last_played": 1756808745
+    }
+  },
+  {
     "name": "Stockfish-MEDIUM",
     "perf": {
       "rating": 2043,
@@ -540,7 +553,7 @@
     "name": "TacticalBot",
     "perf": {
       "rating": 2445,
-      "rd": 248,
+      "rd": 249,
       "games": 4,
       "prov": true
     },
@@ -558,9 +571,7 @@
       "prov": true
     },
     "rank_info": {
-      "delta_rating": -6,
-      "delta_games": 1,
-      "peak_rating": 2299,
+      "peak_rating": 2293,
       "last_played": 1756801602
     }
   },
