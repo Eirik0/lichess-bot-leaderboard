@@ -75,8 +75,6 @@
     },
     "rank_info": {
       "rank": 9,
-      "delta_rating": 1,
-      "delta_games": 1,
       "peak_rank": 9,
       "peak_rating": 2286,
       "last_played": 1756995917
@@ -91,8 +89,9 @@
       "games": 56
     },
     "rank_info": {
-      "rank": 6,
-      "peak_rank": 6,
+      "rank": 5,
+      "delta_rank": 1,
+      "peak_rank": 5,
       "peak_rating": 2484,
       "last_played": 1756967214
     }
@@ -133,8 +132,9 @@
       "games": 37
     },
     "rank_info": {
-      "rank": 7,
-      "peak_rank": 7,
+      "rank": 6,
+      "delta_rank": 1,
+      "peak_rank": 6,
       "peak_rating": 2481,
       "last_played": 1756981530
     }
@@ -225,14 +225,17 @@
   {
     "name": "is_BOSS",
     "perf": {
-      "rating": 2159,
-      "rd": 259,
-      "games": 4,
+      "rating": 2082,
+      "rd": 150,
+      "prog": 35,
+      "games": 13,
       "prov": true
     },
     "rank_info": {
+      "delta_rating": -77,
+      "delta_games": 9,
       "peak_rating": 2159,
-      "last_played": 1756916788
+      "last_played": 1757003185
     }
   },
   {
@@ -536,6 +539,19 @@
     }
   },
   {
+    "name": "Speeedrunchessgames",
+    "perf": {
+      "rating": 2430,
+      "rd": 270,
+      "games": 3,
+      "prov": true
+    },
+    "rank_info": {
+      "peak_rating": 2430,
+      "last_played": 1757003185
+    }
+  },
+  {
     "name": "Stockfish-MEDIUM",
     "perf": {
       "rating": 2043,
@@ -553,7 +569,7 @@
     "name": "strain-on-veins",
     "perf": {
       "rating": 2545,
-      "rd": 164,
+      "rd": 165,
       "games": 6,
       "prov": true
     },
@@ -571,9 +587,7 @@
       "prov": true
     },
     "rank_info": {
-      "delta_rating": -38,
-      "delta_games": 1,
-      "peak_rating": 2437,
+      "peak_rating": 2399,
       "last_played": 1756995917
     }
   },
@@ -624,16 +638,19 @@
   {
     "name": "VEER-OMEGA-BOT",
     "perf": {
-      "rating": 2489,
+      "rating": 2481,
       "rd": 49,
-      "prog": 3,
-      "games": 101
+      "prog": -6,
+      "games": 103
     },
     "rank_info": {
-      "rank": 5,
+      "rank": 6,
+      "delta_rank": -1,
+      "delta_rating": -8,
+      "delta_games": 2,
       "peak_rank": 5,
       "peak_rating": 2489,
-      "last_played": 1756924002
+      "last_played": 1757003185
     }
   },
   {
