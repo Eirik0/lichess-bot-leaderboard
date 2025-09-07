@@ -69,16 +69,19 @@
   {
     "name": "BSTAF",
     "perf": {
-      "rating": 2009,
-      "rd": 85,
-      "prog": 108,
-      "games": 25
+      "rating": 2013,
+      "rd": 84,
+      "prog": 102,
+      "games": 26
     },
     "rank_info": {
-      "rank": 9,
+      "rank": 11,
+      "delta_rank": -2,
+      "delta_rating": 4,
+      "delta_games": 1,
       "peak_rank": 9,
-      "peak_rating": 2009,
-      "last_played": 1757168615
+      "peak_rating": 2013,
+      "last_played": 1757233546
     }
   },
   {
@@ -156,7 +159,8 @@
       "games": 478
     },
     "rank_info": {
-      "rank": 10,
+      "rank": 12,
+      "delta_rank": -2,
       "peak_rank": 10,
       "peak_rating": 1767,
       "last_played": 1757168615
@@ -205,16 +209,19 @@
   {
     "name": "DarkOnBot",
     "perf": {
-      "rating": 2161,
+      "rating": 2184,
       "rd": 45,
-      "prog": 7,
-      "games": 157
+      "prog": 27,
+      "games": 162
     },
     "rank_info": {
-      "rank": 7,
+      "rank": 8,
+      "delta_rank": -1,
+      "delta_rating": 23,
+      "delta_games": 5,
       "peak_rank": 7,
-      "peak_rating": 2161,
-      "last_played": 1757213025
+      "peak_rating": 2184,
+      "last_played": 1757233546
     }
   },
   {
@@ -239,10 +246,24 @@
       "games": 2034
     },
     "rank_info": {
-      "rank": 4,
+      "rank": 5,
+      "delta_rank": -1,
       "peak_rank": 4,
       "peak_rating": 2229,
       "last_played": 1756816087
+    }
+  },
+  {
+    "name": "Endogenetic-Bot",
+    "perf": {
+      "rating": 2263,
+      "rd": 201,
+      "games": 5,
+      "prov": true
+    },
+    "rank_info": {
+      "peak_rating": 2263,
+      "last_played": 1757233546
     }
   },
   {
@@ -256,6 +277,19 @@
     "rank_info": {
       "peak_rating": 1966,
       "last_played": 1747491853
+    }
+  },
+  {
+    "name": "Exogenetic-Bot",
+    "perf": {
+      "rating": 1242,
+      "rd": 378,
+      "games": 5,
+      "prov": true
+    },
+    "rank_info": {
+      "peak_rating": 1242,
+      "last_played": 1757233546
     }
   },
   {
@@ -293,7 +327,8 @@
       "games": 29
     },
     "rank_info": {
-      "rank": 5,
+      "rank": 7,
+      "delta_rank": -2,
       "peak_rank": 5,
       "peak_rating": 2195,
       "last_played": 1757060794
@@ -334,7 +369,8 @@
       "games": 53
     },
     "rank_info": {
-      "rank": 13,
+      "rank": 15,
+      "delta_rank": -2,
       "peak_rank": 13,
       "peak_rating": 1506,
       "last_played": 1757010410
@@ -384,16 +420,19 @@
   {
     "name": "is_BOSS",
     "perf": {
-      "rating": 1621,
-      "rd": 96,
-      "prog": 5,
-      "games": 31
+      "rating": 1616,
+      "rd": 95,
+      "prog": -4,
+      "games": 32
     },
     "rank_info": {
-      "rank": 12,
+      "rank": 14,
+      "delta_rank": -2,
+      "delta_rating": -5,
+      "delta_games": 1,
       "peak_rank": 12,
-      "peak_rating": 1622,
-      "last_played": 1757183183
+      "peak_rating": 1621,
+      "last_played": 1757233546
     }
   },
   {
@@ -478,14 +517,18 @@
   {
     "name": "MaggiChess16",
     "perf": {
-      "rating": 2262,
-      "rd": 52,
-      "prog": 12,
-      "games": 105
+      "rating": 2228,
+      "rd": 51,
+      "prog": -34,
+      "games": 110
     },
     "rank_info": {
+      "rank": 6,
+      "delta_rank": -6,
+      "delta_rating": -34,
+      "delta_games": 5,
       "peak_rating": 2262,
-      "last_played": 1755952056
+      "last_played": 1757233546
     }
   },
   {
@@ -653,16 +696,19 @@
   {
     "name": "NNUE_Drift",
     "perf": {
-      "rating": 2278,
-      "rd": 52,
-      "prog": -6,
-      "games": 210
+      "rating": 2247,
+      "rd": 50,
+      "prog": -38,
+      "games": 215
     },
     "rank_info": {
-      "rank": 2,
+      "rank": 4,
+      "delta_rank": -2,
+      "delta_rating": -31,
+      "delta_games": 5,
       "peak_rank": 2,
       "peak_rating": 2278,
-      "last_played": 1756290330
+      "last_played": 1757233546
     }
   },
   {
@@ -713,7 +759,8 @@
       "games": 1245
     },
     "rank_info": {
-      "rank": 14,
+      "rank": 16,
+      "delta_rank": -2,
       "peak_rank": 14,
       "peak_rating": 1161,
       "last_played": 1757183183
@@ -734,6 +781,19 @@
     }
   },
   {
+    "name": "PINEAPPLEMASK",
+    "perf": {
+      "rating": 2182,
+      "rd": 236,
+      "games": 5,
+      "prov": true
+    },
+    "rank_info": {
+      "peak_rating": 2182,
+      "last_played": 1757233546
+    }
+  },
+  {
     "name": "PyChessBot",
     "perf": {
       "rating": 1978,
@@ -750,16 +810,19 @@
   {
     "name": "RaspFish",
     "perf": {
-      "rating": 2099,
-      "rd": 48,
-      "prog": -25,
-      "games": 756
+      "rating": 2092,
+      "rd": 47,
+      "prog": -23,
+      "games": 760
     },
     "rank_info": {
-      "rank": 8,
+      "rank": 10,
+      "delta_rank": -2,
+      "delta_rating": -7,
+      "delta_games": 4,
       "peak_rank": 8,
       "peak_rating": 2099,
-      "last_played": 1756880814
+      "last_played": 1757233546
     }
   },
   {
@@ -798,7 +861,8 @@
       "games": 20
     },
     "rank_info": {
-      "rank": 10,
+      "rank": 12,
+      "delta_rank": -2,
       "peak_rank": 10,
       "peak_rating": 1767,
       "last_played": 1757075281
@@ -818,16 +882,32 @@
     }
   },
   {
-    "name": "TacticalBot",
+    "name": "strain-on-veins",
     "perf": {
-      "rating": 2161,
-      "rd": 139,
-      "games": 10,
+      "rating": 1772,
+      "rd": 241,
+      "games": 5,
       "prov": true
     },
     "rank_info": {
-      "peak_rating": 2161,
-      "last_played": 1757003185
+      "peak_rating": 1772,
+      "last_played": 1757233546
+    }
+  },
+  {
+    "name": "TacticalBot",
+    "perf": {
+      "rating": 2250,
+      "rd": 114,
+      "prog": 27,
+      "games": 15,
+      "prov": true
+    },
+    "rank_info": {
+      "delta_rating": 89,
+      "delta_games": 5,
+      "peak_rating": 2250,
+      "last_played": 1757233546
     }
   },
   {
@@ -839,7 +919,8 @@
       "games": 29
     },
     "rank_info": {
-      "rank": 6,
+      "rank": 9,
+      "delta_rank": -3,
       "peak_rank": 6,
       "peak_rating": 2162,
       "last_played": 1757183183
@@ -874,16 +955,18 @@
   {
     "name": "ToromBot",
     "perf": {
-      "rating": 2270,
-      "rd": 48,
-      "prog": -13,
-      "games": 628
+      "rating": 2289,
+      "rd": 47,
+      "prog": 21,
+      "games": 633
     },
     "rank_info": {
       "rank": 3,
+      "delta_rating": 19,
+      "delta_games": 5,
       "peak_rank": 3,
-      "peak_rating": 2270,
-      "last_played": 1756729685
+      "peak_rating": 2289,
+      "last_played": 1757233546
     }
   },
   {
@@ -943,14 +1026,18 @@
   {
     "name": "Yuki_1324",
     "perf": {
-      "rating": 2319,
-      "rd": 52,
-      "prog": 4,
-      "games": 71
+      "rating": 2309,
+      "rd": 51,
+      "prog": -6,
+      "games": 75
     },
     "rank_info": {
+      "rank": 2,
+      "delta_rank": -2,
+      "delta_rating": -10,
+      "delta_games": 4,
       "peak_rating": 2319,
-      "last_played": 1755952056
+      "last_played": 1757233546
     }
   },
   {
