@@ -221,7 +221,8 @@
       "games": 105
     },
     "rank_info": {
-      "rank": 6,
+      "rank": 7,
+      "delta_rank": -1,
       "peak_rank": 6,
       "peak_rating": 1321,
       "last_played": 1757046358
@@ -435,14 +436,16 @@
   {
     "name": "HCE_PUCT_MCTS_bot",
     "perf": {
-      "rating": 1574,
-      "rd": 196,
-      "games": 3,
+      "rating": 1524,
+      "rd": 176,
+      "games": 4,
       "prov": true
     },
     "rank_info": {
+      "delta_rating": -50,
+      "delta_games": 1,
       "peak_rating": 1574,
-      "last_played": 1756823139
+      "last_played": 1757499931
     }
   },
   {
@@ -966,14 +969,18 @@
   {
     "name": "RoundMoundOfRebounds",
     "perf": {
-      "rating": 1733,
-      "rd": 91,
-      "prog": 2,
-      "games": 148
+      "rating": 1745,
+      "rd": 89,
+      "prog": 10,
+      "games": 149
     },
     "rank_info": {
-      "peak_rating": 1733,
-      "last_played": 1749659190
+      "rank": 6,
+      "delta_rank": -6,
+      "delta_rating": 12,
+      "delta_games": 1,
+      "peak_rating": 1745,
+      "last_played": 1757499931
     }
   },
   {
