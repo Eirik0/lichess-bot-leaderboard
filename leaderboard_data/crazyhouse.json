@@ -240,8 +240,9 @@
       "games": 2167
     },
     "rank_info": {
-      "rank": 10,
-      "peak_rank": 10,
+      "rank": 9,
+      "delta_rank": 1,
+      "peak_rank": 9,
       "peak_rating": 2200,
       "last_played": 1757701600
     }
@@ -635,7 +636,8 @@
       "games": 72
     },
     "rank_info": {
-      "rank": 5,
+      "rank": 6,
+      "delta_rank": -1,
       "peak_rank": 5,
       "peak_rating": 2226,
       "last_played": 1757607984
@@ -790,8 +792,9 @@
       "games": 257
     },
     "rank_info": {
-      "rank": 9,
-      "peak_rank": 9,
+      "rank": 8,
+      "delta_rank": 1,
+      "peak_rank": 8,
       "peak_rating": 2208,
       "last_played": 1757701600
     }
@@ -911,31 +914,37 @@
   {
     "name": "TacticalBot",
     "perf": {
-      "rating": 2217,
+      "rating": 2228,
       "rd": 45,
       "prog": 9,
-      "games": 84
+      "games": 86
     },
     "rank_info": {
-      "rank": 7,
-      "peak_rank": 7,
-      "peak_rating": 2217,
-      "last_played": 1757701600
+      "rank": 5,
+      "delta_rank": 2,
+      "delta_rating": 11,
+      "delta_games": 2,
+      "peak_rank": 5,
+      "peak_rating": 2228,
+      "last_played": 1757723609
     }
   },
   {
     "name": "tbhOnBot",
     "perf": {
-      "rating": 2209,
-      "rd": 66,
-      "prog": 8,
-      "games": 48
+      "rating": 2197,
+      "rd": 65,
+      "prog": -5,
+      "games": 49
     },
     "rank_info": {
-      "rank": 8,
+      "rank": 10,
+      "delta_rank": -2,
+      "delta_rating": -12,
+      "delta_games": 1,
       "peak_rank": 8,
       "peak_rating": 2209,
-      "last_played": 1757694351
+      "last_played": 1757723609
     }
   },
   {
@@ -1042,7 +1051,8 @@
       "games": 110
     },
     "rank_info": {
-      "rank": 6,
+      "rank": 7,
+      "delta_rank": -1,
       "peak_rank": 6,
       "peak_rating": 2219,
       "last_played": 1757341560
