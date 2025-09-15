@@ -77,8 +77,6 @@
     },
     "rank_info": {
       "rank": 15,
-      "delta_rating": 1,
-      "delta_games": 1,
       "peak_rank": 15,
       "peak_rating": 2145,
       "last_played": 1757939291
@@ -160,10 +158,8 @@
     },
     "rank_info": {
       "rank": 20,
-      "delta_rating": -2,
-      "delta_games": 4,
       "peak_rank": 20,
-      "peak_rating": 1742,
+      "peak_rating": 1740,
       "last_played": 1757939291
     }
   },
@@ -216,8 +212,6 @@
     },
     "rank_info": {
       "rank": 12,
-      "delta_rating": 1,
-      "delta_games": 1,
       "peak_rank": 12,
       "peak_rating": 2168,
       "last_played": 1757939291
@@ -245,8 +239,9 @@
       "games": 2295
     },
     "rank_info": {
-      "rank": 14,
-      "peak_rank": 14,
+      "rank": 13,
+      "delta_rank": 1,
+      "peak_rank": 13,
       "peak_rating": 2159,
       "last_played": 1757931951
     }
@@ -384,8 +379,6 @@
     },
     "rank_info": {
       "rank": 22,
-      "delta_rating": -1,
-      "delta_games": 1,
       "peak_rank": 22,
       "peak_rating": 1438,
       "last_played": 1757939291
@@ -720,16 +713,19 @@
   {
     "name": "NNUE_Drift",
     "perf": {
-      "rating": 2161,
+      "rating": 2152,
       "rd": 45,
-      "prog": -1,
-      "games": 469
+      "prog": -12,
+      "games": 471
     },
     "rank_info": {
-      "rank": 13,
+      "rank": 14,
+      "delta_rank": -1,
+      "delta_rating": -9,
+      "delta_games": 2,
       "peak_rank": 13,
       "peak_rating": 2161,
-      "last_played": 1757924808
+      "last_played": 1757946328
     }
   },
   {
@@ -781,10 +777,8 @@
     },
     "rank_info": {
       "rank": 23,
-      "delta_rating": -1,
-      "delta_games": 3,
       "peak_rank": 23,
-      "peak_rating": 1129,
+      "peak_rating": 1128,
       "last_played": 1757939291
     }
   },
@@ -805,16 +799,18 @@
   {
     "name": "PINEAPPLEMASK",
     "perf": {
-      "rating": 2239,
+      "rating": 2248,
       "rd": 45,
-      "prog": 13,
-      "games": 305
+      "prog": 24,
+      "games": 307
     },
     "rank_info": {
       "rank": 2,
+      "delta_rating": 9,
+      "delta_games": 2,
       "peak_rank": 2,
-      "peak_rating": 2239,
-      "last_played": 1757924808
+      "peak_rating": 2248,
+      "last_played": 1757946328
     }
   },
   {
@@ -896,7 +892,6 @@
     },
     "rank_info": {
       "rank": 7,
-      "delta_games": 2,
       "peak_rank": 7,
       "peak_rating": 2216,
       "last_played": 1757939291
@@ -1059,7 +1054,7 @@
     "name": "Yuki_1324",
     "perf": {
       "rating": 2219,
-      "rd": 48,
+      "rd": 49,
       "prog": -35,
       "games": 110
     },
