@@ -376,8 +376,6 @@
     },
     "rank_info": {
       "rank": 1,
-      "delta_rating": 7,
-      "delta_games": 1,
       "peak_rank": 1,
       "peak_rating": 2039,
       "last_played": 1758479182
@@ -400,16 +398,18 @@
   {
     "name": "grandQ_AI",
     "perf": {
-      "rating": 745,
+      "rating": 743,
       "rd": 88,
       "prog": -11,
-      "games": 980
+      "games": 981
     },
     "rank_info": {
       "rank": 8,
+      "delta_rating": -2,
+      "delta_games": 1,
       "peak_rank": 8,
       "peak_rating": 745,
-      "last_played": 1758457669
+      "last_played": 1758486325
     }
   },
   {
@@ -710,6 +710,19 @@
     "rank_info": {
       "peak_rating": 1545,
       "last_played": 1747379130
+    }
+  },
+  {
+    "name": "Mate-AI",
+    "perf": {
+      "rating": 1454,
+      "rd": 500,
+      "games": 1,
+      "prov": true
+    },
+    "rank_info": {
+      "peak_rating": 1454,
+      "last_played": 1758486325
     }
   },
   {
