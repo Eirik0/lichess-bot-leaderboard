@@ -224,8 +224,6 @@
     },
     "rank_info": {
       "rank": 6,
-      "delta_rating": 16,
-      "delta_games": 1,
       "peak_rank": 6,
       "peak_rating": 1403,
       "last_played": 1758450302
@@ -400,16 +398,18 @@
   {
     "name": "grandQ_AI",
     "perf": {
-      "rating": 747,
+      "rating": 745,
       "rd": 88,
-      "prog": -9,
-      "games": 979
+      "prog": -11,
+      "games": 980
     },
     "rank_info": {
       "rank": 8,
+      "delta_rating": -2,
+      "delta_games": 1,
       "peak_rank": 8,
       "peak_rating": 747,
-      "last_played": 1758385549
+      "last_played": 1758457669
     }
   },
   {
@@ -441,16 +441,18 @@
   {
     "name": "HCE_PUCT_MCTS_bot",
     "perf": {
-      "rating": 1164,
-      "rd": 104,
-      "prog": -48,
-      "games": 15
+      "rating": 1145,
+      "rd": 102,
+      "prog": -67,
+      "games": 16
     },
     "rank_info": {
       "rank": 7,
+      "delta_rating": -19,
+      "delta_games": 1,
       "peak_rank": 7,
       "peak_rating": 1164,
-      "last_played": 1758363898
+      "last_played": 1758457669
     }
   },
   {
@@ -782,7 +784,7 @@
     "name": "MrDeepSeekGPT",
     "perf": {
       "rating": 2504,
-      "rd": 150,
+      "rd": 151,
       "prog": 41,
       "games": 12,
       "prov": true
@@ -970,7 +972,7 @@
     "name": "RadianceEngine",
     "perf": {
       "rating": 2004,
-      "rd": 76,
+      "rd": 77,
       "prog": 13,
       "games": 185
     },
