@@ -263,7 +263,6 @@
     },
     "rank_info": {
       "rank": 11,
-      "delta_games": 1,
       "peak_rank": 11,
       "peak_rating": 2849,
       "last_played": 1758515166
@@ -454,7 +453,8 @@
       "games": 155
     },
     "rank_info": {
-      "rank": 83,
+      "rank": 84,
+      "delta_rank": -1,
       "peak_rank": 83,
       "peak_rating": 1606,
       "last_played": 1757845460
@@ -748,16 +748,18 @@
   {
     "name": "Casanchess-NNUE",
     "perf": {
-      "rating": 2332,
+      "rating": 2331,
       "rd": 45,
-      "prog": 8,
-      "games": 324
+      "prog": 10,
+      "games": 325
     },
     "rank_info": {
       "rank": 32,
+      "delta_rating": -1,
+      "delta_games": 1,
       "peak_rank": 32,
       "peak_rating": 2332,
-      "last_played": 1758509215
+      "last_played": 1758522441
     }
   },
   {
@@ -960,8 +962,9 @@
       "games": 984
     },
     "rank_info": {
-      "rank": 39,
-      "peak_rank": 39,
+      "rank": 38,
+      "delta_rank": 1,
+      "peak_rank": 38,
       "peak_rating": 2198,
       "last_played": 1758032746
     }
@@ -999,14 +1002,15 @@
     "perf": {
       "rating": 1051,
       "rd": 45,
-      "prog": -6,
-      "games": 590
+      "prog": -5,
+      "games": 591
     },
     "rank_info": {
       "rank": 103,
+      "delta_games": 1,
       "peak_rank": 103,
       "peak_rating": 1051,
-      "last_played": 1758471975
+      "last_played": 1758522441
     }
   },
   {
@@ -1027,16 +1031,18 @@
   {
     "name": "Cizme",
     "perf": {
-      "rating": 1430,
-      "rd": 58,
-      "prog": 20,
-      "games": 271
+      "rating": 1427,
+      "rd": 57,
+      "prog": 12,
+      "games": 272
     },
     "rank_info": {
       "rank": 95,
+      "delta_rating": -3,
+      "delta_games": 1,
       "peak_rank": 95,
       "peak_rating": 1430,
-      "last_played": 1758486325
+      "last_played": 1758522441
     }
   },
   {
@@ -1239,10 +1245,8 @@
     },
     "rank_info": {
       "rank": 5,
-      "delta_rating": -1,
-      "delta_games": 1,
       "peak_rank": 5,
-      "peak_rating": 2881,
+      "peak_rating": 2880,
       "last_played": 1758515166
     }
   },
@@ -1341,7 +1345,8 @@
       "games": 1541
     },
     "rank_info": {
-      "rank": 50,
+      "rank": 51,
+      "delta_rank": -1,
       "peak_rank": 50,
       "peak_rating": 1975,
       "last_played": 1758457669
@@ -1420,18 +1425,18 @@
   {
     "name": "duchessAI",
     "perf": {
-      "rating": 2554,
+      "rating": 2555,
       "rd": 45,
-      "prog": 7,
-      "games": 6431
+      "prog": 8,
+      "games": 6432
     },
     "rank_info": {
       "rank": 26,
       "delta_rating": 1,
-      "delta_games": 2,
+      "delta_games": 1,
       "peak_rank": 26,
-      "peak_rating": 2554,
-      "last_played": 1758515166
+      "peak_rating": 2555,
+      "last_played": 1758522441
     }
   },
   {
@@ -1665,23 +1670,25 @@
   {
     "name": "FataliiBot",
     "perf": {
-      "rating": 2199,
+      "rating": 2198,
       "rd": 45,
-      "prog": 2,
-      "games": 2437
+      "prog": -2,
+      "games": 2438
     },
     "rank_info": {
       "rank": 38,
+      "delta_rating": -1,
+      "delta_games": 1,
       "peak_rank": 38,
       "peak_rating": 2199,
-      "last_played": 1758493470
+      "last_played": 1758522441
     }
   },
   {
     "name": "fathzer-jchess",
     "perf": {
       "rating": 1994,
-      "rd": 118,
+      "rd": 119,
       "prog": 61,
       "games": 112,
       "prov": true
@@ -1932,18 +1939,18 @@
   {
     "name": "Goldfish-Engine",
     "perf": {
-      "rating": 2121,
+      "rating": 2124,
       "rd": 45,
       "prog": 3,
-      "games": 2452
+      "games": 2453
     },
     "rank_info": {
       "rank": 42,
-      "delta_rating": -4,
+      "delta_rating": 3,
       "delta_games": 1,
       "peak_rank": 42,
-      "peak_rating": 2125,
-      "last_played": 1758515166
+      "peak_rating": 2124,
+      "last_played": 1758522441
     }
   },
   {
@@ -2093,7 +2100,7 @@
     "name": "grandQ_AI",
     "perf": {
       "rating": 737,
-      "rd": 66,
+      "rd": 67,
       "prog": -12,
       "games": 1969
     },
@@ -2378,16 +2385,19 @@
   {
     "name": "jangine",
     "perf": {
-      "rating": 1970,
-      "rd": 48,
-      "prog": -7,
-      "games": 1588
+      "rating": 1976,
+      "rd": 47,
+      "prog": 7,
+      "games": 1589
     },
     "rank_info": {
-      "rank": 51,
-      "peak_rank": 51,
-      "peak_rating": 1970,
-      "last_played": 1758457669
+      "rank": 50,
+      "delta_rank": 1,
+      "delta_rating": 6,
+      "delta_games": 1,
+      "peak_rank": 50,
+      "peak_rating": 1976,
+      "last_played": 1758522441
     }
   },
   {
@@ -2406,16 +2416,18 @@
   {
     "name": "Jibbby",
     "perf": {
-      "rating": 1705,
-      "rd": 49,
-      "prog": -2,
-      "games": 1204
+      "rating": 1709,
+      "rd": 48,
+      "prog": 4,
+      "games": 1205
     },
     "rank_info": {
       "rank": 73,
+      "delta_rating": 4,
+      "delta_games": 1,
       "peak_rank": 73,
-      "peak_rating": 1705,
-      "last_played": 1758486325
+      "peak_rating": 1709,
+      "last_played": 1758522441
     }
   },
   {
@@ -2447,16 +2459,18 @@
   {
     "name": "joshsbot",
     "perf": {
-      "rating": 1543,
+      "rating": 1540,
       "rd": 45,
       "prog": -13,
-      "games": 344
+      "games": 345
     },
     "rank_info": {
       "rank": 87,
+      "delta_rating": -3,
+      "delta_games": 1,
       "peak_rank": 87,
       "peak_rating": 1543,
-      "last_played": 1758509215
+      "last_played": 1758522441
     }
   },
   {
@@ -2616,16 +2630,18 @@
   {
     "name": "lambergar",
     "perf": {
-      "rating": 2555,
+      "rating": 2558,
       "rd": 58,
-      "prog": -4,
-      "games": 50
+      "prog": 5,
+      "games": 51
     },
     "rank_info": {
       "rank": 25,
+      "delta_rating": 3,
+      "delta_games": 1,
       "peak_rank": 25,
-      "peak_rating": 2555,
-      "last_played": 1758486325
+      "peak_rating": 2558,
+      "last_played": 1758522441
     }
   },
   {
@@ -2853,8 +2869,6 @@
     },
     "rank_info": {
       "rank": 96,
-      "delta_rating": 1,
-      "delta_games": 2,
       "peak_rank": 96,
       "peak_rating": 1424,
       "last_played": 1758515166
@@ -3004,54 +3018,53 @@
   {
     "name": "maia1",
     "perf": {
-      "rating": 1609,
+      "rating": 1622,
       "rd": 45,
-      "prog": -23,
-      "games": 118859
+      "prog": 18,
+      "games": 118871
     },
     "rank_info": {
       "rank": 82,
-      "delta_rank": -1,
-      "delta_rating": -20,
-      "delta_games": 9,
-      "peak_rank": 81,
-      "peak_rating": 1629,
-      "last_played": 1758515166
+      "delta_rating": 13,
+      "delta_games": 12,
+      "peak_rank": 82,
+      "peak_rating": 1622,
+      "last_played": 1758522441
     }
   },
   {
     "name": "maia5",
     "perf": {
-      "rating": 1602,
+      "rating": 1613,
       "rd": 45,
-      "prog": -32,
-      "games": 43053
+      "prog": -9,
+      "games": 43055
     },
     "rank_info": {
-      "rank": 84,
-      "delta_rating": -2,
-      "delta_games": 1,
-      "peak_rank": 84,
-      "peak_rating": 1604,
-      "last_played": 1758515166
+      "rank": 83,
+      "delta_rank": 1,
+      "delta_rating": 11,
+      "delta_games": 2,
+      "peak_rank": 83,
+      "peak_rating": 1613,
+      "last_played": 1758522441
     }
   },
   {
     "name": "maia9",
     "perf": {
-      "rating": 1650,
+      "rating": 1654,
       "rd": 45,
-      "prog": 2,
-      "games": 41056
+      "prog": -11,
+      "games": 41063
     },
     "rank_info": {
       "rank": 79,
-      "delta_rank": -1,
-      "delta_rating": -9,
-      "delta_games": 1,
-      "peak_rank": 78,
-      "peak_rating": 1659,
-      "last_played": 1758515166
+      "delta_rating": 4,
+      "delta_games": 7,
+      "peak_rank": 79,
+      "peak_rating": 1654,
+      "last_played": 1758522441
     }
   },
   {
@@ -3725,16 +3738,15 @@
     "perf": {
       "rating": 2266,
       "rd": 45,
-      "prog": 1,
-      "games": 916
+      "prog": -3,
+      "games": 918
     },
     "rank_info": {
       "rank": 34,
-      "delta_rating": -2,
-      "delta_games": 1,
+      "delta_games": 2,
       "peak_rank": 34,
-      "peak_rating": 2268,
-      "last_played": 1758515166
+      "peak_rating": 2266,
+      "last_played": 1758522441
     }
   },
   {
@@ -3897,8 +3909,6 @@
     },
     "rank_info": {
       "rank": 40,
-      "delta_rating": 14,
-      "delta_games": 1,
       "peak_rank": 40,
       "peak_rating": 2191,
       "last_played": 1758515166
@@ -4004,7 +4014,8 @@
       "games": 6237
     },
     "rank_info": {
-      "rank": 51,
+      "rank": 52,
+      "delta_rank": -1,
       "peak_rank": 51,
       "peak_rating": 1970,
       "last_played": 1758249797
@@ -4054,18 +4065,18 @@
   {
     "name": "RavenEngine",
     "perf": {
-      "rating": 2240,
+      "rating": 2242,
       "rd": 45,
       "prog": -6,
-      "games": 332
+      "games": 333
     },
     "rank_info": {
       "rank": 35,
-      "delta_rating": -3,
+      "delta_rating": 2,
       "delta_games": 1,
       "peak_rank": 35,
-      "peak_rating": 2243,
-      "last_played": 1758515166
+      "peak_rating": 2242,
+      "last_played": 1758522441
     }
   },
   {
@@ -4217,8 +4228,6 @@
     },
     "rank_info": {
       "rank": 100,
-      "delta_rating": 7,
-      "delta_games": 1,
       "peak_rank": 100,
       "peak_rating": 1355,
       "last_played": 1758515166
@@ -4249,9 +4258,6 @@
     },
     "rank_info": {
       "rank": 81,
-      "delta_rank": 1,
-      "delta_rating": 25,
-      "delta_games": 10,
       "peak_rank": 81,
       "peak_rating": 1646,
       "last_played": 1758515166
@@ -4267,11 +4273,8 @@
     },
     "rank_info": {
       "rank": 80,
-      "delta_rank": -2,
-      "delta_rating": -10,
-      "delta_games": 2,
-      "peak_rank": 78,
-      "peak_rating": 1659,
+      "peak_rank": 80,
+      "peak_rating": 1649,
       "last_played": 1758515166
     }
   },
@@ -4368,8 +4371,6 @@
     },
     "rank_info": {
       "rank": 30,
-      "delta_rating": 5,
-      "delta_games": 2,
       "peak_rank": 30,
       "peak_rating": 2503,
       "last_played": 1758515166
@@ -4543,18 +4544,18 @@
   {
     "name": "sseh-c",
     "perf": {
-      "rating": 1947,
+      "rating": 1937,
       "rd": 45,
-      "prog": 1,
-      "games": 5197
+      "prog": -14,
+      "games": 5200
     },
     "rank_info": {
       "rank": 57,
-      "delta_rating": 2,
-      "delta_games": 1,
+      "delta_rating": -10,
+      "delta_games": 3,
       "peak_rank": 57,
       "peak_rating": 1947,
-      "last_played": 1758515166
+      "last_played": 1758522441
     }
   },
   {
@@ -4635,9 +4636,7 @@
       "prov": true
     },
     "rank_info": {
-      "delta_rating": -17,
-      "delta_games": 1,
-      "peak_rating": 1960,
+      "peak_rating": 1943,
       "last_played": 1758515166
     }
   },
@@ -4658,15 +4657,16 @@
     "name": "tbhOnBot",
     "perf": {
       "rating": 2851,
-      "rd": 68,
-      "prog": -34,
-      "games": 35
+      "rd": 67,
+      "prog": -32,
+      "games": 36
     },
     "rank_info": {
       "rank": 10,
+      "delta_games": 1,
       "peak_rank": 10,
       "peak_rating": 2851,
-      "last_played": 1758471975
+      "last_played": 1758522441
     }
   },
   {
@@ -4776,16 +4776,18 @@
   {
     "name": "TopasBot",
     "perf": {
-      "rating": 1997,
+      "rating": 1995,
       "rd": 45,
-      "prog": -5,
-      "games": 1722
+      "prog": -1,
+      "games": 1723
     },
     "rank_info": {
       "rank": 48,
+      "delta_rating": -2,
+      "delta_games": 1,
       "peak_rank": 48,
       "peak_rating": 1997,
-      "last_played": 1758509215
+      "last_played": 1758522441
     }
   },
   {
@@ -4937,11 +4939,8 @@
     },
     "rank_info": {
       "rank": 89,
-      "delta_rank": -1,
-      "delta_rating": -8,
-      "delta_games": 1,
-      "peak_rank": 88,
-      "peak_rating": 1540,
+      "peak_rank": 89,
+      "peak_rating": 1532,
       "last_played": 1758515166
     }
   },
@@ -5008,7 +5007,6 @@
     },
     "rank_info": {
       "rank": 88,
-      "delta_rank": 1,
       "peak_rank": 88,
       "peak_rating": 1535,
       "last_played": 1758349597
@@ -5056,16 +5054,18 @@
   {
     "name": "ViolentStockfish",
     "perf": {
-      "rating": 2321,
-      "rd": 96,
-      "prog": -53,
-      "games": 29
+      "rating": 2318,
+      "rd": 95,
+      "prog": -50,
+      "games": 30
     },
     "rank_info": {
       "rank": 33,
+      "delta_rating": -3,
+      "delta_games": 1,
       "peak_rank": 33,
       "peak_rating": 2321,
-      "last_played": 1758501608
+      "last_played": 1758522441
     }
   },
   {
@@ -5238,16 +5238,18 @@
   {
     "name": "YoBot_v2",
     "perf": {
-      "rating": 2871,
+      "rating": 2870,
       "rd": 45,
-      "games": 4373
+      "prog": -1,
+      "games": 4374
     },
     "rank_info": {
       "rank": 7,
+      "delta_rating": -1,
       "delta_games": 1,
       "peak_rank": 7,
       "peak_rating": 2871,
-      "last_played": 1758515166
+      "last_played": 1758522441
     }
   },
   {
