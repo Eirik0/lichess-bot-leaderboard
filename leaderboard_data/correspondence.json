@@ -224,8 +224,6 @@
     },
     "rank_info": {
       "rank": 6,
-      "delta_rating": 3,
-      "delta_games": 2,
       "peak_rank": 6,
       "peak_rating": 1420,
       "last_played": 1758947160
@@ -316,7 +314,7 @@
     "name": "duchessAI",
     "perf": {
       "rating": 2344,
-      "rd": 130,
+      "rd": 131,
       "prog": -53,
       "games": 106,
       "prov": true
@@ -371,16 +369,18 @@
   {
     "name": "GarboBot",
     "perf": {
-      "rating": 2041,
+      "rating": 2048,
       "rd": 61,
-      "prog": 29,
-      "games": 155
+      "prog": 31,
+      "games": 156
     },
     "rank_info": {
       "rank": 1,
+      "delta_rating": 7,
+      "delta_games": 1,
       "peak_rank": 1,
-      "peak_rating": 2041,
-      "last_played": 1758768228
+      "peak_rating": 2048,
+      "last_played": 1758954387
     }
   },
   {
@@ -526,7 +526,7 @@
     "name": "katzebot",
     "perf": {
       "rating": 1521,
-      "rd": 105,
+      "rd": 106,
       "prog": 93,
       "games": 164
     },
@@ -864,14 +864,16 @@
   {
     "name": "P-chessbot",
     "perf": {
-      "rating": 2087,
-      "rd": 388,
-      "games": 1,
+      "rating": 1867,
+      "rd": 262,
+      "games": 2,
       "prov": true
     },
     "rank_info": {
+      "delta_rating": -220,
+      "delta_games": 1,
       "peak_rating": 2087,
-      "last_played": 1757600739
+      "last_played": 1758954387
     }
   },
   {
