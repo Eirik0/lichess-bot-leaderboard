@@ -162,7 +162,8 @@
       "games": 742
     },
     "rank_info": {
-      "rank": 4,
+      "rank": 5,
+      "delta_rank": -1,
       "peak_rank": 4,
       "peak_rating": 2347,
       "last_played": 1758601583
@@ -264,16 +265,18 @@
   {
     "name": "GoblinAjedrezAI",
     "perf": {
-      "rating": 2335,
+      "rating": 2326,
       "rd": 58,
-      "prog": 12,
-      "games": 46
+      "prog": 17,
+      "games": 47
     },
     "rank_info": {
       "rank": 6,
+      "delta_rating": -9,
+      "delta_games": 1,
       "peak_rank": 6,
       "peak_rating": 2335,
-      "last_played": 1759487138
+      "last_played": 1759566374
     }
   },
   {
@@ -772,16 +775,19 @@
   {
     "name": "TacticalBot",
     "perf": {
-      "rating": 2345,
+      "rating": 2351,
       "rd": 47,
-      "prog": 7,
-      "games": 146
+      "prog": 13,
+      "games": 147
     },
     "rank_info": {
-      "rank": 5,
-      "peak_rank": 5,
-      "peak_rating": 2345,
-      "last_played": 1759494483
+      "rank": 4,
+      "delta_rank": 1,
+      "delta_rating": 6,
+      "delta_games": 1,
+      "peak_rank": 4,
+      "peak_rating": 2351,
+      "last_played": 1759566374
     }
   },
   {
@@ -874,7 +880,7 @@
     "name": "virus_exe-bot",
     "perf": {
       "rating": 2013,
-      "rd": 55,
+      "rd": 56,
       "prog": 18,
       "games": 109
     },
