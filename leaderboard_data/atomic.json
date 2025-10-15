@@ -431,7 +431,6 @@
     },
     "rank_info": {
       "rank": 20,
-      "delta_games": 2,
       "peak_rank": 20,
       "peak_rating": 1486,
       "last_played": 1760538356
@@ -848,16 +847,18 @@
   {
     "name": "pawnrobot",
     "perf": {
-      "rating": 1321,
+      "rating": 1318,
       "rd": 54,
-      "prog": -8,
-      "games": 3038
+      "prog": -11,
+      "games": 3039
     },
     "rank_info": {
       "rank": 21,
+      "delta_rating": -3,
+      "delta_games": 1,
       "peak_rank": 21,
       "peak_rating": 1321,
-      "last_played": 1760466424
+      "last_played": 1760545566
     }
   },
   {
@@ -1163,6 +1164,19 @@
     "rank_info": {
       "peak_rating": 2714,
       "last_played": 1747379130
+    }
+  },
+  {
+    "name": "varient-chess-bot1",
+    "perf": {
+      "rating": 1649,
+      "rd": 311,
+      "games": 1,
+      "prov": true
+    },
+    "rank_info": {
+      "peak_rating": 1649,
+      "last_played": 1760545566
     }
   },
   {
