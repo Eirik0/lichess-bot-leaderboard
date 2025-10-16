@@ -61,8 +61,6 @@
       "prov": true
     },
     "rank_info": {
-      "delta_rating": 42,
-      "delta_games": 1,
       "peak_rating": 1359,
       "last_played": 1760596028
     }
@@ -437,8 +435,9 @@
       "games": 72
     },
     "rank_info": {
-      "rank": 8,
-      "peak_rank": 8,
+      "rank": 7,
+      "delta_rank": 1,
+      "peak_rank": 7,
       "peak_rating": 2194,
       "last_played": 1760264706
     }
@@ -446,16 +445,18 @@
   {
     "name": "GoblinAjedrezAI",
     "perf": {
-      "rating": 2227,
+      "rating": 2228,
       "rd": 45,
       "prog": 2,
-      "games": 129
+      "games": 131
     },
     "rank_info": {
       "rank": 5,
+      "delta_rating": 1,
+      "delta_games": 2,
       "peak_rank": 5,
-      "peak_rating": 2227,
-      "last_played": 1760523963
+      "peak_rating": 2228,
+      "last_played": 1760603219
     }
   },
   {
@@ -873,10 +874,8 @@
     },
     "rank_info": {
       "rank": 19,
-      "delta_rating": -5,
-      "delta_games": 1,
       "peak_rank": 19,
-      "peak_rating": 1091,
+      "peak_rating": 1086,
       "last_played": 1760596028
     }
   },
@@ -897,16 +896,19 @@
   {
     "name": "PINEAPPLEMASK",
     "perf": {
-      "rating": 2199,
+      "rating": 2193,
       "rd": 48,
-      "prog": -5,
-      "games": 365
+      "prog": -12,
+      "games": 366
     },
     "rank_info": {
-      "rank": 7,
+      "rank": 8,
+      "delta_rank": -1,
+      "delta_rating": -6,
+      "delta_games": 1,
       "peak_rank": 7,
       "peak_rating": 2199,
-      "last_played": 1760315987
+      "last_played": 1760603219
     }
   },
   {
@@ -996,16 +998,18 @@
   {
     "name": "Speeedrunchessgames",
     "perf": {
-      "rating": 2255,
+      "rating": 2263,
       "rd": 45,
-      "prog": -9,
-      "games": 491
+      "prog": 3,
+      "games": 495
     },
     "rank_info": {
       "rank": 3,
+      "delta_rating": 8,
+      "delta_games": 4,
       "peak_rank": 3,
-      "peak_rating": 2255,
-      "last_played": 1760523963
+      "peak_rating": 2263,
+      "last_played": 1760603219
     }
   },
   {
@@ -1065,16 +1069,18 @@
   {
     "name": "tbhOnBot",
     "perf": {
-      "rating": 2185,
+      "rating": 2179,
       "rd": 50,
       "prog": -8,
-      "games": 114
+      "games": 115
     },
     "rank_info": {
       "rank": 10,
+      "delta_rating": -6,
+      "delta_games": 1,
       "peak_rank": 10,
       "peak_rating": 2185,
-      "last_played": 1760523963
+      "last_played": 1760603219
     }
   },
   {
