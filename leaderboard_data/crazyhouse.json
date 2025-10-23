@@ -302,8 +302,9 @@
       "games": 2386
     },
     "rank_info": {
-      "rank": 5,
-      "peak_rank": 5,
+      "rank": 4,
+      "delta_rank": 1,
+      "peak_rank": 4,
       "peak_rating": 2232,
       "last_played": 1761208022
     }
@@ -444,16 +445,19 @@
   {
     "name": "GoblinAjedrezAI",
     "perf": {
-      "rating": 2233,
+      "rating": 2230,
       "rd": 45,
-      "prog": 15,
-      "games": 144
+      "prog": 17,
+      "games": 145
     },
     "rank_info": {
-      "rank": 4,
+      "rank": 5,
+      "delta_rank": -1,
+      "delta_rating": -3,
+      "delta_games": 1,
       "peak_rank": 4,
       "peak_rating": 2233,
-      "last_played": 1761128771
+      "last_played": 1761222508
     }
   },
   {
@@ -1044,14 +1048,18 @@
   {
     "name": "TacticalBot",
     "perf": {
-      "rating": 2370,
+      "rating": 2373,
       "rd": 45,
       "prog": 10,
-      "games": 297
+      "games": 298
     },
     "rank_info": {
-      "peak_rating": 2370,
-      "last_played": 1761208022
+      "rank": 1,
+      "delta_rank": -1,
+      "delta_rating": 3,
+      "delta_games": 1,
+      "peak_rating": 2373,
+      "last_played": 1761222508
     }
   },
   {
