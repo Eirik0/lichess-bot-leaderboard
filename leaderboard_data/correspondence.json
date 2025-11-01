@@ -273,8 +273,9 @@
       "games": 155
     },
     "rank_info": {
-      "rank": 6,
-      "peak_rank": 6,
+      "rank": 5,
+      "delta_rank": 1,
+      "peak_rank": 5,
       "peak_rating": 1426,
       "last_played": 1761668817
     }
@@ -425,7 +426,8 @@
       "games": 297
     },
     "rank_info": {
-      "rank": 2,
+      "rank": 3,
+      "delta_rank": -1,
       "peak_rank": 2,
       "peak_rating": 2003,
       "last_played": 1761812805
@@ -548,8 +550,7 @@
       "games": 141
     },
     "rank_info": {
-      "rank": 4,
-      "peak_rank": 4,
+      "delta_rank": 4,
       "peak_rating": 1958,
       "last_played": 1760811993
     }
@@ -563,8 +564,9 @@
       "games": 627
     },
     "rank_info": {
-      "rank": 5,
-      "peak_rank": 5,
+      "rank": 4,
+      "delta_rank": 1,
+      "peak_rank": 4,
       "peak_rating": 1860,
       "last_played": 1761337567
     }
@@ -1015,6 +1017,19 @@
     }
   },
   {
+    "name": "Pix-Chess",
+    "perf": {
+      "rating": 1882,
+      "rd": 464,
+      "games": 1,
+      "prov": true
+    },
+    "rank_info": {
+      "peak_rating": 1882,
+      "last_played": 1762028708
+    }
+  },
+  {
     "name": "PositionalAI",
     "perf": {
       "rating": 2035,
@@ -1083,16 +1098,19 @@
   {
     "name": "RadianceEngine",
     "perf": {
-      "rating": 1999,
-      "rd": 84,
-      "prog": 34,
-      "games": 192
+      "rating": 2010,
+      "rd": 83,
+      "prog": 41,
+      "games": 193
     },
     "rank_info": {
-      "rank": 3,
-      "peak_rank": 3,
-      "peak_rating": 1999,
-      "last_played": 1761301571
+      "rank": 2,
+      "delta_rank": 1,
+      "delta_rating": 11,
+      "delta_games": 1,
+      "peak_rank": 2,
+      "peak_rating": 2010,
+      "last_played": 1762028708
     }
   },
   {
