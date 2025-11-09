@@ -170,8 +170,6 @@
       "prov": true
     },
     "rank_info": {
-      "delta_rating": 33,
-      "delta_games": 1,
       "peak_rating": 2408,
       "last_played": 1762705557
     }
@@ -418,16 +416,19 @@
   {
     "name": "GoblinAjedrezAI",
     "perf": {
-      "rating": 2359,
-      "rd": 59,
-      "prog": -100,
-      "games": 59
+      "rating": 2349,
+      "rd": 58,
+      "prog": -111,
+      "games": 60
     },
     "rank_info": {
-      "rank": 8,
+      "rank": 9,
+      "delta_rank": -1,
+      "delta_rating": -10,
+      "delta_games": 1,
       "peak_rank": 8,
       "peak_rating": 2359,
-      "last_played": 1762683933
+      "last_played": 1762712792
     }
   },
   {
@@ -502,18 +503,18 @@
   {
     "name": "is_BOSS",
     "perf": {
-      "rating": 2329,
-      "rd": 46,
-      "prog": 38,
-      "games": 269
+      "rating": 2335,
+      "rd": 45,
+      "prog": 33,
+      "games": 270
     },
     "rank_info": {
       "rank": 10,
-      "delta_rating": -5,
+      "delta_rating": 6,
       "delta_games": 1,
       "peak_rank": 10,
-      "peak_rating": 2334,
-      "last_played": 1762705557
+      "peak_rating": 2335,
+      "last_played": 1762712792
     }
   },
   {
@@ -628,16 +629,18 @@
   {
     "name": "MaggiChess16",
     "perf": {
-      "rating": 2501,
+      "rating": 2492,
       "rd": 56,
-      "prog": -2,
-      "games": 215
+      "prog": -4,
+      "games": 216
     },
     "rank_info": {
       "rank": 3,
+      "delta_rating": -9,
+      "delta_games": 1,
       "peak_rank": 3,
       "peak_rating": 2501,
-      "last_played": 1762554317
+      "last_played": 1762712792
     }
   },
   {
@@ -666,6 +669,19 @@
     "rank_info": {
       "peak_rating": 680,
       "last_played": 1747379130
+    }
+  },
+  {
+    "name": "MEGA-NOOB-BOT",
+    "perf": {
+      "rating": 2200,
+      "rd": 493,
+      "games": 1,
+      "prov": true
+    },
+    "rank_info": {
+      "peak_rating": 2200,
+      "last_played": 1762712792
     }
   },
   {
@@ -985,8 +1001,9 @@
       "games": 2075
     },
     "rank_info": {
-      "rank": 9,
-      "peak_rank": 9,
+      "rank": 8,
+      "delta_rank": 1,
+      "peak_rank": 8,
       "peak_rating": 2352,
       "last_played": 1762410447
     }
