@@ -261,8 +261,6 @@
     },
     "rank_info": {
       "rank": 8,
-      "delta_rating": 15,
-      "delta_games": 1,
       "peak_rank": 8,
       "peak_rating": 2117,
       "last_played": 1762864094
@@ -391,16 +389,19 @@
   {
     "name": "FayEFish",
     "perf": {
-      "rating": 2258,
-      "rd": 84,
-      "prog": 12,
-      "games": 34
+      "rating": 2230,
+      "rd": 82,
+      "prog": -23,
+      "games": 35
     },
     "rank_info": {
-      "rank": 2,
+      "rank": 3,
+      "delta_rank": -1,
+      "delta_rating": -28,
+      "delta_games": 1,
       "peak_rank": 2,
       "peak_rating": 2258,
-      "last_played": 1762856777
+      "last_played": 1762871162
     }
   },
   {
@@ -583,9 +584,7 @@
       "prov": true
     },
     "rank_info": {
-      "delta_rating": -93,
-      "delta_games": 1,
-      "peak_rating": 2004,
+      "peak_rating": 1911,
       "last_played": 1762864094
     }
   },
@@ -936,8 +935,9 @@
       "games": 992
     },
     "rank_info": {
-      "rank": 3,
-      "peak_rank": 3,
+      "rank": 2,
+      "delta_rank": 1,
+      "peak_rank": 2,
       "peak_rating": 2233,
       "last_played": 1761920761
     }
@@ -1118,7 +1118,7 @@
     "name": "ToromBot",
     "perf": {
       "rating": 2307,
-      "rd": 57,
+      "rd": 58,
       "prog": 35,
       "games": 839
     },
