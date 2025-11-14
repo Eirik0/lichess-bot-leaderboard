@@ -155,8 +155,6 @@
       "prov": true
     },
     "rank_info": {
-      "delta_rating": 8,
-      "delta_games": 1,
       "peak_rating": 2544,
       "last_played": 1763144823
     }
@@ -591,9 +589,9 @@
       "games": 637
     },
     "rank_info": {
-      "rank": 5,
-      "delta_games": 1,
-      "peak_rank": 5,
+      "rank": 4,
+      "delta_rank": 1,
+      "peak_rank": 4,
       "peak_rating": 1806,
       "last_played": 1763144823
     }
@@ -1126,16 +1124,18 @@
   {
     "name": "RadianceEngine",
     "perf": {
-      "rating": 1920,
-      "rd": 75,
-      "prog": -90,
-      "games": 204
+      "rating": 1930,
+      "rd": 73,
+      "prog": -82,
+      "games": 205
     },
     "rank_info": {
       "rank": 3,
+      "delta_rating": 10,
+      "delta_games": 1,
       "peak_rank": 3,
-      "peak_rating": 1920,
-      "last_played": 1763137624
+      "peak_rating": 1930,
+      "last_played": 1763151971
     }
   },
   {
@@ -1339,17 +1339,19 @@
   {
     "name": "vanibot",
     "perf": {
-      "rating": 1808,
-      "rd": 62,
-      "prog": 100,
-      "games": 50
+      "rating": 1801,
+      "rd": 61,
+      "prog": 73,
+      "games": 51
     },
     "rank_info": {
-      "rank": 4,
+      "rank": 5,
+      "delta_rank": -1,
+      "delta_rating": -7,
       "delta_games": 1,
       "peak_rank": 4,
       "peak_rating": 1808,
-      "last_played": 1763144823
+      "last_played": 1763151971
     }
   },
   {
