@@ -115,7 +115,6 @@
       "games": 571
     },
     "rank_info": {
-      "delta_rank": 8,
       "peak_rating": 1914,
       "last_played": 1762028708
     }
@@ -142,8 +141,8 @@
       "games": 65
     },
     "rank_info": {
-      "rank": 11,
-      "delta_rank": 1,
+      "rank": 12,
+      "delta_rank": -1,
       "peak_rank": 11,
       "peak_rating": 1207,
       "last_played": 1762410447
@@ -173,8 +172,8 @@
       "games": 3190
     },
     "rank_info": {
-      "rank": 8,
-      "delta_rank": 1,
+      "rank": 9,
+      "delta_rank": -1,
       "peak_rank": 8,
       "peak_rating": 1541,
       "last_played": 1763130351
@@ -312,8 +311,8 @@
       "games": 136
     },
     "rank_info": {
-      "rank": 9,
-      "delta_rank": 1,
+      "rank": 10,
+      "delta_rank": -1,
       "peak_rank": 9,
       "peak_rating": 1523,
       "last_played": 1763130351
@@ -521,6 +520,19 @@
     }
   },
   {
+    "name": "NewChessEngine-ai",
+    "perf": {
+      "rating": 1453,
+      "rd": 435,
+      "games": 2,
+      "prov": true
+    },
+    "rank_info": {
+      "peak_rating": 1453,
+      "last_played": 1763245443
+    }
+  },
+  {
     "name": "newengine2022",
     "perf": {
       "rating": 2071,
@@ -634,8 +646,8 @@
       "games": 2943
     },
     "rank_info": {
-      "rank": 10,
-      "delta_rank": 1,
+      "rank": 11,
+      "delta_rank": -1,
       "peak_rank": 10,
       "peak_rating": 1226,
       "last_played": 1762957564
@@ -687,14 +699,18 @@
   {
     "name": "RaspFish",
     "perf": {
-      "rating": 2173,
+      "rating": 2176,
       "rd": 66,
-      "prog": -19,
-      "games": 767
+      "prog": -20,
+      "games": 769
     },
     "rank_info": {
-      "peak_rating": 2173,
-      "last_played": 1761229566
+      "rank": 7,
+      "delta_rank": -7,
+      "delta_rating": 3,
+      "delta_games": 2,
+      "peak_rating": 2176,
+      "last_played": 1763245443
     }
   },
   {
@@ -915,7 +931,8 @@
       "games": 123
     },
     "rank_info": {
-      "rank": 7,
+      "rank": 8,
+      "delta_rank": -1,
       "peak_rank": 7,
       "peak_rating": 2159,
       "last_played": 1762943171
