@@ -349,8 +349,9 @@
       "games": 124
     },
     "rank_info": {
-      "rank": 18,
-      "peak_rank": 18,
+      "rank": 17,
+      "delta_rank": 1,
+      "peak_rank": 17,
       "peak_rating": 1230,
       "last_played": 1763461576
     }
@@ -719,7 +720,7 @@
     "name": "OpeningsBot",
     "perf": {
       "rating": 1717,
-      "rd": 85,
+      "rd": 86,
       "prog": -12,
       "games": 490
     },
@@ -731,18 +732,34 @@
     }
   },
   {
-    "name": "pawnrobot",
+    "name": "P-chessbot",
     "perf": {
-      "rating": 1233,
-      "rd": 72,
-      "prog": 16,
-      "games": 1594
+      "rating": 1618,
+      "rd": 338,
+      "games": 1,
+      "prov": true
     },
     "rank_info": {
-      "rank": 17,
+      "peak_rating": 1618,
+      "last_played": 1763663235
+    }
+  },
+  {
+    "name": "pawnrobot",
+    "perf": {
+      "rating": 1228,
+      "rd": 72,
+      "prog": 11,
+      "games": 1595
+    },
+    "rank_info": {
+      "rank": 18,
+      "delta_rank": -1,
+      "delta_rating": -5,
+      "delta_games": 1,
       "peak_rank": 17,
       "peak_rating": 1233,
-      "last_played": 1763562366
+      "last_played": 1763663235
     }
   },
   {
