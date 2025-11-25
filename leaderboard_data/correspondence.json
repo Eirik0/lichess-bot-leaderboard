@@ -302,7 +302,6 @@
     },
     "rank_info": {
       "rank": 8,
-      "delta_games": 1,
       "peak_rank": 8,
       "peak_rating": 1509,
       "last_played": 1764088031
@@ -504,16 +503,18 @@
   {
     "name": "grandQ_AI",
     "perf": {
-      "rating": 1158,
-      "rd": 80,
-      "prog": 16,
-      "games": 1062
+      "rating": 1154,
+      "rd": 79,
+      "prog": -19,
+      "games": 1065
     },
     "rank_info": {
       "rank": 10,
+      "delta_rating": -4,
+      "delta_games": 3,
       "peak_rank": 10,
       "peak_rating": 1158,
-      "last_played": 1764023167
+      "last_played": 1764095244
     }
   },
   {
@@ -629,16 +630,18 @@
   {
     "name": "katzebot",
     "perf": {
-      "rating": 1485,
-      "rd": 90,
-      "prog": -36,
-      "games": 175
+      "rating": 1475,
+      "rd": 88,
+      "prog": -28,
+      "games": 176
     },
     "rank_info": {
       "rank": 9,
+      "delta_rating": -10,
+      "delta_games": 1,
       "peak_rank": 9,
       "peak_rating": 1485,
-      "last_played": 1764015987
+      "last_played": 1764095244
     }
   },
   {
@@ -1027,9 +1030,10 @@
     "name": "pawnocchio_bot",
     "perf": {
       "rating": 2623,
-      "rd": 105,
+      "rd": 110,
       "prog": 80,
-      "games": 66
+      "games": 66,
+      "prov": true
     },
     "rank_info": {
       "peak_rating": 2623,
@@ -1454,7 +1458,7 @@
     "name": "WoodStyleEngine",
     "perf": {
       "rating": 2376,
-      "rd": 167,
+      "rd": 168,
       "games": 10,
       "prov": true
     },
