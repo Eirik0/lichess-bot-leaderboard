@@ -305,8 +305,6 @@
     },
     "rank_info": {
       "rank": 9,
-      "delta_rating": 2,
-      "delta_games": 1,
       "peak_rank": 9,
       "peak_rating": 2395,
       "last_played": 1764339943
@@ -441,7 +439,6 @@
     },
     "rank_info": {
       "rank": 1,
-      "delta_rank": 1,
       "peak_rank": 1,
       "peak_rating": 2504,
       "last_played": 1764318423
@@ -456,8 +453,9 @@
       "games": 67
     },
     "rank_info": {
-      "rank": 7,
-      "peak_rank": 7,
+      "rank": 6,
+      "delta_rank": 1,
+      "peak_rank": 6,
       "peak_rating": 2470,
       "last_played": 1764059224
     }
@@ -465,16 +463,18 @@
   {
     "name": "GoblinAjedrezAI",
     "perf": {
-      "rating": 2351,
-      "rd": 54,
-      "prog": 10,
-      "games": 81
+      "rating": 2354,
+      "rd": 53,
+      "prog": 4,
+      "games": 82
     },
     "rank_info": {
       "rank": 12,
+      "delta_rating": 3,
+      "delta_games": 1,
       "peak_rank": 12,
-      "peak_rating": 2351,
-      "last_played": 1764275159
+      "peak_rating": 2354,
+      "last_played": 1764347218
     }
   },
   {
@@ -548,19 +548,19 @@
   {
     "name": "is_BOSS",
     "perf": {
-      "rating": 2499,
+      "rating": 2497,
       "rd": 45,
-      "prog": 2,
-      "games": 424
+      "prog": -3,
+      "games": 425
     },
     "rank_info": {
-      "rank": 2,
-      "delta_rank": 1,
-      "delta_rating": 4,
-      "delta_games": 2,
+      "rank": 3,
+      "delta_rank": -1,
+      "delta_rating": -2,
+      "delta_games": 1,
       "peak_rank": 2,
       "peak_rating": 2499,
-      "last_played": 1764339943
+      "last_played": 1764347218
     }
   },
   {
@@ -689,16 +689,19 @@
   {
     "name": "MaggiChess16",
     "perf": {
-      "rating": 2473,
+      "rating": 2468,
       "rd": 47,
-      "prog": -2,
-      "games": 254
+      "prog": -6,
+      "games": 256
     },
     "rank_info": {
-      "rank": 5,
+      "rank": 7,
+      "delta_rank": -2,
+      "delta_rating": -5,
+      "delta_games": 2,
       "peak_rank": 5,
       "peak_rating": 2473,
-      "last_played": 1764318423
+      "last_played": 1764347218
     }
   },
   {
@@ -1070,7 +1073,7 @@
     "name": "RaspFish",
     "perf": {
       "rating": 2382,
-      "rd": 56,
+      "rd": 57,
       "prog": 13,
       "games": 2114
     },
@@ -1117,8 +1120,9 @@
       "games": 116
     },
     "rank_info": {
-      "rank": 6,
-      "peak_rank": 6,
+      "rank": 5,
+      "delta_rank": 1,
+      "peak_rank": 5,
       "peak_rating": 2471,
       "last_played": 1764318423
     }
@@ -1223,11 +1227,8 @@
     },
     "rank_info": {
       "rank": 2,
-      "delta_rank": -1,
-      "delta_rating": -7,
-      "delta_games": 1,
-      "peak_rank": 1,
-      "peak_rating": 2506,
+      "peak_rank": 2,
+      "peak_rating": 2499,
       "last_played": 1764339943
     }
   },
