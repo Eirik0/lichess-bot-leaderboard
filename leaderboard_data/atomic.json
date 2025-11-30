@@ -474,16 +474,19 @@
   {
     "name": "GoblinAjedrezAI",
     "perf": {
-      "rating": 2363,
+      "rating": 2358,
       "rd": 50,
       "prog": 19,
-      "games": 90
+      "games": 91
     },
     "rank_info": {
-      "rank": 11,
+      "rank": 12,
+      "delta_rank": -1,
+      "delta_rating": -5,
+      "delta_games": 1,
       "peak_rank": 11,
       "peak_rating": 2363,
-      "last_played": 1764527212
+      "last_played": 1764541524
     }
   },
   {
@@ -557,16 +560,18 @@
   {
     "name": "is_BOSS",
     "perf": {
-      "rating": 2492,
+      "rating": 2496,
       "rd": 45,
-      "prog": -6,
-      "games": 444
+      "prog": -2,
+      "games": 445
     },
     "rank_info": {
       "rank": 1,
+      "delta_rating": 4,
+      "delta_games": 1,
       "peak_rank": 1,
-      "peak_rating": 2492,
-      "last_played": 1764527212
+      "peak_rating": 2496,
+      "last_played": 1764541524
     }
   },
   {
@@ -817,7 +822,7 @@
     "name": "NewChessEngine-ai",
     "perf": {
       "rating": 2194,
-      "rd": 119,
+      "rd": 120,
       "prog": -3,
       "games": 14,
       "prov": true
@@ -1013,8 +1018,9 @@
       "games": 136
     },
     "rank_info": {
-      "rank": 12,
-      "peak_rank": 12,
+      "rank": 11,
+      "delta_rank": 1,
+      "peak_rank": 11,
       "peak_rating": 2361,
       "last_played": 1764505671
     }
