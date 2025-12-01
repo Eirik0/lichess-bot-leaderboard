@@ -331,8 +331,8 @@
       "games": 398
     },
     "rank_info": {
-      "rank": 2,
-      "delta_rank": 1,
+      "rank": 3,
+      "delta_rank": -1,
       "peak_rank": 2,
       "peak_rating": 2490,
       "last_played": 1763900865
@@ -438,8 +438,8 @@
       "games": 36
     },
     "rank_info": {
-      "rank": 2,
-      "delta_rank": 1,
+      "rank": 3,
+      "delta_rank": -1,
       "peak_rank": 2,
       "peak_rating": 2490,
       "last_played": 1764498336
@@ -477,14 +477,12 @@
     "name": "GoblinAjedrezAI",
     "perf": {
       "rating": 2364,
-      "rd": 49,
+      "rd": 50,
       "prog": 10,
       "games": 93
     },
     "rank_info": {
       "rank": 12,
-      "delta_rating": 6,
-      "delta_games": 2,
       "peak_rank": 12,
       "peak_rating": 2364,
       "last_played": 1764613659
@@ -519,15 +517,17 @@
   {
     "name": "HakoAI",
     "perf": {
-      "rating": 1904,
-      "rd": 125,
-      "prog": 99,
-      "games": 20,
+      "rating": 1901,
+      "rd": 124,
+      "prog": 96,
+      "games": 21,
       "prov": true
     },
     "rank_info": {
+      "delta_rating": -3,
+      "delta_games": 1,
       "peak_rating": 1904,
-      "last_played": 1764519983
+      "last_played": 1764620759
     }
   },
   {
@@ -561,19 +561,19 @@
   {
     "name": "is_BOSS",
     "perf": {
-      "rating": 2490,
+      "rating": 2494,
       "rd": 45,
-      "prog": -8,
-      "games": 449
+      "prog": -2,
+      "games": 451
     },
     "rank_info": {
-      "rank": 2,
-      "delta_rank": -1,
-      "delta_rating": -4,
+      "rank": 1,
+      "delta_rank": 1,
+      "delta_rating": 4,
       "delta_games": 2,
       "peak_rank": 1,
       "peak_rating": 2494,
-      "last_played": 1764613659
+      "last_played": 1764620759
     }
   },
   {
@@ -1014,16 +1014,18 @@
   {
     "name": "PINEAPPLEMASK",
     "perf": {
-      "rating": 2371,
+      "rating": 2366,
       "rd": 51,
-      "prog": -9,
-      "games": 137
+      "prog": -7,
+      "games": 138
     },
     "rank_info": {
       "rank": 11,
+      "delta_rating": -5,
+      "delta_games": 1,
       "peak_rank": 11,
       "peak_rating": 2371,
-      "last_played": 1764606450
+      "last_played": 1764620759
     }
   },
   {
@@ -1130,8 +1132,8 @@
       "games": 133
     },
     "rank_info": {
-      "rank": 1,
-      "delta_rank": 1,
+      "rank": 2,
+      "delta_rank": -1,
       "peak_rank": 1,
       "peak_rating": 2491,
       "last_played": 1764498336
@@ -1343,7 +1345,7 @@
     "name": "VEER-OMEGA-BOT",
     "perf": {
       "rating": 2249,
-      "rd": 70,
+      "rd": 71,
       "prog": -16,
       "games": 235
     },
