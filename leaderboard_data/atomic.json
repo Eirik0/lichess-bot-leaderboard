@@ -331,8 +331,9 @@
       "games": 398
     },
     "rank_info": {
-      "rank": 3,
-      "peak_rank": 3,
+      "rank": 2,
+      "delta_rank": 1,
+      "peak_rank": 2,
       "peak_rating": 2490,
       "last_played": 1763900865
     }
@@ -437,8 +438,9 @@
       "games": 36
     },
     "rank_info": {
-      "rank": 3,
-      "peak_rank": 3,
+      "rank": 2,
+      "delta_rank": 1,
+      "peak_rank": 2,
       "peak_rating": 2490,
       "last_played": 1764498336
     }
@@ -557,16 +559,19 @@
   {
     "name": "is_BOSS",
     "perf": {
-      "rating": 2491,
+      "rating": 2490,
       "rd": 45,
-      "prog": -9,
-      "games": 454
+      "prog": -6,
+      "games": 456
     },
     "rank_info": {
-      "rank": 1,
+      "rank": 2,
+      "delta_rank": -1,
+      "delta_rating": -1,
+      "delta_games": 2,
       "peak_rank": 1,
       "peak_rating": 2491,
-      "last_played": 1764636037
+      "last_played": 1764692835
     }
   },
   {
@@ -1223,15 +1228,16 @@
     "name": "tbhOnBot",
     "perf": {
       "rating": 2478,
-      "rd": 50,
-      "prog": -46,
-      "games": 151
+      "rd": 49,
+      "prog": -38,
+      "games": 153
     },
     "rank_info": {
       "rank": 5,
+      "delta_games": 2,
       "peak_rank": 5,
       "peak_rating": 2478,
-      "last_played": 1764599176
+      "last_played": 1764692835
     }
   },
   {
@@ -1348,7 +1354,7 @@
     "name": "virus_exe-bot",
     "perf": {
       "rating": 2147,
-      "rd": 88,
+      "rd": 90,
       "prog": 56,
       "games": 49
     },
