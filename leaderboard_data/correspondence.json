@@ -460,16 +460,18 @@
   {
     "name": "GarboBot",
     "perf": {
-      "rating": 1992,
+      "rating": 1989,
       "rd": 53,
       "prog": 8,
-      "games": 326
+      "games": 327
     },
     "rank_info": {
       "rank": 3,
+      "delta_rating": -3,
+      "delta_games": 1,
       "peak_rank": 3,
       "peak_rating": 1992,
-      "last_played": 1764678503
+      "last_played": 1764779241
     }
   },
   {
@@ -983,18 +985,18 @@
   {
     "name": "OpeningsBot",
     "perf": {
-      "rating": 2222,
-      "rd": 72,
-      "prog": -51,
-      "games": 928
+      "rating": 2230,
+      "rd": 71,
+      "prog": -16,
+      "games": 930
     },
     "rank_info": {
       "rank": 2,
-      "delta_rating": -15,
-      "delta_games": 1,
+      "delta_rating": 8,
+      "delta_games": 2,
       "peak_rank": 2,
-      "peak_rating": 2237,
-      "last_played": 1764772024
+      "peak_rating": 2230,
+      "last_played": 1764779241
     }
   },
   {
@@ -1087,8 +1089,6 @@
       "prov": true
     },
     "rank_info": {
-      "delta_rating": 196,
-      "delta_games": 1,
       "peak_rating": 2298,
       "last_played": 1764772024
     }
@@ -1511,7 +1511,7 @@
     "name": "Zimbabwean_chessbot",
     "perf": {
       "rating": 2249,
-      "rd": 291,
+      "rd": 292,
       "games": 1,
       "prov": true
     },
