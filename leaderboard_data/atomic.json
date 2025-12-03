@@ -332,7 +332,6 @@
     },
     "rank_info": {
       "rank": 2,
-      "delta_rank": 1,
       "peak_rank": 2,
       "peak_rating": 2490,
       "last_played": 1763900865
@@ -439,7 +438,6 @@
     },
     "rank_info": {
       "rank": 2,
-      "delta_rank": 1,
       "peak_rank": 2,
       "peak_rating": 2490,
       "last_played": 1764498336
@@ -483,8 +481,7 @@
     },
     "rank_info": {
       "rank": 12,
-      "delta_rank": -1,
-      "peak_rank": 11,
+      "peak_rank": 12,
       "peak_rating": 2373,
       "last_played": 1764714315
     }
@@ -520,15 +517,17 @@
   {
     "name": "HakoAI",
     "perf": {
-      "rating": 1895,
-      "rd": 122,
-      "prog": 92,
-      "games": 23,
+      "rating": 1892,
+      "rd": 121,
+      "prog": 91,
+      "games": 24,
       "prov": true
     },
     "rank_info": {
+      "delta_rating": -3,
+      "delta_games": 1,
       "peak_rating": 1895,
-      "last_played": 1764700055
+      "last_played": 1764786453
     }
   },
   {
@@ -564,17 +563,15 @@
     "perf": {
       "rating": 2488,
       "rd": 45,
-      "prog": -3,
-      "games": 468
+      "prog": -6,
+      "games": 469
     },
     "rank_info": {
       "rank": 4,
-      "delta_rank": -2,
-      "delta_rating": -9,
-      "delta_games": 2,
-      "peak_rank": 2,
-      "peak_rating": 2497,
-      "last_played": 1764779241
+      "delta_games": 1,
+      "peak_rank": 4,
+      "peak_rating": 2488,
+      "last_played": 1764786453
     }
   },
   {
@@ -1022,9 +1019,6 @@
     },
     "rank_info": {
       "rank": 11,
-      "delta_rank": 1,
-      "delta_rating": 13,
-      "delta_games": 2,
       "peak_rank": 11,
       "peak_rating": 2379,
       "last_played": 1764779241
@@ -1289,7 +1283,7 @@
     "name": "ToromBot",
     "perf": {
       "rating": 2417,
-      "rd": 61,
+      "rd": 62,
       "prog": 12,
       "games": 3754
     },
