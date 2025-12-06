@@ -299,8 +299,9 @@
       "games": 36
     },
     "rank_info": {
-      "rank": 5,
-      "peak_rank": 5,
+      "rank": 4,
+      "delta_rank": 1,
+      "peak_rank": 4,
       "peak_rating": 2550,
       "last_played": 1764404798
     }
@@ -327,8 +328,9 @@
       "games": 90
     },
     "rank_info": {
-      "rank": 7,
-      "peak_rank": 7,
+      "rank": 6,
+      "delta_rank": 1,
+      "peak_rank": 6,
       "peak_rating": 2528,
       "last_played": 1764923220
     }
@@ -342,8 +344,9 @@
       "games": 65
     },
     "rank_info": {
-      "rank": 6,
-      "peak_rank": 6,
+      "rank": 5,
+      "delta_rank": 1,
+      "peak_rank": 5,
       "peak_rating": 2533,
       "last_played": 1764750429
     }
@@ -717,7 +720,7 @@
     "name": "pawnrobot",
     "perf": {
       "rating": 1415,
-      "rd": 152,
+      "rd": 153,
       "prog": -25,
       "games": 575,
       "prov": true
@@ -759,16 +762,19 @@
   {
     "name": "RaspFish",
     "perf": {
-      "rating": 2553,
-      "rd": 58,
-      "prog": 14,
-      "games": 1634
+      "rating": 2528,
+      "rd": 57,
+      "prog": -13,
+      "games": 1637
     },
     "rank_info": {
-      "rank": 4,
+      "rank": 6,
+      "delta_rank": -2,
+      "delta_rating": -25,
+      "delta_games": 3,
       "peak_rank": 4,
       "peak_rating": 2553,
-      "last_played": 1764390381
+      "last_played": 1765059927
     }
   },
   {
