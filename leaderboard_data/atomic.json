@@ -436,7 +436,6 @@
     },
     "rank_info": {
       "rank": 2,
-      "delta_rank": 1,
       "peak_rank": 2,
       "peak_rating": 2489,
       "last_played": 1765103124
@@ -473,17 +472,18 @@
   {
     "name": "GoblinAjedrezAI",
     "perf": {
-      "rating": 2383,
-      "rd": 48,
-      "prog": 24,
-      "games": 105
+      "rating": 2378,
+      "rd": 47,
+      "prog": 9,
+      "games": 106
     },
     "rank_info": {
       "rank": 12,
-      "delta_rank": -1,
-      "peak_rank": 11,
+      "delta_rating": -5,
+      "delta_games": 1,
+      "peak_rank": 12,
       "peak_rating": 2383,
-      "last_played": 1765045611
+      "last_played": 1765162482
     }
   },
   {
@@ -565,11 +565,8 @@
     },
     "rank_info": {
       "rank": 3,
-      "delta_rank": -1,
-      "delta_rating": -3,
-      "delta_games": 2,
-      "peak_rank": 2,
-      "peak_rating": 2491,
+      "peak_rank": 3,
+      "peak_rating": 2488,
       "last_played": 1765154470
     }
   },
@@ -700,7 +697,7 @@
     "name": "MaggiChess16",
     "perf": {
       "rating": 2463,
-      "rd": 45,
+      "rd": 46,
       "prog": -4,
       "games": 278
     },
@@ -1020,9 +1017,6 @@
     },
     "rank_info": {
       "rank": 11,
-      "delta_rank": 1,
-      "delta_rating": 11,
-      "delta_games": 1,
       "peak_rank": 11,
       "peak_rating": 2390,
       "last_played": 1765154470
