@@ -449,7 +449,6 @@
     },
     "rank_info": {
       "rank": 5,
-      "delta_rank": 1,
       "peak_rank": 5,
       "peak_rating": 2456,
       "last_played": 1765787256
@@ -486,16 +485,18 @@
   {
     "name": "GoblinAjedrezAI",
     "perf": {
-      "rating": 2392,
+      "rating": 2400,
       "rd": 45,
-      "prog": 6,
-      "games": 127
+      "prog": 5,
+      "games": 128
     },
     "rank_info": {
       "rank": 11,
+      "delta_rating": 8,
+      "delta_games": 1,
       "peak_rank": 11,
-      "peak_rating": 2392,
-      "last_played": 1765967191
+      "peak_rating": 2400,
+      "last_played": 1765988832
     }
   },
   {
@@ -507,7 +508,8 @@
       "games": 129
     },
     "rank_info": {
-      "rank": 17,
+      "rank": 18,
+      "delta_rank": -1,
       "peak_rank": 17,
       "peak_rating": 1442,
       "last_played": 1765830396
@@ -535,7 +537,8 @@
       "games": 53
     },
     "rank_info": {
-      "rank": 14,
+      "rank": 15,
+      "delta_rank": -1,
       "peak_rank": 14,
       "peak_rating": 1941,
       "last_played": 1765916793
@@ -570,18 +573,18 @@
   {
     "name": "is_BOSS",
     "perf": {
-      "rating": 2533,
+      "rating": 2525,
       "rd": 45,
       "prog": 10,
-      "games": 626
+      "games": 627
     },
     "rank_info": {
       "rank": 1,
-      "delta_rating": 5,
+      "delta_rating": -8,
       "delta_games": 1,
       "peak_rank": 1,
       "peak_rating": 2533,
-      "last_played": 1765981595
+      "last_played": 1765988832
     }
   },
   {
@@ -967,18 +970,19 @@
   {
     "name": "OpeningsBot",
     "perf": {
-      "rating": 1758,
-      "rd": 70,
-      "prog": -7,
-      "games": 2139
+      "rating": 1763,
+      "rd": 68,
+      "prog": -2,
+      "games": 2140
     },
     "rank_info": {
-      "rank": 16,
-      "delta_rating": -3,
+      "rank": 17,
+      "delta_rank": -1,
+      "delta_rating": 5,
       "delta_games": 1,
       "peak_rank": 16,
-      "peak_rating": 1761,
-      "last_played": 1765981595
+      "peak_rating": 1763,
+      "last_played": 1765988832
     }
   },
   {
@@ -1003,7 +1007,8 @@
       "games": 3120
     },
     "rank_info": {
-      "rank": 18,
+      "rank": 19,
+      "delta_rank": -1,
       "peak_rank": 18,
       "peak_rating": 1293,
       "last_played": 1765664734
@@ -1248,11 +1253,8 @@
     },
     "rank_info": {
       "rank": 6,
-      "delta_rank": -1,
-      "delta_rating": -4,
-      "delta_games": 1,
-      "peak_rank": 5,
-      "peak_rating": 2458,
+      "peak_rank": 6,
+      "peak_rating": 2454,
       "last_played": 1765981595
     }
   },
@@ -1347,7 +1349,8 @@
       "games": 41
     },
     "rank_info": {
-      "rank": 15,
+      "rank": 16,
+      "delta_rank": -1,
       "peak_rank": 15,
       "peak_rating": 1892,
       "last_played": 1765614396
@@ -1371,14 +1374,18 @@
   {
     "name": "virus_exe-bot",
     "perf": {
-      "rating": 2147,
-      "rd": 95,
-      "prog": 56,
-      "games": 49
+      "rating": 2153,
+      "rd": 93,
+      "prog": 48,
+      "games": 50
     },
     "rank_info": {
-      "peak_rating": 2147,
-      "last_played": 1760380020
+      "rank": 14,
+      "delta_rank": -14,
+      "delta_rating": 6,
+      "delta_games": 1,
+      "peak_rating": 2153,
+      "last_played": 1765988832
     }
   },
   {
