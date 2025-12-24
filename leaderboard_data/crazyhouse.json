@@ -480,16 +480,19 @@
   {
     "name": "GoblinAjedrezAI",
     "perf": {
-      "rating": 2219,
-      "rd": 67,
-      "prog": -13,
-      "games": 157
+      "rating": 2210,
+      "rd": 66,
+      "prog": -24,
+      "games": 158
     },
     "rank_info": {
-      "rank": 2,
+      "rank": 3,
+      "delta_rank": -1,
+      "delta_rating": -9,
+      "delta_games": 1,
       "peak_rank": 2,
       "peak_rating": 2219,
-      "last_played": 1766564839
+      "last_played": 1766586364
     }
   },
   {
@@ -942,16 +945,18 @@
   {
     "name": "OpeningsBot",
     "perf": {
-      "rating": 1511,
+      "rating": 1510,
       "rd": 74,
-      "prog": -44,
-      "games": 532
+      "prog": -39,
+      "games": 533
     },
     "rank_info": {
       "rank": 8,
+      "delta_rating": -1,
+      "delta_games": 1,
       "peak_rank": 8,
       "peak_rating": 1511,
-      "last_played": 1766147295
+      "last_played": 1766586364
     }
   },
   {
@@ -1168,7 +1173,7 @@
     "rank_info": {
       "rank": 4,
       "peak_rank": 4,
-      "peak_rating": 2182,
+      "peak_rating": 2171,
       "last_played": 1766571976
     }
   },
