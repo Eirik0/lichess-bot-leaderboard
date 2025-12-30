@@ -129,7 +129,6 @@
       "prov": true
     },
     "rank_info": {
-      "delta_games": 2,
       "peak_rating": 400,
       "last_played": 1767090386
     }
@@ -138,7 +137,7 @@
     "name": "bot1e",
     "perf": {
       "rating": 1851,
-      "rd": 121,
+      "rd": 122,
       "prog": 52,
       "games": 15,
       "prov": true
@@ -595,16 +594,18 @@
   {
     "name": "is_BOSS",
     "perf": {
-      "rating": 2528,
+      "rating": 2533,
       "rd": 45,
-      "prog": -7,
-      "games": 774
+      "prog": -5,
+      "games": 775
     },
     "rank_info": {
       "rank": 1,
+      "delta_rating": 5,
+      "delta_games": 1,
       "peak_rank": 1,
-      "peak_rating": 2528,
-      "last_played": 1767083237
+      "peak_rating": 2533,
+      "last_played": 1767097709
     }
   },
   {
@@ -995,10 +996,8 @@
     },
     "rank_info": {
       "rank": 13,
-      "delta_rating": -24,
-      "delta_games": 1,
       "peak_rank": 13,
-      "peak_rating": 1726,
+      "peak_rating": 1702,
       "last_played": 1767090386
     }
   },
@@ -1025,8 +1024,6 @@
     },
     "rank_info": {
       "rank": 15,
-      "delta_rating": 24,
-      "delta_games": 1,
       "peak_rank": 15,
       "peak_rating": 1312,
       "last_played": 1767090386
@@ -1116,7 +1113,7 @@
     "name": "RaspFish",
     "perf": {
       "rating": 2415,
-      "rd": 61,
+      "rd": 62,
       "prog": 2,
       "games": 2157
     },
@@ -1157,16 +1154,19 @@
   {
     "name": "SF_Bot1nok",
     "perf": {
-      "rating": 2488,
-      "rd": 59,
-      "prog": 3,
-      "games": 141
+      "rating": 2480,
+      "rd": 58,
+      "prog": -11,
+      "games": 142
     },
     "rank_info": {
-      "rank": 2,
+      "rank": 3,
+      "delta_rank": -1,
+      "delta_rating": -8,
+      "delta_games": 1,
       "peak_rank": 2,
       "peak_rating": 2488,
-      "last_played": 1766060895
+      "last_played": 1767097709
     }
   },
   {
@@ -1268,8 +1268,9 @@
       "games": 230
     },
     "rank_info": {
-      "rank": 3,
-      "peak_rank": 3,
+      "rank": 2,
+      "delta_rank": 1,
+      "peak_rank": 2,
       "peak_rating": 2481,
       "last_played": 1767083237
     }
