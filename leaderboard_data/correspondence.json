@@ -127,10 +127,8 @@
     },
     "rank_info": {
       "rank": 12,
-      "delta_rating": -3,
-      "delta_games": 1,
       "peak_rank": 12,
-      "peak_rating": 909,
+      "peak_rating": 906,
       "last_played": 1767076057
     }
   },
@@ -245,14 +243,16 @@
   {
     "name": "ChessatronBot",
     "perf": {
-      "rating": 2279,
-      "rd": 161,
-      "games": 9,
+      "rating": 2302,
+      "rd": 157,
+      "games": 10,
       "prov": true
     },
     "rank_info": {
-      "peak_rating": 2279,
-      "last_played": 1764211757
+      "delta_rating": 23,
+      "delta_games": 1,
+      "peak_rating": 2302,
+      "last_played": 1767083237
     }
   },
   {
@@ -449,16 +449,19 @@
   {
     "name": "EdwardKillick",
     "perf": {
-      "rating": 1647,
-      "rd": 107,
-      "prog": 144,
-      "games": 14
+      "rating": 1612,
+      "rd": 104,
+      "prog": 109,
+      "games": 15
     },
     "rank_info": {
-      "rank": 8,
+      "rank": 9,
+      "delta_rank": -1,
+      "delta_rating": -35,
+      "delta_games": 1,
       "peak_rank": 8,
       "peak_rating": 1647,
-      "last_played": 1767011317
+      "last_played": 1767083237
     }
   },
   {
@@ -506,16 +509,18 @@
   {
     "name": "GarboBot",
     "perf": {
-      "rating": 1997,
+      "rating": 2001,
       "rd": 49,
-      "prog": -1,
-      "games": 438
+      "prog": 3,
+      "games": 439
     },
     "rank_info": {
       "rank": 4,
+      "delta_rating": 4,
+      "delta_games": 1,
       "peak_rank": 4,
-      "peak_rating": 1997,
-      "last_played": 1766969143
+      "peak_rating": 2001,
+      "last_played": 1767083237
     }
   },
   {
@@ -646,16 +651,18 @@
   {
     "name": "Jibbby",
     "perf": {
-      "rating": 1755,
-      "rd": 70,
-      "prog": -8,
-      "games": 659
+      "rating": 1786,
+      "rd": 67,
+      "prog": -20,
+      "games": 663
     },
     "rank_info": {
       "rank": 7,
+      "delta_rating": 31,
+      "delta_games": 4,
       "peak_rank": 7,
-      "peak_rating": 1755,
-      "last_played": 1766874351
+      "peak_rating": 1786,
+      "last_played": 1767083237
     }
   },
   {
@@ -680,8 +687,9 @@
       "games": 203
     },
     "rank_info": {
-      "rank": 9,
-      "peak_rank": 9,
+      "rank": 8,
+      "delta_rank": 1,
+      "peak_rank": 8,
       "peak_rating": 1615,
       "last_played": 1766780771
     }
@@ -689,14 +697,16 @@
   {
     "name": "KnightOwlBot",
     "perf": {
-      "rating": 1473,
-      "rd": 187,
-      "games": 9,
+      "rating": 1577,
+      "rd": 170,
+      "games": 10,
       "prov": true
     },
     "rank_info": {
-      "peak_rating": 1473,
-      "last_played": 1749040073
+      "delta_rating": 104,
+      "delta_games": 1,
+      "peak_rating": 1577,
+      "last_played": 1767083237
     }
   },
   {
@@ -1192,7 +1202,7 @@
     "name": "RadianceEngine",
     "perf": {
       "rating": 1922,
-      "rd": 75,
+      "rd": 76,
       "games": 218
     },
     "rank_info": {
