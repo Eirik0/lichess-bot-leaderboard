@@ -330,8 +330,9 @@
       "games": 345
     },
     "rank_info": {
-      "rank": 7,
-      "peak_rank": 7,
+      "rank": 6,
+      "delta_rank": 1,
+      "peak_rank": 6,
       "peak_rating": 2404,
       "last_played": 1767660171
     }
@@ -511,16 +512,19 @@
   {
     "name": "GoblinAjedrezAI",
     "perf": {
-      "rating": 2411,
-      "rd": 50,
-      "prog": 3,
-      "games": 148
+      "rating": 2402,
+      "rd": 49,
+      "prog": -10,
+      "games": 150
     },
     "rank_info": {
-      "rank": 6,
+      "rank": 7,
+      "delta_rank": -1,
+      "delta_rating": -9,
+      "delta_games": 2,
       "peak_rank": 6,
       "peak_rating": 2411,
-      "last_played": 1767270499
+      "last_played": 1767731196
     }
   },
   {
@@ -595,18 +599,18 @@
   {
     "name": "is_BOSS",
     "perf": {
-      "rating": 2558,
+      "rating": 2565,
       "rd": 45,
-      "prog": -8,
-      "games": 843
+      "prog": -4,
+      "games": 845
     },
     "rank_info": {
       "rank": 1,
-      "delta_rating": -7,
-      "delta_games": 1,
+      "delta_rating": 7,
+      "delta_games": 2,
       "peak_rank": 1,
       "peak_rating": 2565,
-      "last_played": 1767724052
+      "last_played": 1767731196
     }
   },
   {
@@ -1280,8 +1284,6 @@
     },
     "rank_info": {
       "rank": 3,
-      "delta_rating": 8,
-      "delta_games": 1,
       "peak_rank": 3,
       "peak_rating": 2469,
       "last_played": 1767724052
@@ -1336,8 +1338,9 @@
       "games": 3770
     },
     "rank_info": {
-      "rank": 8,
-      "peak_rank": 8,
+      "rank": 7,
+      "delta_rank": 1,
+      "peak_rank": 7,
       "peak_rating": 2402,
       "last_played": 1767644810
     }
