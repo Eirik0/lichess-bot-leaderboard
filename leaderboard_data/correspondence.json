@@ -329,7 +329,8 @@
       "games": 319
     },
     "rank_info": {
-      "rank": 9,
+      "rank": 10,
+      "delta_rank": -1,
       "peak_rank": 9,
       "peak_rating": 1401,
       "last_played": 1768674419
@@ -452,7 +453,8 @@
       "games": 27
     },
     "rank_info": {
-      "rank": 8,
+      "rank": 9,
+      "delta_rank": -1,
       "peak_rank": 8,
       "peak_rating": 1527,
       "last_played": 1768264744
@@ -661,10 +663,8 @@
     },
     "rank_info": {
       "rank": 6,
-      "delta_rating": -4,
-      "delta_games": 1,
       "peak_rank": 6,
-      "peak_rating": 1862,
+      "peak_rating": 1858,
       "last_played": 1768697212
     }
   },
@@ -697,14 +697,18 @@
   {
     "name": "katzebot",
     "perf": {
-      "rating": 1618,
-      "rd": 62,
-      "prog": -14,
-      "games": 221
+      "rating": 1623,
+      "rd": 65,
+      "prog": -12,
+      "games": 222
     },
     "rank_info": {
-      "peak_rating": 1618,
-      "last_played": 1767205642
+      "rank": 8,
+      "delta_rank": -8,
+      "delta_rating": 5,
+      "delta_games": 1,
+      "peak_rating": 1623,
+      "last_played": 1768705160
     }
   },
   {
@@ -1056,8 +1060,6 @@
       "prov": true
     },
     "rank_info": {
-      "delta_rating": 36,
-      "delta_games": 1,
       "peak_rating": 2176,
       "last_played": 1768697212
     }
