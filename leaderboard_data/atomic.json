@@ -344,7 +344,6 @@
       "prov": true
     },
     "rank_info": {
-      "delta_games": 1,
       "peak_rating": 689,
       "last_played": 1769207140
     }
@@ -582,16 +581,18 @@
   {
     "name": "HakoAI",
     "perf": {
-      "rating": 2021,
-      "rd": 73,
-      "prog": 45,
-      "games": 130
+      "rating": 2012,
+      "rd": 72,
+      "prog": 35,
+      "games": 131
     },
     "rank_info": {
       "rank": 10,
+      "delta_rating": -9,
+      "delta_games": 1,
       "peak_rank": 10,
       "peak_rating": 2021,
-      "last_played": 1769178398
+      "last_played": 1769215321
     }
   },
   {
@@ -630,7 +631,6 @@
     },
     "rank_info": {
       "rank": 1,
-      "delta_games": 1,
       "peak_rank": 1,
       "peak_rating": 2519,
       "last_played": 1769207140
@@ -1194,7 +1194,7 @@
     "name": "SF_Bot1nok",
     "perf": {
       "rating": 2427,
-      "rd": 62,
+      "rd": 63,
       "prog": -66,
       "games": 148
     },
