@@ -560,7 +560,6 @@
     },
     "rank_info": {
       "rank": 12,
-      "delta_games": 1,
       "peak_rank": 12,
       "peak_rating": 1492,
       "last_played": 1769365636
@@ -582,16 +581,18 @@
   {
     "name": "HakoAI",
     "perf": {
-      "rating": 2031,
+      "rating": 2029,
       "rd": 71,
-      "prog": 53,
-      "games": 133
+      "prog": 51,
+      "games": 134
     },
     "rank_info": {
       "rank": 10,
+      "delta_rating": -2,
+      "delta_games": 1,
       "peak_rank": 10,
       "peak_rating": 2031,
-      "last_played": 1769286370
+      "last_played": 1769372794
     }
   },
   {
@@ -623,17 +624,18 @@
   {
     "name": "is_BOSS",
     "perf": {
-      "rating": 2527,
+      "rating": 2535,
       "rd": 45,
-      "prog": 6,
-      "games": 1018
+      "prog": 15,
+      "games": 1020
     },
     "rank_info": {
       "rank": 1,
-      "delta_games": 1,
+      "delta_rating": 8,
+      "delta_games": 2,
       "peak_rank": 1,
-      "peak_rating": 2527,
-      "last_played": 1769365636
+      "peak_rating": 2535,
+      "last_played": 1769372794
     }
   },
   {
@@ -1044,7 +1046,7 @@
     "name": "pawnrobot",
     "perf": {
       "rating": 1271,
-      "rd": 65,
+      "rd": 66,
       "prog": -16,
       "games": 3171
     },
