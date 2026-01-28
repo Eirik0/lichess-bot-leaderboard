@@ -544,7 +544,8 @@
       "games": 124
     },
     "rank_info": {
-      "rank": 9,
+      "rank": 10,
+      "delta_rank": -1,
       "peak_rank": 9,
       "peak_rating": 1362,
       "last_played": 1769624908
@@ -619,7 +620,7 @@
     "name": "is_BOSS",
     "perf": {
       "rating": 1657,
-      "rd": 100,
+      "rd": 101,
       "prog": -9,
       "games": 124
     },
@@ -1014,14 +1015,18 @@
   {
     "name": "OpeningsBot",
     "perf": {
-      "rating": 1505,
-      "rd": 78,
-      "prog": 26,
-      "games": 548
+      "rating": 1509,
+      "rd": 77,
+      "prog": 27,
+      "games": 549
     },
     "rank_info": {
-      "peak_rating": 1505,
-      "last_played": 1767314556
+      "rank": 9,
+      "delta_rank": -9,
+      "delta_rating": 4,
+      "delta_games": 1,
+      "peak_rating": 1509,
+      "last_played": 1769639213
     }
   },
   {
@@ -1040,16 +1045,19 @@
   {
     "name": "pawnrobot",
     "perf": {
-      "rating": 1129,
-      "rd": 83,
-      "prog": -14,
-      "games": 1356
+      "rating": 1124,
+      "rd": 82,
+      "prog": -19,
+      "games": 1357
     },
     "rank_info": {
-      "rank": 10,
+      "rank": 11,
+      "delta_rank": -1,
+      "delta_rating": -5,
+      "delta_games": 1,
       "peak_rank": 10,
       "peak_rating": 1129,
-      "last_played": 1769034400
+      "last_played": 1769639213
     }
   },
   {
