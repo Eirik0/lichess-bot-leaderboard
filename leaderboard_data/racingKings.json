@@ -166,8 +166,9 @@
       "games": 301
     },
     "rank_info": {
-      "rank": 3,
-      "peak_rank": 3,
+      "rank": 2,
+      "delta_rank": 1,
+      "peak_rank": 2,
       "peak_rating": 2524,
       "last_played": 1769804838
     }
@@ -721,7 +722,8 @@
       "games": 17541
     },
     "rank_info": {
-      "rank": 4,
+      "rank": 5,
+      "delta_rank": -1,
       "peak_rank": 4,
       "peak_rating": 2227,
       "last_played": 1769711344
@@ -784,16 +786,18 @@
   {
     "name": "RaspFish",
     "perf": {
-      "rating": 2526,
+      "rating": 2520,
       "rd": 67,
-      "prog": 7,
-      "games": 1662
+      "games": 1663
     },
     "rank_info": {
-      "rank": 2,
+      "rank": 3,
+      "delta_rank": -1,
+      "delta_rating": -6,
+      "delta_games": 1,
       "peak_rank": 2,
       "peak_rating": 2526,
-      "last_played": 1769647757
+      "last_played": 1769834725
     }
   },
   {
@@ -996,14 +1000,18 @@
   {
     "name": "varient-chess-bot1",
     "perf": {
-      "rating": 2361,
+      "rating": 2366,
       "rd": 61,
-      "prog": 19,
-      "games": 215
+      "prog": 32,
+      "games": 216
     },
     "rank_info": {
-      "peak_rating": 2361,
-      "last_played": 1767097709
+      "rank": 4,
+      "delta_rank": -4,
+      "delta_rating": 5,
+      "delta_games": 1,
+      "peak_rating": 2366,
+      "last_played": 1769834725
     }
   },
   {
