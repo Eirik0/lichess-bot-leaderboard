@@ -627,7 +627,7 @@
     "name": "HakoAI",
     "perf": {
       "rating": 2287,
-      "rd": 62,
+      "rd": 63,
       "prog": -43,
       "games": 90
     },
@@ -775,7 +775,7 @@
     "name": "Lili-ai",
     "perf": {
       "rating": 2619,
-      "rd": 79,
+      "rd": 80,
       "prog": 3,
       "games": 96
     },
@@ -961,9 +961,10 @@
     "name": "NewChessEngine-ai",
     "perf": {
       "rating": 2177,
-      "rd": 100,
+      "rd": 114,
       "prog": 187,
-      "games": 31
+      "games": 31,
+      "prov": true
     },
     "rank_info": {
       "peak_rating": 2177,
@@ -1146,16 +1147,18 @@
   {
     "name": "pawnrobot",
     "perf": {
-      "rating": 1925,
-      "rd": 61,
-      "prog": 13,
-      "games": 4003
+      "rating": 1950,
+      "rd": 57,
+      "prog": 33,
+      "games": 4007
     },
     "rank_info": {
       "rank": 18,
+      "delta_rating": 25,
+      "delta_games": 4,
       "peak_rank": 18,
-      "peak_rating": 1925,
-      "last_played": 1769790514
+      "peak_rating": 1950,
+      "last_played": 1770186760
     }
   },
   {
