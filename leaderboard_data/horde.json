@@ -277,8 +277,9 @@
       "games": 1224
     },
     "rank_info": {
-      "rank": 8,
-      "peak_rank": 8,
+      "rank": 7,
+      "delta_rank": 1,
+      "peak_rank": 7,
       "peak_rating": 2171,
       "last_played": 1770150504
     }
@@ -468,16 +469,19 @@
   {
     "name": "GoblinAjedrezAI",
     "perf": {
-      "rating": 2173,
+      "rating": 2161,
       "rd": 63,
-      "prog": 13,
-      "games": 417
+      "prog": 3,
+      "games": 418
     },
     "rank_info": {
-      "rank": 7,
+      "rank": 9,
+      "delta_rank": -2,
+      "delta_rating": -12,
+      "delta_games": 1,
       "peak_rank": 7,
       "peak_rating": 2173,
-      "last_played": 1770042647
+      "last_played": 1770166110
     }
   },
   {
@@ -498,14 +502,16 @@
   {
     "name": "HakoAI",
     "perf": {
-      "rating": 1599,
-      "rd": 190,
-      "games": 6,
+      "rating": 1584,
+      "rd": 182,
+      "games": 8,
       "prov": true
     },
     "rank_info": {
+      "delta_rating": -15,
+      "delta_games": 2,
       "peak_rating": 1599,
-      "last_played": 1769834725
+      "last_played": 1770166110
     }
   },
   {
@@ -925,13 +931,14 @@
       "rating": 1265,
       "rd": 80,
       "prog": -11,
-      "games": 1642
+      "games": 1643
     },
     "rank_info": {
       "rank": 13,
+      "delta_games": 1,
       "peak_rank": 13,
       "peak_rating": 1265,
-      "last_played": 1770129134
+      "last_played": 1770166110
     }
   },
   {
@@ -1175,16 +1182,19 @@
   {
     "name": "tbhOnBot",
     "perf": {
-      "rating": 2161,
-      "rd": 55,
-      "prog": 3,
-      "games": 986
+      "rating": 2171,
+      "rd": 54,
+      "prog": 22,
+      "games": 990
     },
     "rank_info": {
-      "rank": 9,
-      "peak_rank": 9,
-      "peak_rating": 2161,
-      "last_played": 1769077622
+      "rank": 7,
+      "delta_rank": 2,
+      "delta_rating": 10,
+      "delta_games": 4,
+      "peak_rank": 7,
+      "peak_rating": 2171,
+      "last_played": 1770166110
     }
   },
   {
