@@ -372,9 +372,6 @@
     },
     "rank_info": {
       "rank": 3,
-      "delta_rank": 1,
-      "delta_rating": 2,
-      "delta_games": 1,
       "peak_rank": 3,
       "peak_rating": 2479,
       "last_played": 1770647850
@@ -655,16 +652,15 @@
     "perf": {
       "rating": 2571,
       "rd": 45,
-      "prog": -8,
-      "games": 1167
+      "prog": -5,
+      "games": 1169
     },
     "rank_info": {
       "rank": 1,
-      "delta_rating": 2,
       "delta_games": 2,
       "peak_rank": 1,
       "peak_rating": 2571,
-      "last_played": 1770647850
+      "last_played": 1770662121
     }
   },
   {
@@ -1049,16 +1045,18 @@
   {
     "name": "OpeningsBot",
     "perf": {
-      "rating": 1780,
+      "rating": 1779,
       "rd": 68,
       "prog": 52,
-      "games": 2209
+      "games": 2211
     },
     "rank_info": {
       "rank": 15,
+      "delta_rating": -1,
+      "delta_games": 2,
       "peak_rank": 15,
       "peak_rating": 1780,
-      "last_played": 1770625953
+      "last_played": 1770662121
     }
   },
   {
@@ -1207,8 +1205,7 @@
     },
     "rank_info": {
       "rank": 4,
-      "delta_rank": -1,
-      "peak_rank": 3,
+      "peak_rank": 4,
       "peak_rating": 2478,
       "last_played": 1770166110
     }
@@ -1444,7 +1441,7 @@
     "name": "ToromBot",
     "perf": {
       "rating": 2361,
-      "rd": 63,
+      "rd": 64,
       "prog": 8,
       "games": 3803
     },
