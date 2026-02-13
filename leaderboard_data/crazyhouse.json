@@ -556,7 +556,8 @@
       "games": 125
     },
     "rank_info": {
-      "rank": 7,
+      "rank": 8,
+      "delta_rank": -1,
       "peak_rank": 7,
       "peak_rating": 1400,
       "last_played": 1769948926
@@ -1041,14 +1042,18 @@
   {
     "name": "OpeningsBot",
     "perf": {
-      "rating": 1496,
-      "rd": 81,
-      "prog": 23,
-      "games": 550
+      "rating": 1499,
+      "rd": 80,
+      "prog": 27,
+      "games": 551
     },
     "rank_info": {
-      "peak_rating": 1496,
-      "last_played": 1769682499
+      "rank": 7,
+      "delta_rank": -7,
+      "delta_rating": 3,
+      "delta_games": 1,
+      "peak_rating": 1499,
+      "last_played": 1771000164
     }
   },
   {
@@ -1067,16 +1072,19 @@
   {
     "name": "pawnrobot",
     "perf": {
-      "rating": 1097,
-      "rd": 83,
-      "prog": -27,
-      "games": 1368
+      "rating": 1093,
+      "rd": 82,
+      "prog": -31,
+      "games": 1369
     },
     "rank_info": {
-      "rank": 8,
+      "rank": 9,
+      "delta_rank": -1,
+      "delta_rating": -4,
+      "delta_games": 1,
       "peak_rank": 8,
       "peak_rating": 1097,
-      "last_played": 1770958583
+      "last_played": 1771000164
     }
   },
   {
@@ -1143,9 +1151,7 @@
     },
     "rank_info": {
       "rank": 1,
-      "delta_rank": -1,
-      "delta_rating": 3,
-      "delta_games": 1,
+      "peak_rank": 1,
       "peak_rating": 2302,
       "last_played": 1770993060
     }
@@ -1420,7 +1426,7 @@
     "name": "varient-chess-bot1",
     "perf": {
       "rating": 1561,
-      "rd": 99,
+      "rd": 101,
       "prog": -31,
       "games": 37
     },
