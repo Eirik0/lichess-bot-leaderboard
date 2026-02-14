@@ -327,8 +327,9 @@
       "games": 342
     },
     "rank_info": {
-      "rank": 10,
-      "peak_rank": 10,
+      "rank": 9,
+      "delta_rank": 1,
+      "peak_rank": 9,
       "peak_rating": 1479,
       "last_played": 1770215516
     }
@@ -457,16 +458,19 @@
   {
     "name": "EdwardKillick",
     "perf": {
-      "rating": 1486,
-      "rd": 79,
-      "prog": -55,
-      "games": 35
+      "rating": 1478,
+      "rd": 77,
+      "prog": -51,
+      "games": 36
     },
     "rank_info": {
-      "rank": 9,
+      "rank": 10,
+      "delta_rank": -1,
+      "delta_rating": -8,
+      "delta_games": 1,
       "peak_rank": 9,
       "peak_rating": 1486,
-      "last_played": 1770978536
+      "last_played": 1771093660
     }
   },
   {
@@ -691,16 +695,18 @@
   {
     "name": "Jibbby",
     "perf": {
-      "rating": 1902,
+      "rating": 1899,
       "rd": 68,
-      "prog": 40,
-      "games": 691
+      "prog": 41,
+      "games": 692
     },
     "rank_info": {
       "rank": 4,
+      "delta_rating": -3,
+      "delta_games": 1,
       "peak_rank": 4,
       "peak_rating": 1902,
-      "last_played": 1770971352
+      "last_played": 1771093660
     }
   },
   {
@@ -732,16 +738,18 @@
   {
     "name": "katzebot",
     "perf": {
-      "rating": 1638,
-      "rd": 58,
-      "prog": 34,
-      "games": 245
+      "rating": 1660,
+      "rd": 57,
+      "prog": 41,
+      "games": 247
     },
     "rank_info": {
       "rank": 8,
+      "delta_rating": 22,
+      "delta_games": 2,
       "peak_rank": 8,
-      "peak_rating": 1638,
-      "last_played": 1770848841
+      "peak_rating": 1660,
+      "last_played": 1771093660
     }
   },
   {
@@ -1097,18 +1105,18 @@
   {
     "name": "OpeningsBot",
     "perf": {
-      "rating": 2310,
+      "rating": 2312,
       "rd": 61,
-      "prog": 16,
-      "games": 1004
+      "prog": 26,
+      "games": 1005
     },
     "rank_info": {
       "rank": 2,
-      "delta_rating": 7,
+      "delta_rating": 2,
       "delta_games": 1,
       "peak_rank": 2,
-      "peak_rating": 2310,
-      "last_played": 1771086434
+      "peak_rating": 2312,
+      "last_played": 1771093660
     }
   },
   {
@@ -1134,9 +1142,7 @@
       "prov": true
     },
     "rank_info": {
-      "delta_rating": -25,
-      "delta_games": 1,
-      "peak_rating": 2601,
+      "peak_rating": 2576,
       "last_played": 1771086434
     }
   },
