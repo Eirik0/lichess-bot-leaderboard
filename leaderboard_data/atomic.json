@@ -277,8 +277,9 @@
       "games": 145
     },
     "rank_info": {
-      "rank": 4,
-      "peak_rank": 4,
+      "rank": 3,
+      "delta_rank": 1,
+      "peak_rank": 3,
       "peak_rating": 2485,
       "last_played": 1771792026
     }
@@ -368,16 +369,19 @@
   {
     "name": "DarkOnBot",
     "perf": {
-      "rating": 2489,
+      "rating": 2484,
       "rd": 45,
       "prog": 5,
-      "games": 441
+      "games": 442
     },
     "rank_info": {
-      "rank": 3,
+      "rank": 4,
+      "delta_rank": -1,
+      "delta_rating": -5,
+      "delta_games": 1,
       "peak_rank": 3,
       "peak_rating": 2489,
-      "last_played": 1771799204
+      "last_played": 1771849852
     }
   },
   {
@@ -665,18 +669,18 @@
   {
     "name": "is_BOSS",
     "perf": {
-      "rating": 2522,
+      "rating": 2527,
       "rd": 45,
-      "prog": 4,
-      "games": 1291
+      "prog": 9,
+      "games": 1292
     },
     "rank_info": {
       "rank": 1,
-      "delta_rating": 7,
-      "delta_games": 2,
+      "delta_rating": 5,
+      "delta_games": 1,
       "peak_rank": 1,
-      "peak_rating": 2522,
-      "last_played": 1771842861
+      "peak_rating": 2527,
+      "last_played": 1771849852
     }
   },
   {
@@ -853,10 +857,8 @@
     },
     "rank_info": {
       "rank": 10,
-      "delta_rating": -4,
-      "delta_games": 1,
       "peak_rank": 10,
-      "peak_rating": 2287,
+      "peak_rating": 2283,
       "last_played": 1771842861
     }
   },
@@ -1259,10 +1261,8 @@
     },
     "rank_info": {
       "rank": 7,
-      "delta_rating": -9,
-      "delta_games": 1,
       "peak_rank": 7,
-      "peak_rating": 2428,
+      "peak_rating": 2419,
       "last_played": 1771842861
     }
   },
