@@ -289,12 +289,13 @@
     "name": "chessbot2880",
     "perf": {
       "rating": 2557,
-      "rd": 81,
+      "rd": 82,
       "prog": 169,
       "games": 153
     },
     "rank_info": {
-      "rank": 1,
+      "rank": 2,
+      "delta_rank": -1,
       "peak_rank": 1,
       "peak_rating": 2557,
       "last_played": 1772231190
@@ -578,8 +579,9 @@
       "games": 181
     },
     "rank_info": {
-      "rank": 21,
-      "peak_rank": 21,
+      "rank": 20,
+      "delta_rank": 1,
+      "peak_rank": 20,
       "peak_rating": 1325,
       "last_played": 1772852720
     }
@@ -727,16 +729,19 @@
   {
     "name": "is_BOSS",
     "perf": {
-      "rating": 2556,
+      "rating": 2561,
       "rd": 45,
-      "prog": 14,
-      "games": 1388
+      "prog": 13,
+      "games": 1389
     },
     "rank_info": {
-      "rank": 2,
-      "peak_rank": 2,
-      "peak_rating": 2556,
-      "last_played": 1772886507
+      "rank": 1,
+      "delta_rank": 1,
+      "delta_rating": 5,
+      "delta_games": 1,
+      "peak_rank": 1,
+      "peak_rating": 2561,
+      "last_played": 1772900815
     }
   },
   {
@@ -1146,18 +1151,19 @@
   {
     "name": "pawnrobot",
     "perf": {
-      "rating": 1347,
+      "rating": 1322,
       "rd": 45,
-      "prog": -13,
-      "games": 3787
+      "prog": -27,
+      "games": 3793
     },
     "rank_info": {
-      "rank": 20,
-      "delta_rating": 4,
-      "delta_games": 3,
+      "rank": 21,
+      "delta_rank": -1,
+      "delta_rating": -25,
+      "delta_games": 6,
       "peak_rank": 20,
       "peak_rating": 1347,
-      "last_played": 1772893592
+      "last_played": 1772900815
     }
   },
   {
@@ -1487,16 +1493,18 @@
   {
     "name": "tbhOnBot",
     "perf": {
-      "rating": 2505,
+      "rating": 2501,
       "rd": 45,
-      "prog": -19,
-      "games": 403
+      "prog": -17,
+      "games": 404
     },
     "rank_info": {
       "rank": 3,
+      "delta_rating": -4,
+      "delta_games": 1,
       "peak_rank": 3,
       "peak_rating": 2505,
-      "last_played": 1772879191
+      "last_played": 1772900815
     }
   },
   {
@@ -1605,10 +1613,8 @@
     },
     "rank_info": {
       "rank": 15,
-      "delta_rating": -14,
-      "delta_games": 1,
       "peak_rank": 15,
-      "peak_rating": 1809,
+      "peak_rating": 1795,
       "last_played": 1772893592
     }
   },
