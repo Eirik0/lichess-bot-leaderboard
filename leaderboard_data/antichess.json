@@ -613,8 +613,7 @@
       "games": 447
     },
     "rank_info": {
-      "rank": 16,
-      "peak_rank": 16,
+      "delta_rank": 16,
       "peak_rating": 1838,
       "last_played": 1772037696
     }
@@ -961,7 +960,6 @@
     },
     "rank_info": {
       "rank": 12,
-      "delta_games": 1,
       "peak_rank": 12,
       "peak_rating": 2397,
       "last_played": 1773246847
@@ -1169,16 +1167,18 @@
   {
     "name": "pawnrobot",
     "perf": {
-      "rating": 1949,
+      "rating": 1950,
       "rd": 47,
-      "prog": 12,
-      "games": 4137
+      "prog": 17,
+      "games": 4138
     },
     "rank_info": {
       "rank": 15,
+      "delta_rating": 1,
+      "delta_games": 1,
       "peak_rank": 15,
-      "peak_rating": 1949,
-      "last_played": 1773217721
+      "peak_rating": 1950,
+      "last_played": 1773254041
     }
   },
   {
@@ -1419,8 +1419,9 @@
       "games": 142
     },
     "rank_info": {
-      "rank": 17,
-      "peak_rank": 17,
+      "rank": 16,
+      "delta_rank": 1,
+      "peak_rank": 16,
       "peak_rating": 1255,
       "last_played": 1773026199
     }
