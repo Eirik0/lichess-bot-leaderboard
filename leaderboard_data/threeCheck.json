@@ -503,7 +503,7 @@
     "name": "GoblinAjedrezAI",
     "perf": {
       "rating": 2401,
-      "rd": 79,
+      "rd": 80,
       "prog": 18,
       "games": 61
     },
@@ -530,16 +530,18 @@
   {
     "name": "Groot123456",
     "perf": {
-      "rating": 1542,
+      "rating": 1537,
       "rd": 47,
-      "prog": 4,
-      "games": 431
+      "prog": -4,
+      "games": 433
     },
     "rank_info": {
       "rank": 17,
+      "delta_rating": -5,
+      "delta_games": 2,
       "peak_rank": 17,
       "peak_rating": 1542,
-      "last_played": 1774441988
+      "last_played": 1774456893
     }
   },
   {
@@ -971,18 +973,18 @@
   {
     "name": "OpeningsBot",
     "perf": {
-      "rating": 1957,
+      "rating": 1956,
       "rd": 45,
-      "prog": 12,
-      "games": 1098
+      "prog": -2,
+      "games": 1102
     },
     "rank_info": {
       "rank": 13,
-      "delta_rating": -8,
-      "delta_games": 1,
+      "delta_rating": -1,
+      "delta_games": 4,
       "peak_rank": 13,
-      "peak_rating": 1965,
-      "last_played": 1774449711
+      "peak_rating": 1957,
+      "last_played": 1774456893
     }
   },
   {
@@ -1100,16 +1102,19 @@
   {
     "name": "RaspFish",
     "perf": {
-      "rating": 2380,
+      "rating": 2375,
       "rd": 46,
-      "prog": -12,
-      "games": 1012
+      "prog": -1,
+      "games": 1014
     },
     "rank_info": {
-      "rank": 2,
+      "rank": 3,
+      "delta_rank": -1,
+      "delta_rating": -5,
+      "delta_games": 2,
       "peak_rank": 2,
       "peak_rating": 2380,
-      "last_played": 1774434818
+      "last_played": 1774456893
     }
   },
   {
@@ -1156,16 +1161,18 @@
   {
     "name": "SF_Bot1nok",
     "perf": {
-      "rating": 2331,
-      "rd": 75,
-      "prog": -18,
-      "games": 81
+      "rating": 2314,
+      "rd": 74,
+      "prog": -8,
+      "games": 82
     },
     "rank_info": {
       "rank": 6,
+      "delta_rating": -17,
+      "delta_games": 1,
       "peak_rank": 6,
       "peak_rating": 2331,
-      "last_played": 1773404963
+      "last_played": 1774456893
     }
   },
   {
@@ -1296,8 +1303,9 @@
       "games": 302
     },
     "rank_info": {
-      "rank": 3,
-      "peak_rank": 3,
+      "rank": 2,
+      "delta_rank": 1,
+      "peak_rank": 2,
       "peak_rating": 2377,
       "last_played": 1774441988
     }
