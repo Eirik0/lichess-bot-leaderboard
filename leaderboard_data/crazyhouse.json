@@ -61,7 +61,8 @@
       "games": 209
     },
     "rank_info": {
-      "rank": 10,
+      "rank": 11,
+      "delta_rank": -1,
       "peak_rank": 10,
       "peak_rating": 2367,
       "last_played": 1774700935
@@ -269,8 +270,6 @@
     },
     "rank_info": {
       "rank": 17,
-      "delta_rating": -12,
-      "delta_games": 5,
       "peak_rank": 17,
       "peak_rating": 1906,
       "last_played": 1774708062
@@ -404,11 +403,8 @@
     },
     "rank_info": {
       "rank": 3,
-      "delta_rank": -1,
-      "delta_rating": -7,
-      "delta_games": 1,
-      "peak_rank": 2,
-      "peak_rating": 2711,
+      "peak_rank": 3,
+      "peak_rating": 2704,
       "last_played": 1774708062
     }
   },
@@ -592,8 +588,6 @@
     },
     "rank_info": {
       "rank": 23,
-      "delta_rating": -11,
-      "delta_games": 1,
       "peak_rank": 23,
       "peak_rating": 1096,
       "last_played": 1774708062
@@ -615,16 +609,19 @@
   {
     "name": "GoblinAjedrezAI",
     "perf": {
-      "rating": 2351,
-      "rd": 53,
-      "prog": 55,
-      "games": 218
+      "rating": 2374,
+      "rd": 51,
+      "prog": 62,
+      "games": 221
     },
     "rank_info": {
-      "rank": 11,
-      "peak_rank": 11,
-      "peak_rating": 2351,
-      "last_played": 1774693670
+      "rank": 10,
+      "delta_rank": 1,
+      "delta_rating": 23,
+      "delta_games": 3,
+      "peak_rank": 10,
+      "peak_rating": 2374,
+      "last_played": 1774715258
     }
   },
   {
@@ -707,8 +704,7 @@
     },
     "rank_info": {
       "rank": 7,
-      "delta_rank": -1,
-      "peak_rank": 6,
+      "peak_rank": 7,
       "peak_rating": 2664,
       "last_played": 1774355657
     }
@@ -1035,7 +1031,7 @@
     "name": "NewChessEngine-ai",
     "perf": {
       "rating": 2110,
-      "rd": 147,
+      "rd": 148,
       "games": 7,
       "prov": true
     },
@@ -1169,18 +1165,18 @@
   {
     "name": "OpeningsBot",
     "perf": {
-      "rating": 2061,
+      "rating": 2057,
       "rd": 45,
       "prog": -4,
-      "games": 733
+      "games": 734
     },
     "rank_info": {
       "rank": 15,
-      "delta_rating": 3,
+      "delta_rating": -4,
       "delta_games": 1,
       "peak_rank": 15,
       "peak_rating": 2061,
-      "last_played": 1774708062
+      "last_played": 1774715258
     }
   },
   {
@@ -1221,8 +1217,6 @@
     },
     "rank_info": {
       "rank": 24,
-      "delta_rating": 11,
-      "delta_games": 1,
       "peak_rank": 24,
       "peak_rating": 869,
       "last_played": 1774708062
@@ -1305,9 +1299,6 @@
     },
     "rank_info": {
       "rank": 6,
-      "delta_rank": 1,
-      "delta_rating": 6,
-      "delta_games": 1,
       "peak_rank": 6,
       "peak_rating": 2666,
       "last_played": 1774708062
