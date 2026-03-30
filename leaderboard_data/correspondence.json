@@ -611,8 +611,9 @@
       "games": 1118
     },
     "rank_info": {
-      "rank": 7,
-      "peak_rank": 7,
+      "rank": 6,
+      "delta_rank": 1,
+      "peak_rank": 6,
       "peak_rating": 1088,
       "last_played": 1774629301
     }
@@ -789,8 +790,9 @@
       "games": 312
     },
     "rank_info": {
-      "rank": 6,
-      "peak_rank": 6,
+      "rank": 5,
+      "delta_rank": 1,
+      "peak_rank": 5,
       "peak_rating": 1613,
       "last_played": 1774816047
     }
@@ -1149,16 +1151,18 @@
   {
     "name": "OpeningsBot",
     "perf": {
-      "rating": 2277,
-      "rd": 69,
-      "prog": -11,
-      "games": 1022
+      "rating": 2266,
+      "rd": 68,
+      "prog": -20,
+      "games": 1023
     },
     "rank_info": {
       "rank": 1,
+      "delta_rating": -11,
+      "delta_games": 1,
       "peak_rank": 1,
       "peak_rating": 2277,
-      "last_played": 1773700064
+      "last_played": 1774860548
     }
   },
   {
@@ -1635,8 +1639,7 @@
       "games": 66
     },
     "rank_info": {
-      "rank": 5,
-      "peak_rank": 5,
+      "delta_rank": 5,
       "peak_rating": 1890,
       "last_played": 1773650274
     }
