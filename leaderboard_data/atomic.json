@@ -606,8 +606,6 @@
     },
     "rank_info": {
       "rank": 27,
-      "delta_rating": -5,
-      "delta_games": 3,
       "peak_rank": 27,
       "peak_rating": 1202,
       "last_played": 1774988970
@@ -704,8 +702,9 @@
       "games": 195
     },
     "rank_info": {
-      "rank": 26,
-      "peak_rank": 26,
+      "rank": 25,
+      "delta_rank": 1,
+      "peak_rank": 25,
       "peak_rating": 1304,
       "last_played": 1774708062
     }
@@ -1218,18 +1217,19 @@
   {
     "name": "pawnrobot",
     "perf": {
-      "rating": 1301,
+      "rating": 1294,
       "rd": 45,
-      "prog": -35,
-      "games": 4047
+      "prog": -37,
+      "games": 4048
     },
     "rank_info": {
-      "rank": 25,
-      "delta_rating": -6,
+      "rank": 26,
+      "delta_rank": -1,
+      "delta_rating": -7,
       "delta_games": 1,
       "peak_rank": 25,
-      "peak_rating": 1307,
-      "last_played": 1774988970
+      "peak_rating": 1301,
+      "last_played": 1774996083
     }
   },
   {
@@ -1378,9 +1378,6 @@
     },
     "rank_info": {
       "rank": 27,
-      "delta_rank": 1,
-      "delta_rating": -4,
-      "delta_games": 5,
       "peak_rank": 27,
       "peak_rating": 1201,
       "last_played": 1774988970
@@ -1497,16 +1494,18 @@
   {
     "name": "StockfishLowDepth",
     "perf": {
-      "rating": 1184,
-      "rd": 50,
-      "prog": -20,
-      "games": 137
+      "rating": 1152,
+      "rd": 47,
+      "prog": -24,
+      "games": 151
     },
     "rank_info": {
       "rank": 29,
+      "delta_rating": -32,
+      "delta_games": 14,
       "peak_rank": 29,
       "peak_rating": 1184,
-      "last_played": 1774982169
+      "last_played": 1774996083
     }
   },
   {
@@ -1772,7 +1771,7 @@
     "name": "Worst-ai",
     "perf": {
       "rating": 1872,
-      "rd": 48,
+      "rd": 49,
       "prog": 39,
       "games": 91
     },
