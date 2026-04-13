@@ -130,8 +130,9 @@
       "games": 131
     },
     "rank_info": {
-      "rank": 5,
-      "peak_rank": 5,
+      "rank": 4,
+      "delta_rank": 1,
+      "peak_rank": 4,
       "peak_rating": 2641,
       "last_played": 1775810927
     }
@@ -412,8 +413,6 @@
     },
     "rank_info": {
       "rank": 2,
-      "delta_rating": 2,
-      "delta_games": 1,
       "peak_rank": 2,
       "peak_rating": 2708,
       "last_played": 1776032873
@@ -1288,31 +1287,36 @@
   {
     "name": "rascal1",
     "perf": {
-      "rating": 2643,
+      "rating": 2635,
       "rd": 45,
-      "prog": -7,
-      "games": 226
+      "prog": -4,
+      "games": 242
     },
     "rank_info": {
-      "rank": 4,
+      "rank": 5,
+      "delta_rank": -1,
+      "delta_rating": -8,
+      "delta_games": 16,
       "peak_rank": 4,
-      "peak_rating": 2655,
-      "last_played": 1775687320
+      "peak_rating": 2643,
+      "last_played": 1776042261
     }
   },
   {
     "name": "RaspFish",
     "perf": {
-      "rating": 2694,
+      "rating": 2700,
       "rd": 48,
-      "prog": -4,
-      "games": 1202
+      "prog": 10,
+      "games": 1203
     },
     "rank_info": {
       "rank": 3,
+      "delta_rating": 6,
+      "delta_games": 1,
       "peak_rank": 3,
-      "peak_rating": 2694,
-      "last_played": 1776018542
+      "peak_rating": 2700,
+      "last_played": 1776042261
     }
   },
   {
@@ -1361,7 +1365,7 @@
     "name": "SF_Bot1nok",
     "perf": {
       "rating": 2634,
-      "rd": 57,
+      "rd": 58,
       "prog": 30,
       "games": 169
     },
