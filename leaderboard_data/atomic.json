@@ -210,8 +210,9 @@
       "games": 44
     },
     "rank_info": {
-      "rank": 10,
-      "peak_rank": 10,
+      "rank": 9,
+      "delta_rank": 1,
+      "peak_rank": 9,
       "peak_rating": 2265,
       "last_played": 1775471951
     }
@@ -1177,7 +1178,7 @@
     "name": "OpeningsBot",
     "perf": {
       "rating": 1671,
-      "rd": 52,
+      "rd": 53,
       "prog": -4,
       "games": 2379
     },
@@ -1338,34 +1339,36 @@
   {
     "name": "rascal1",
     "perf": {
-      "rating": 2274,
+      "rating": 2264,
       "rd": 45,
-      "prog": 8,
-      "games": 417
+      "prog": -4,
+      "games": 418
     },
     "rank_info": {
-      "rank": 9,
-      "delta_games": 22,
+      "rank": 10,
+      "delta_rank": -1,
+      "delta_rating": -10,
+      "delta_games": 1,
       "peak_rank": 9,
       "peak_rating": 2274,
-      "last_played": 1776042261
+      "last_played": 1776050765
     }
   },
   {
     "name": "RaspFish",
     "perf": {
-      "rating": 2014,
+      "rating": 2027,
       "rd": 45,
-      "prog": 18,
-      "games": 2454
+      "prog": 33,
+      "games": 2456
     },
     "rank_info": {
       "rank": 12,
-      "delta_rating": 2,
-      "delta_games": 1,
+      "delta_rating": 13,
+      "delta_games": 2,
       "peak_rank": 12,
-      "peak_rating": 2014,
-      "last_played": 1776042261
+      "peak_rating": 2027,
+      "last_played": 1776050765
     }
   },
   {
@@ -1514,10 +1517,8 @@
     },
     "rank_info": {
       "rank": 18,
-      "delta_rating": -9,
-      "delta_games": 2,
       "peak_rank": 18,
-      "peak_rating": 1275,
+      "peak_rating": 1266,
       "last_played": 1776042261
     }
   },
