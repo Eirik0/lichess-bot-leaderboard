@@ -437,8 +437,6 @@
     },
     "rank_info": {
       "rank": 3,
-      "delta_rating": 1,
-      "delta_games": 1,
       "peak_rank": 3,
       "peak_rating": 2570,
       "last_played": 1777474792
@@ -3010,16 +3008,18 @@
   {
     "name": "pawn_git",
     "perf": {
-      "rating": 2143,
+      "rating": 2148,
       "rd": 45,
-      "prog": -1,
-      "games": 4178
+      "prog": 1,
+      "games": 4179
     },
     "rank_info": {
       "rank": 27,
+      "delta_rating": 5,
+      "delta_games": 1,
       "peak_rank": 27,
-      "peak_rating": 2143,
-      "last_played": 1777415802
+      "peak_rating": 2148,
+      "last_played": 1777481470
     }
   },
   {
@@ -3989,16 +3989,19 @@
   {
     "name": "ToromBot",
     "perf": {
-      "rating": 2546,
+      "rating": 2543,
       "rd": 45,
-      "games": 5511
+      "prog": -3,
+      "games": 5513
     },
     "rank_info": {
-      "rank": 7,
-      "delta_games": 1,
+      "rank": 8,
+      "delta_rank": -1,
+      "delta_rating": -3,
+      "delta_games": 2,
       "peak_rank": 7,
       "peak_rating": 2546,
-      "last_played": 1777474792
+      "last_played": 1777481470
     }
   },
   {
@@ -4338,8 +4341,9 @@
       "games": 16795
     },
     "rank_info": {
-      "rank": 8,
-      "peak_rank": 8,
+      "rank": 7,
+      "delta_rank": 1,
+      "peak_rank": 7,
       "peak_rating": 2545,
       "last_played": 1777460207
     }
