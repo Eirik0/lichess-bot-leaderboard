@@ -195,7 +195,6 @@
     },
     "rank_info": {
       "rank": 2,
-      "delta_rank": 1,
       "peak_rank": 2,
       "peak_rating": 2371,
       "last_played": 1777725316
@@ -858,17 +857,18 @@
   {
     "name": "RaspFish",
     "perf": {
-      "rating": 2368,
-      "rd": 50,
-      "prog": -20,
-      "games": 1920
+      "rating": 2367,
+      "rd": 49,
+      "prog": -21,
+      "games": 1921
     },
     "rank_info": {
       "rank": 3,
-      "delta_rank": 1,
+      "delta_rating": -1,
+      "delta_games": 1,
       "peak_rank": 3,
       "peak_rating": 2368,
-      "last_played": 1777825922
+      "last_played": 1777885546
     }
   },
   {
@@ -906,11 +906,9 @@
       "games": 87
     },
     "rank_info": {
-      "rank": 4,
-      "delta_rank": -2,
-      "delta_rating": -5,
-      "delta_games": 2,
-      "peak_rank": 2,
+      "rank": 3,
+      "delta_rank": 1,
+      "peak_rank": 3,
       "peak_rating": 2372,
       "last_played": 1777879261
     }
