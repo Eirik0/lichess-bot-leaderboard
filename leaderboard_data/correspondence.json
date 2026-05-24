@@ -447,8 +447,9 @@
       "games": 32
     },
     "rank_info": {
-      "rank": 5,
-      "peak_rank": 5,
+      "rank": 4,
+      "delta_rank": 1,
+      "peak_rank": 4,
       "peak_rating": 1364,
       "last_played": 1778556406
     }
@@ -529,8 +530,7 @@
       "games": 55
     },
     "rank_info": {
-      "rank": 4,
-      "peak_rank": 4,
+      "delta_rank": 4,
       "peak_rating": 1546,
       "last_played": 1778430915
     }
@@ -1760,7 +1760,7 @@
     "name": "YoBot_v2",
     "perf": {
       "rating": 1984,
-      "rd": 332,
+      "rd": 333,
       "prog": -58,
       "games": 33,
       "prov": true
