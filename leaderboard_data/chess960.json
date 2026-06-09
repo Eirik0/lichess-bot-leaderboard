@@ -444,8 +444,6 @@
     },
     "rank_info": {
       "rank": 1,
-      "delta_rating": -1,
-      "delta_games": 3,
       "peak_rank": 1,
       "peak_rating": 2584,
       "last_played": 1780997290
@@ -507,7 +505,7 @@
     "name": "BOT_Stockfish13",
     "perf": {
       "rating": 2509,
-      "rd": 110,
+      "rd": 111,
       "prog": 5,
       "games": 190,
       "prov": true
@@ -1306,8 +1304,6 @@
     },
     "rank_info": {
       "rank": 24,
-      "delta_rating": 13,
-      "delta_games": 1,
       "peak_rank": 24,
       "peak_rating": 862,
       "last_played": 1780997290
@@ -2197,8 +2193,8 @@
       "games": 366
     },
     "rank_info": {
-      "rank": 6,
-      "delta_rank": 2,
+      "rank": 7,
+      "delta_rank": -1,
       "peak_rank": 6,
       "peak_rating": 2484,
       "last_played": 1780857845
@@ -2319,10 +2315,8 @@
     },
     "rank_info": {
       "rank": 14,
-      "delta_rating": -4,
-      "delta_games": 2,
       "peak_rank": 14,
-      "peak_rating": 2097,
+      "peak_rating": 2093,
       "last_played": 1780997290
     }
   },
@@ -2976,16 +2970,18 @@
   {
     "name": "pawn_git",
     "perf": {
-      "rating": 2165,
+      "rating": 2166,
       "rd": 46,
-      "prog": -7,
-      "games": 4306
+      "prog": -2,
+      "games": 4307
     },
     "rank_info": {
       "rank": 12,
+      "delta_rating": 1,
+      "delta_games": 1,
       "peak_rank": 12,
-      "peak_rating": 2165,
-      "last_played": 1780990377
+      "peak_rating": 2166,
+      "last_played": 1781004300
     }
   },
   {
@@ -3222,28 +3218,27 @@
       "games": 572
     },
     "rank_info": {
-      "rank": 6,
-      "delta_rank": 2,
-      "delta_rating": -7,
-      "delta_games": 23,
+      "rank": 7,
+      "delta_rank": -1,
       "peak_rank": 6,
-      "peak_rating": 2500,
+      "peak_rating": 2493,
       "last_played": 1780997290
     }
   },
   {
     "name": "RadianceEngine",
     "perf": {
-      "rating": 1678,
-      "rd": 47,
-      "prog": 13,
-      "games": 6337
+      "rating": 1673,
+      "rd": 46,
+      "games": 6339
     },
     "rank_info": {
       "rank": 16,
+      "delta_rating": -5,
+      "delta_games": 2,
       "peak_rank": 16,
       "peak_rating": 1678,
-      "last_played": 1780919809
+      "last_played": 1781004300
     }
   },
   {
@@ -3281,8 +3276,8 @@
       "games": 8013
     },
     "rank_info": {
-      "rank": 6,
-      "delta_games": 1,
+      "rank": 7,
+      "delta_rank": -1,
       "peak_rank": 6,
       "peak_rating": 2525,
       "last_played": 1780997290
@@ -3409,17 +3404,18 @@
   {
     "name": "SF_Bot1nok",
     "perf": {
-      "rating": 2570,
+      "rating": 2571,
       "rd": 45,
-      "prog": -11,
-      "games": 1414
+      "prog": -9,
+      "games": 1417
     },
     "rank_info": {
       "rank": 2,
-      "delta_games": 1,
+      "delta_rating": 1,
+      "delta_games": 3,
       "peak_rank": 2,
-      "peak_rating": 2570,
-      "last_played": 1780997290
+      "peak_rating": 2571,
+      "last_played": 1781004300
     }
   },
   {
@@ -3648,14 +3644,16 @@
   {
     "name": "StockfishLowDepth",
     "perf": {
-      "rating": 2195,
-      "rd": 291,
-      "games": 4,
+      "rating": 2200,
+      "rd": 288,
+      "games": 5,
       "prov": true
     },
     "rank_info": {
-      "peak_rating": 2195,
-      "last_played": 1779217048
+      "delta_rating": 5,
+      "delta_games": 1,
+      "peak_rating": 2200,
+      "last_played": 1781004300
     }
   },
   {
@@ -3878,10 +3876,8 @@
     },
     "rank_info": {
       "rank": 13,
-      "delta_rating": -1,
-      "delta_games": 1,
       "peak_rank": 13,
-      "peak_rating": 2134,
+      "peak_rating": 2133,
       "last_played": 1780997290
     }
   },
@@ -4287,16 +4283,18 @@
   {
     "name": "YoBot_v2",
     "perf": {
-      "rating": 2525,
+      "rating": 2532,
       "rd": 45,
-      "prog": -4,
-      "games": 17014
+      "prog": 7,
+      "games": 17017
     },
     "rank_info": {
       "rank": 6,
+      "delta_rating": 7,
+      "delta_games": 3,
       "peak_rank": 6,
-      "peak_rating": 2525,
-      "last_played": 1780990377
+      "peak_rating": 2532,
+      "last_played": 1781004300
     }
   },
   {
