@@ -505,7 +505,7 @@
     "name": "BOT_Stockfish13",
     "perf": {
       "rating": 2509,
-      "rd": 112,
+      "rd": 113,
       "prog": 5,
       "games": 190,
       "prov": true
@@ -1327,7 +1327,7 @@
     "name": "Demolito_L3",
     "perf": {
       "rating": 1179,
-      "rd": 49,
+      "rd": 50,
       "prog": 15,
       "games": 8138
     },
@@ -2561,16 +2561,18 @@
   {
     "name": "Moment-That-Inspires",
     "perf": {
-      "rating": 2470,
+      "rating": 2476,
       "rd": 45,
-      "prog": -5,
-      "games": 3048
+      "prog": -4,
+      "games": 3050
     },
     "rank_info": {
       "rank": 11,
+      "delta_rating": 6,
+      "delta_games": 2,
       "peak_rank": 11,
-      "peak_rating": 2470,
-      "last_played": 1781723326
+      "peak_rating": 2476,
+      "last_played": 1781762187
     }
   },
   {
@@ -2870,8 +2872,9 @@
       "games": 4907
     },
     "rank_info": {
-      "rank": 13,
-      "peak_rank": 13,
+      "rank": 12,
+      "delta_rank": 1,
+      "peak_rank": 12,
       "peak_rating": 2168,
       "last_played": 1780871980
     }
@@ -2970,18 +2973,18 @@
   {
     "name": "pawn_git",
     "perf": {
-      "rating": 2173,
+      "rating": 2166,
       "rd": 45,
-      "prog": 5,
-      "games": 4378
+      "games": 4379
     },
     "rank_info": {
-      "rank": 12,
-      "delta_rating": -1,
+      "rank": 13,
+      "delta_rank": -1,
+      "delta_rating": -7,
       "delta_games": 1,
       "peak_rank": 12,
-      "peak_rating": 2174,
-      "last_played": 1781753270
+      "peak_rating": 2173,
+      "last_played": 1781762187
     }
   },
   {
@@ -3212,31 +3215,35 @@
   {
     "name": "PZChessBot",
     "perf": {
-      "rating": 2506,
+      "rating": 2502,
       "rd": 45,
-      "prog": -2,
-      "games": 673
+      "prog": 1,
+      "games": 696
     },
     "rank_info": {
       "rank": 10,
+      "delta_rating": -4,
+      "delta_games": 23,
       "peak_rank": 10,
       "peak_rating": 2506,
-      "last_played": 1781632696
+      "last_played": 1781762187
     }
   },
   {
     "name": "RadianceEngine",
     "perf": {
-      "rating": 1686,
+      "rating": 1688,
       "rd": 45,
-      "prog": -14,
-      "games": 6389
+      "prog": -9,
+      "games": 6392
     },
     "rank_info": {
       "rank": 17,
+      "delta_rating": 2,
+      "delta_games": 3,
       "peak_rank": 17,
-      "peak_rating": 1686,
-      "last_played": 1781650520
+      "peak_rating": 1688,
+      "last_played": 1781762187
     }
   },
   {
@@ -3268,17 +3275,19 @@
   {
     "name": "RaspFish",
     "perf": {
-      "rating": 2523,
+      "rating": 2511,
       "rd": 45,
-      "prog": -1,
-      "games": 8030
+      "prog": -13,
+      "games": 8031
     },
     "rank_info": {
-      "rank": 8,
+      "rank": 9,
+      "delta_rank": -1,
+      "delta_rating": -12,
       "delta_games": 1,
       "peak_rank": 8,
       "peak_rating": 2523,
-      "last_played": 1781753270
+      "last_played": 1781762187
     }
   },
   {
@@ -3404,14 +3413,15 @@
     "perf": {
       "rating": 2601,
       "rd": 45,
-      "prog": 1,
-      "games": 1492
+      "prog": -3,
+      "games": 1496
     },
     "rank_info": {
       "rank": 4,
+      "delta_games": 4,
       "peak_rank": 4,
       "peak_rating": 2601,
-      "last_played": 1781716852
+      "last_played": 1781762187
     }
   },
   {
