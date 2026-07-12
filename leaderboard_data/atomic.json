@@ -203,16 +203,18 @@
   {
     "name": "bot1e",
     "perf": {
-      "rating": 2207,
-      "rd": 75,
-      "prog": 34,
-      "games": 94
+      "rating": 2202,
+      "rd": 74,
+      "prog": 33,
+      "games": 95
     },
     "rank_info": {
       "rank": 5,
+      "delta_rating": -5,
+      "delta_games": 1,
       "peak_rank": 5,
       "peak_rating": 2207,
-      "last_played": 1783753254
+      "last_played": 1783840140
     }
   },
   {
@@ -225,8 +227,6 @@
     },
     "rank_info": {
       "rank": 1,
-      "delta_rating": 6,
-      "delta_games": 1,
       "peak_rank": 1,
       "peak_rating": 2339,
       "last_played": 1783834007
@@ -1706,7 +1706,7 @@
     "name": "VariantsBot",
     "perf": {
       "rating": 2714,
-      "rd": 170,
+      "rd": 171,
       "prog": -19,
       "games": 3666,
       "prov": true
