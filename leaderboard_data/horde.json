@@ -88,8 +88,6 @@
     },
     "rank_info": {
       "rank": 4,
-      "delta_rating": 7,
-      "delta_games": 2,
       "peak_rank": 4,
       "peak_rating": 2609,
       "last_played": 1784357851
@@ -98,18 +96,18 @@
   {
     "name": "Bot1nokk",
     "perf": {
-      "rating": 2625,
+      "rating": 2629,
       "rd": 45,
-      "prog": 18,
-      "games": 1628
+      "prog": 22,
+      "games": 1629
     },
     "rank_info": {
       "rank": 2,
-      "delta_rating": -6,
+      "delta_rating": 4,
       "delta_games": 1,
       "peak_rank": 2,
-      "peak_rating": 2631,
-      "last_played": 1784357851
+      "peak_rating": 2629,
+      "last_played": 1784364871
     }
   },
   {
@@ -866,9 +864,10 @@
     "name": "NewChessEngine-ai",
     "perf": {
       "rating": 2260,
-      "rd": 109,
+      "rd": 110,
       "prog": 5,
-      "games": 145
+      "games": 145,
+      "prov": true
     },
     "rank_info": {
       "peak_rating": 2260,
@@ -999,17 +998,18 @@
   {
     "name": "pawnrobot",
     "perf": {
-      "rating": 1250,
+      "rating": 1248,
       "rd": 56,
-      "prog": 23,
-      "games": 2022
+      "prog": 21,
+      "games": 2024
     },
     "rank_info": {
       "rank": 7,
-      "delta_games": 1,
+      "delta_rating": -2,
+      "delta_games": 2,
       "peak_rank": 7,
       "peak_rating": 1250,
-      "last_played": 1784357851
+      "last_played": 1784364871
     }
   },
   {
@@ -1093,18 +1093,18 @@
   {
     "name": "RaspFish",
     "perf": {
-      "rating": 2561,
-      "rd": 58,
-      "prog": -74,
-      "games": 1317
+      "rating": 2545,
+      "rd": 56,
+      "prog": -71,
+      "games": 1320
     },
     "rank_info": {
       "rank": 5,
-      "delta_rating": -6,
-      "delta_games": 1,
+      "delta_rating": -16,
+      "delta_games": 3,
       "peak_rank": 5,
-      "peak_rating": 2567,
-      "last_played": 1784357851
+      "peak_rating": 2561,
+      "last_played": 1784364871
     }
   },
   {
@@ -1162,16 +1162,18 @@
   {
     "name": "SF_Bot1nok",
     "perf": {
-      "rating": 2614,
+      "rating": 2613,
       "rd": 45,
-      "prog": 15,
-      "games": 1626
+      "prog": 14,
+      "games": 1629
     },
     "rank_info": {
       "rank": 3,
+      "delta_rating": -1,
+      "delta_games": 3,
       "peak_rank": 3,
       "peak_rating": 2614,
-      "last_played": 1784285680
+      "last_played": 1784364871
     }
   },
   {
@@ -1374,7 +1376,7 @@
     "name": "ToromBot",
     "perf": {
       "rating": 2756,
-      "rd": 67,
+      "rd": 68,
       "prog": 10,
       "games": 2519
     },
