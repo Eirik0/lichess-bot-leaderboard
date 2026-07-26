@@ -460,7 +460,8 @@
       "games": 61
     },
     "rank_info": {
-      "rank": 6,
+      "rank": 7,
+      "delta_rank": -1,
       "peak_rank": 6,
       "peak_rating": 1379,
       "last_played": 1784040963
@@ -542,7 +543,8 @@
       "games": 70
     },
     "rank_info": {
-      "rank": 5,
+      "rank": 6,
+      "delta_rank": -1,
       "peak_rank": 5,
       "peak_rating": 1629,
       "last_played": 1785077127
@@ -593,14 +595,18 @@
   {
     "name": "GarboBot",
     "perf": {
-      "rating": 1873,
+      "rating": 1871,
       "rd": 67,
-      "prog": 5,
-      "games": 694
+      "prog": 4,
+      "games": 695
     },
     "rank_info": {
+      "rank": 4,
+      "delta_rank": -4,
+      "delta_rating": -2,
+      "delta_games": 1,
       "peak_rating": 1873,
-      "last_played": 1783018100
+      "last_played": 1785091072
     }
   },
   {
@@ -1211,16 +1217,18 @@
   {
     "name": "OpeningsBot",
     "perf": {
-      "rating": 2262,
-      "rd": 54,
-      "prog": -2,
-      "games": 1138
+      "rating": 2254,
+      "rd": 53,
+      "prog": -9,
+      "games": 1139
     },
     "rank_info": {
       "rank": 3,
+      "delta_rating": -8,
+      "delta_games": 1,
       "peak_rank": 3,
       "peak_rating": 2262,
-      "last_played": 1785069609
+      "last_played": 1785091072
     }
   },
   {
@@ -1355,7 +1363,8 @@
       "games": 27
     },
     "rank_info": {
-      "rank": 4,
+      "rank": 5,
+      "delta_rank": -1,
       "peak_rank": 4,
       "peak_rating": 1776,
       "last_played": 1784637986
