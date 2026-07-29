@@ -460,7 +460,8 @@
       "games": 63
     },
     "rank_info": {
-      "rank": 6,
+      "rank": 7,
+      "delta_rank": -1,
       "peak_rank": 6,
       "peak_rating": 1410,
       "last_played": 1785251067
@@ -542,7 +543,8 @@
       "games": 70
     },
     "rank_info": {
-      "rank": 5,
+      "rank": 6,
+      "delta_rank": -1,
       "peak_rank": 5,
       "peak_rating": 1629,
       "last_played": 1785077127
@@ -591,6 +593,19 @@
     }
   },
   {
+    "name": "felipe_bot_53",
+    "perf": {
+      "rating": 1943,
+      "rd": 231,
+      "games": 6,
+      "prov": true
+    },
+    "rank_info": {
+      "peak_rating": 1943,
+      "last_played": 1785309194
+    }
+  },
+  {
     "name": "GarboBot",
     "perf": {
       "rating": 1862,
@@ -599,7 +614,8 @@
       "games": 718
     },
     "rank_info": {
-      "rank": 3,
+      "rank": 4,
+      "delta_rank": -1,
       "peak_rank": 3,
       "peak_rating": 1862,
       "last_played": 1785236589
@@ -1214,12 +1230,13 @@
     "name": "OpeningsBot",
     "perf": {
       "rating": 2254,
-      "rd": 54,
+      "rd": 55,
       "prog": -9,
       "games": 1139
     },
     "rank_info": {
-      "rank": 2,
+      "rank": 3,
+      "delta_rank": -1,
       "peak_rank": 2,
       "peak_rating": 2254,
       "last_played": 1785091072
@@ -1241,14 +1258,18 @@
   {
     "name": "pawn_git",
     "perf": {
-      "rating": 2552,
-      "rd": 57,
-      "prog": 34,
-      "games": 204
+      "rating": 2574,
+      "rd": 60,
+      "prog": 35,
+      "games": 211
     },
     "rank_info": {
-      "peak_rating": 2552,
-      "last_played": 1784076493
+      "rank": 2,
+      "delta_rank": -2,
+      "delta_rating": 22,
+      "delta_games": 7,
+      "peak_rating": 2574,
+      "last_played": 1785309194
     }
   },
   {
@@ -1355,7 +1376,8 @@
       "games": 27
     },
     "rank_info": {
-      "rank": 4,
+      "rank": 5,
+      "delta_rank": -1,
       "peak_rank": 4,
       "peak_rating": 1776,
       "last_played": 1784637986
