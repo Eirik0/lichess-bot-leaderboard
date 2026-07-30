@@ -505,7 +505,7 @@
     "name": "BOT_Stockfish13",
     "perf": {
       "rating": 2673,
-      "rd": 72,
+      "rd": 79,
       "prog": 32,
       "games": 215
     },
@@ -2866,16 +2866,18 @@
   {
     "name": "OpeningsBot",
     "perf": {
-      "rating": 2222,
+      "rating": 2220,
       "rd": 45,
-      "prog": 5,
-      "games": 4986
+      "prog": 4,
+      "games": 4987
     },
     "rank_info": {
       "rank": 9,
+      "delta_rating": -2,
+      "delta_games": 1,
       "peak_rank": 9,
       "peak_rating": 2222,
-      "last_played": 1785329856
+      "last_played": 1785372611
     }
   },
   {
@@ -2973,16 +2975,18 @@
   {
     "name": "pawn_git",
     "perf": {
-      "rating": 2168,
+      "rating": 2165,
       "rd": 45,
-      "prog": -1,
-      "games": 4518
+      "prog": -6,
+      "games": 4519
     },
     "rank_info": {
       "rank": 10,
+      "delta_rating": -3,
+      "delta_games": 1,
       "peak_rank": 10,
       "peak_rating": 2168,
-      "last_played": 1785309194
+      "last_played": 1785372611
     }
   },
   {
