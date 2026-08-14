@@ -15,6 +15,7 @@ class RealLichessClient(LichessClient):
     """
     url = "https://lichess.org/api/bot/online"
     headers = {"Accept": "application/x-ndjson"}
-    response = requests.get(url, headers=headers, timeout=10, stream=True)
+    params = {"nb": 512}
+    response = requests.get(url, headers=headers, params=params, timeout=10, stream=True)
     response.raise_for_status()
     return response.text
