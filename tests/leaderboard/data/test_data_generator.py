@@ -268,6 +268,21 @@ class TestDataGeneratorFunctions(unittest.TestCase):
     leaderboard_rows = data_generator_functions.create_ranked_rows(updates, bot_profiles_by_name, DATE_2025_04_01)
     self.assertEqual(leaderboard_rows[0].rank_info.rank, 0)
 
+  def test_create_ranked_rows_1224_ineligible(self) -> None:
+    bot_1_perf = BotPerf("Bot-1", LeaderboardPerf(3000, 0, 0, 1000, False))
+    # Ineligible due to prov=True
+    bot_2_perf = BotPerf("Bot-2", LeaderboardPerf(2900, 0, 0, 1000, True))
+    bot_3_perf = BotPerf("Bot-3", LeaderboardPerf(2900, 0, 0, 1000, False))
+    updates: list[LeaderboardUpdate] = [
+      CurrentBotPerfOnlyUpdate(bot_1_perf),
+      CurrentBotPerfOnlyUpdate(bot_2_perf),
+      CurrentBotPerfOnlyUpdate(bot_3_perf),
+    ]
+    leaderboard_rows = data_generator_functions.create_ranked_rows(updates, BOT_PROFILES_BY_NAME, DATE_2025_04_01)
+    self.assertEqual(leaderboard_rows[0].rank_info.rank, 1)
+    self.assertEqual(leaderboard_rows[1].rank_info.rank, 0)
+    self.assertEqual(leaderboard_rows[2].rank_info.rank, 2)
+
 
 class TestDataGenerator(unittest.TestCase):
   """Tests for DataGenerator."""

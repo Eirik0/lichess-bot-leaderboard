@@ -138,8 +138,8 @@ def create_ranked_rows(
         rank += 1
         same_rank_count = 0
       rank_to_set = rank
+      previous_rating = update.get_rating()
     new_rows.append(update.to_leaderboard_row(rank_to_set, current_time))
-    previous_rating = update.get_rating()
   return new_rows
 
 
