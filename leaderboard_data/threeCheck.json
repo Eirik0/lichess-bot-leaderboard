@@ -394,7 +394,6 @@
     },
     "rank_info": {
       "rank": 9,
-      "delta_rank": 1,
       "peak_rank": 9,
       "peak_rating": 2066,
       "last_played": 1787216171
@@ -403,16 +402,19 @@
   {
     "name": "DavidsGuterBot",
     "perf": {
-      "rating": 1208,
-      "rd": 57,
-      "prog": -4,
-      "games": 3101
+      "rating": 1212,
+      "rd": 55,
+      "prog": -1,
+      "games": 3103
     },
     "rank_info": {
-      "rank": 21,
+      "rank": 24,
+      "delta_rank": -3,
+      "delta_rating": 4,
+      "delta_games": 2,
       "peak_rank": 21,
-      "peak_rating": 1208,
-      "last_played": 1786931692
+      "peak_rating": 1212,
+      "last_played": 1787258755
     }
   },
   {
@@ -478,6 +480,21 @@
     "rank_info": {
       "peak_rating": 2476,
       "last_played": 1747491853
+    }
+  },
+  {
+    "name": "escarbo",
+    "perf": {
+      "rating": 1319,
+      "rd": 45,
+      "prog": -13,
+      "games": 208
+    },
+    "rank_info": {
+      "rank": 22,
+      "peak_rank": 22,
+      "peak_rating": 1319,
+      "last_played": 1787258755
     }
   },
   {
@@ -548,14 +565,18 @@
   {
     "name": "genesis1bot",
     "perf": {
-      "rating": 1284,
+      "rating": 1288,
       "rd": 45,
-      "prog": 21,
-      "games": 433
+      "prog": 4,
+      "games": 573
     },
     "rank_info": {
-      "peak_rating": 1284,
-      "last_played": 1776464906
+      "rank": 23,
+      "delta_rank": -23,
+      "delta_rating": 4,
+      "delta_games": 140,
+      "peak_rating": 1288,
+      "last_played": 1787258755
     }
   },
   {
@@ -714,8 +735,6 @@
     },
     "rank_info": {
       "rank": 6,
-      "delta_rating": 2,
-      "delta_games": 4,
       "peak_rank": 6,
       "peak_rating": 2128,
       "last_played": 1787252326
@@ -1130,7 +1149,8 @@
       "games": 2828
     },
     "rank_info": {
-      "rank": 22,
+      "rank": 25,
+      "delta_rank": -3,
       "peak_rank": 22,
       "peak_rating": 1147,
       "last_played": 1786804743
@@ -1193,15 +1213,17 @@
   {
     "name": "Randmaster_Bot",
     "perf": {
-      "rating": 530,
+      "rating": 529,
       "rd": 119,
       "prog": -12,
-      "games": 140,
+      "games": 141,
       "prov": true
     },
     "rank_info": {
+      "delta_rating": -1,
+      "delta_games": 1,
       "peak_rating": 530,
-      "last_played": 1787115125
+      "last_played": 1787258755
     }
   },
   {
@@ -1227,25 +1249,26 @@
     },
     "rank_info": {
       "rank": 10,
-      "delta_rank": -1,
-      "delta_rating": -11,
-      "delta_games": 1,
-      "peak_rank": 9,
-      "peak_rating": 2074,
+      "peak_rank": 10,
+      "peak_rating": 2063,
       "last_played": 1787252326
     }
   },
   {
     "name": "reaper1bot",
     "perf": {
-      "rating": 1375,
-      "rd": 46,
-      "prog": -8,
-      "games": 341
+      "rating": 1358,
+      "rd": 48,
+      "prog": 15,
+      "games": 436
     },
     "rank_info": {
-      "peak_rating": 1390,
-      "last_played": 1776092054
+      "rank": 21,
+      "delta_rank": -21,
+      "delta_rating": -17,
+      "delta_games": 95,
+      "peak_rating": 1375,
+      "last_played": 1787258755
     }
   },
   {
@@ -1359,18 +1382,18 @@
   {
     "name": "Stockfish-MEDIUM",
     "perf": {
-      "rating": 1586,
+      "rating": 1581,
       "rd": 45,
-      "prog": -40,
-      "games": 334
+      "prog": -33,
+      "games": 338
     },
     "rank_info": {
       "rank": 16,
-      "delta_rating": -16,
-      "delta_games": 5,
+      "delta_rating": -5,
+      "delta_games": 4,
       "peak_rank": 16,
-      "peak_rating": 1602,
-      "last_played": 1787252326
+      "peak_rating": 1586,
+      "last_played": 1787258755
     }
   },
   {
