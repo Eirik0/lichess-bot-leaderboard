@@ -28,7 +28,7 @@ jobs:
     steps:
       # Setup
       - name: 🛒 Checkout leaderboard-pages branch
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           ref: leaderboard-pages
           # Get the Full history for rebasing
@@ -44,7 +44,7 @@ jobs:
           git fetch origin main
           git rebase origin/main
       - name: 🐍 Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v7
         with:
           python-version: ${{ env.PYTHON_VERSION }}
       - name: 🛠️ Install dependencies (python)
@@ -78,9 +78,9 @@ jobs:
           git push -f origin leaderboard-pages
       # Upload and deploy the pages
       - name: 🏋️ Upload leaderboard html
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v5
         with:
           path: leaderboard_html/
       - name: 🎆 Deploy leaderboard pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
