@@ -51,7 +51,7 @@
           <a href="https://lichess.org/@/{{ row.name }}/perf/{{ perf_type_str }}" target="_blank" rel="noopener noreferrer">{{ row.rating }}</a>
         </td>
         <td class="col-delta-rating {{ row.delta_rating.html_class }}">{{ row.delta_rating.formatted_value }}</td>
-        <td class="col-rd">{{ row.rd }}</td>
+        <td class="col-rd {{ row.rd.html_class }}" style="--rd: {{ row.rd.value }};">{{ row.rd.value }}</td>
         <td class="col-games">{{ row.games }}</td>
         <td class="col-delta-games {{ row.delta_games.html_class }}">{{ row.delta_games.formatted_value }}</td>
         <td class="col-age">{{ row.age }}</td>
