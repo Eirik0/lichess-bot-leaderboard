@@ -27,7 +27,7 @@ jobs:
     steps:
       # Setup
       - name: 🛒 Checkout repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           fetch-depth: 0
       # Determine which jobs need to be run based on which files have changed
@@ -137,7 +137,7 @@ jobs:
     steps:
       # Setup
       - name: 🛒 Checkout repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           fetch-depth: 0
       # Recheck the diff - this is done because this job will run if the ci has changed
@@ -159,9 +159,9 @@ jobs:
     steps:
       # Setup
       - name: 🛒 Checkout repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
       - name: 🐸 Set up node.js
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v7
         with:
           node-version: latest
       - name: 📦 Install dependencies (node.js)
@@ -187,9 +187,9 @@ jobs:
     steps:
       # Setup
       - name: 🛒 Checkout repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
       - name: 🐸 Set up node.js
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v7
         with:
           node-version: latest
       - name: 📦 Install dependencies (node.js)
@@ -209,9 +209,9 @@ jobs:
     steps:
       # Setup
       - name: 🛒 Checkout repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
       - name: 🐍 Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v7
         with:
           python-version: ${{ env.PYTHON_VERSION }}
       - name: 🛠️ Install dependencies (python)
@@ -242,9 +242,9 @@ jobs:
     steps:
       # Setup
       - name: 🛒 Checkout repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
       - name: 🐸 Set up node.js
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v7
         with:
           node-version: latest
       - name: 📦 Install dependencies (node.js)
@@ -264,9 +264,9 @@ jobs:
     steps:
       # Setup
       - name: 🛒 Checkout repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
       - name: 🐍 Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v7
         with:
           python-version: ${{ env.PYTHON_VERSION }}
       - name: 🛠️ Install dependencies (python)
@@ -291,9 +291,9 @@ jobs:
     steps:
       # Setup
       - name: 🛒 Checkout repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
       - name: 🚿 Set up Taplo
-        uses: uncenter/setup-taplo@v1
+        uses: uncenter/setup-taplo@v2
       # Format
       - name: 🧹 Check format (taplo)
         run: |
@@ -318,9 +318,9 @@ jobs:
     steps:
       # Setup
       - name: 🛒 Checkout repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
       - name: 🐍 Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v7
         with:
           python-version: ${{ env.PYTHON_VERSION }}
       - name: 🛠️ Install dependencies (python)
@@ -328,7 +328,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements/leaderboard.txt
       - name: 🐸 Set up node.js
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v7
         with:
           node-version: latest
       - name: 📦 Install dependencies (node.js)
@@ -362,9 +362,9 @@ jobs:
     steps:
       # Setup
       - name: 🛒 Checkout repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
       - name: 🐍 Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v7
         with:
           python-version: ${{ env.PYTHON_VERSION }}
       - name: 🛠️ Install dependencies (python)
@@ -414,9 +414,9 @@ jobs:
     steps:
       # Setup
       - name: 🛒 Checkout repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
       - name: 🐍 Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v7
         with:
           python-version: ${{ env.PYTHON_VERSION }}
       - name: 🛠️ Install dependencies (python)
@@ -434,6 +434,7 @@ jobs:
         # Comment about code coverage on PRs
       - name: 🐒 Comment coverage on PR
         if: ${{ github.event_name == 'pull_request' }}
+        continue-on-error: true
         # Use an old version to avoid adding a check to the workflow
         uses: 5monkeys/cobertura-action@v9
         with:

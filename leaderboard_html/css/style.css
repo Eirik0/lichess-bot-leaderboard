@@ -291,6 +291,10 @@ td.col-flag {
   text-align: center;
 }
 
+.col-rd.rd-unstable {
+  color: color-mix(in srgb, red calc((var(--rd) - 46) / (109 - 46) * 100%), orange);
+}
+
 /* Games */
 .col-games {
   width: 9%;

@@ -49,6 +49,7 @@
     "editor.formatOnSave": true
   },
   // python
+  "python.languageServer": "None",
   "[python]": {
     "editor.defaultFormatter": "charliermarsh.ruff",
     "editor.codeActionsOnSave": {
@@ -57,7 +58,6 @@
     "editor.formatOnSave": true,
     "editor.tabSize": 2
   },
-  "python.defaultInterpreterPath": "${workspaceFolder}/.venv",
   // toml
   "[toml]": {
     "editor.defaultFormatter": "tamasfe.even-better-toml",

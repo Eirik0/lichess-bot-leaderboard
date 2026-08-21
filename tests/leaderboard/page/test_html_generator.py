@@ -11,6 +11,7 @@ from src.leaderboard.page.html_generator import (
   HtmlGenerator,
   HtmlLeaderboardRow,
   LeaderboardDelta,
+  LeaderboardRd,
   LeaderboardTitle,
   MainFrame,
   OnlineStatus,
@@ -96,6 +97,16 @@ class TestFlag(unittest.TestCase):
     self.assertEqual(Flag.from_string("_earth"), Flag("", "earth-flag"))
 
 
+class TestLeaderboardRd(unittest.TestCase):
+  """Tests for LeaderboardRd."""
+
+  def test_for_rd(self) -> None:
+    self.assertEqual(LeaderboardRd.for_rd(45), LeaderboardRd(45, ""))
+    self.assertEqual(LeaderboardRd.for_rd(46), LeaderboardRd(46, LeaderboardRd.UNSTABLE_CLASS))
+    self.assertEqual(LeaderboardRd.for_rd(109), LeaderboardRd(109, LeaderboardRd.UNSTABLE_CLASS))
+    self.assertEqual(LeaderboardRd.for_rd(110), LeaderboardRd(110, ""))
+
+
 class TestHtmlLeaderboardRow(unittest.TestCase):
   """Tests for HtmlLeaderboardRow."""
 
@@ -113,7 +124,7 @@ class TestHtmlLeaderboardRow(unittest.TestCase):
       Flag("🇭🇲", ""),
       3000,
       LeaderboardDelta("-5", LeaderboardDelta.DELTA_NEG_CLASS),
-      45,
+      LeaderboardRd(45, ""),
       1000,
       LeaderboardDelta("+10", LeaderboardDelta.DELTA_POS_CLASS),
       "5mo",

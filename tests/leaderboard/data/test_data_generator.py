@@ -186,7 +186,7 @@ class TestDataGeneratorFunctions(unittest.TestCase):
 
   def test_create_sort_key(self) -> None:
     bot_names = ["BOT-4", "Bot-2", "Bot-5", "bot-3", "bot-1", "Bot-4", "Bot-1"]
-    sorted_bot_names = sorted(bot_names, key=lambda name: data_generator_functions.name_sort_key(name))
+    sorted_bot_names = sorted(bot_names, key=data_generator_functions.name_sort_key)
     self.assertListEqual(sorted_bot_names, ["Bot-1", "bot-1", "Bot-2", "bot-3", "BOT-4", "Bot-4", "Bot-5"])
 
   def test_create_ranked_rows(self) -> None:
@@ -267,6 +267,21 @@ class TestDataGeneratorFunctions(unittest.TestCase):
     bot_profiles_by_name = {"Bot-1": BotProfile("Bot-1", "", "", DATE_2021_04_01, DATE_2021_04_01, False, False, False, True)}
     leaderboard_rows = data_generator_functions.create_ranked_rows(updates, bot_profiles_by_name, DATE_2025_04_01)
     self.assertEqual(leaderboard_rows[0].rank_info.rank, 0)
+
+  def test_create_ranked_rows_1224_ineligible(self) -> None:
+    bot_1_perf = BotPerf("Bot-1", LeaderboardPerf(3000, 0, 0, 1000, False))
+    # Ineligible due to prov=True
+    bot_2_perf = BotPerf("Bot-2", LeaderboardPerf(2900, 0, 0, 1000, True))
+    bot_3_perf = BotPerf("Bot-3", LeaderboardPerf(2900, 0, 0, 1000, False))
+    updates: list[LeaderboardUpdate] = [
+      CurrentBotPerfOnlyUpdate(bot_1_perf),
+      CurrentBotPerfOnlyUpdate(bot_2_perf),
+      CurrentBotPerfOnlyUpdate(bot_3_perf),
+    ]
+    leaderboard_rows = data_generator_functions.create_ranked_rows(updates, BOT_PROFILES_BY_NAME, DATE_2025_04_01)
+    self.assertEqual(leaderboard_rows[0].rank_info.rank, 1)
+    self.assertEqual(leaderboard_rows[1].rank_info.rank, 0)
+    self.assertEqual(leaderboard_rows[2].rank_info.rank, 2)
 
 
 class TestDataGenerator(unittest.TestCase):

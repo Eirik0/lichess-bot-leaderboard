@@ -165,6 +165,25 @@ class Flag:
 
 
 @dataclasses.dataclass(frozen=True)
+class LeaderboardRd:
+  """Convenience class for styling rating deviation."""
+
+  UNSTABLE_CLASS = "rd-unstable"
+  UNSTABLE_RD_MIN = 46
+  UNSTABLE_RD_MAX = 109
+
+  value: int
+  html_class: str
+
+  @classmethod
+  def for_rd(cls, rd: int) -> "LeaderboardRd":
+    """Return rd with unstable html class if applicable."""
+    if cls.UNSTABLE_RD_MIN <= rd <= cls.UNSTABLE_RD_MAX:
+      return LeaderboardRd(rd, LeaderboardRd.UNSTABLE_CLASS)
+    return LeaderboardRd(rd, "")
+
+
+@dataclasses.dataclass(frozen=True)
 class HtmlLeaderboardRow:
   """The data required to render a leaderboard row in html."""
 
@@ -176,7 +195,7 @@ class HtmlLeaderboardRow:
   flag: Flag
   rating: int
   delta_rating: LeaderboardDelta
-  rd: int
+  rd: LeaderboardRd
   games: int
   delta_games: LeaderboardDelta
   age: str
@@ -194,7 +213,7 @@ class HtmlLeaderboardRow:
       Flag.from_string(profile.flag),
       row.perf.rating,
       LeaderboardDelta.for_delta(row.rank_info.delta_rating),
-      row.perf.rd,
+      LeaderboardRd.for_rd(row.perf.rd),
       row.perf.games,
       LeaderboardDelta.for_delta(row.rank_info.delta_games),
       duration_formatter.format_age(profile.created, current_time),
