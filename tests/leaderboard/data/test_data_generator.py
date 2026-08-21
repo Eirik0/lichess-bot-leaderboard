@@ -186,7 +186,7 @@ class TestDataGeneratorFunctions(unittest.TestCase):
 
   def test_create_sort_key(self) -> None:
     bot_names = ["BOT-4", "Bot-2", "Bot-5", "bot-3", "bot-1", "Bot-4", "Bot-1"]
-    sorted_bot_names = sorted(bot_names, key=lambda name: data_generator_functions.name_sort_key(name))
+    sorted_bot_names = sorted(bot_names, key=data_generator_functions.name_sort_key)
     self.assertListEqual(sorted_bot_names, ["Bot-1", "bot-1", "Bot-2", "bot-3", "BOT-4", "Bot-4", "Bot-5"])
 
   def test_create_ranked_rows(self) -> None:

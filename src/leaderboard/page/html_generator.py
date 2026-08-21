@@ -169,6 +169,8 @@ class LeaderboardRd:
   """Convenience class for styling rating deviation."""
 
   UNSTABLE_CLASS = "rd-unstable"
+  UNSTABLE_RD_MIN = 46
+  UNSTABLE_RD_MAX = 109
 
   value: int
   html_class: str
@@ -176,7 +178,7 @@ class LeaderboardRd:
   @classmethod
   def for_rd(cls, rd: int) -> "LeaderboardRd":
     """Return rd with unstable html class if applicable."""
-    if 46 <= rd <= 109:
+    if cls.UNSTABLE_RD_MIN <= rd <= cls.UNSTABLE_RD_MAX:
       return LeaderboardRd(rd, LeaderboardRd.UNSTABLE_CLASS)
     return LeaderboardRd(rd, "")
 
