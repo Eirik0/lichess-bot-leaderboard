@@ -451,7 +451,7 @@ jobs:
           coverage html
       # Upload coverage artifacts
       - name: 🤳 Upload coverage html
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v5
         with:
           name: htmlcov
           path: htmlcov/
