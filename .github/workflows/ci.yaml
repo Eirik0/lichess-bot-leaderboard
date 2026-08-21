@@ -434,6 +434,7 @@ jobs:
         # Comment about code coverage on PRs
       - name: 🐒 Comment coverage on PR
         if: ${{ github.event_name == 'pull_request' }}
+        continue-on-error: true
         # Use an old version to avoid adding a check to the workflow
         uses: 5monkeys/cobertura-action@v9
         with:
