@@ -413,7 +413,6 @@
     },
     "rank_info": {
       "rank": 21,
-      "delta_games": 2,
       "peak_rank": 21,
       "peak_rating": 2060,
       "last_played": 1787622728
@@ -450,14 +449,16 @@
   {
     "name": "chess_set_manager",
     "perf": {
-      "rating": 2200,
-      "rd": 436,
-      "games": 1,
+      "rating": 2402,
+      "rd": 273,
+      "games": 2,
       "prov": true
     },
     "rank_info": {
-      "peak_rating": 2200,
-      "last_played": 1787583584
+      "delta_rating": 202,
+      "delta_games": 1,
+      "peak_rating": 2402,
+      "last_played": 1787627560
     }
   },
   {
@@ -1288,16 +1289,18 @@
   {
     "name": "NilatacBot",
     "perf": {
-      "rating": 2175,
+      "rating": 2172,
       "rd": 45,
-      "prog": -8,
-      "games": 7412
+      "prog": -9,
+      "games": 7413
     },
     "rank_info": {
       "rank": 17,
+      "delta_rating": -3,
+      "delta_games": 1,
       "peak_rank": 17,
       "peak_rating": 2175,
-      "last_played": 1787611440
+      "last_played": 1787627560
     }
   },
   {
@@ -1440,7 +1443,6 @@
     },
     "rank_info": {
       "rank": 24,
-      "delta_games": 1,
       "peak_rank": 24,
       "peak_rating": 1391,
       "last_played": 1787622728
@@ -1580,10 +1582,8 @@
     },
     "rank_info": {
       "rank": 34,
-      "delta_rating": -1,
-      "delta_games": 3,
       "peak_rank": 34,
-      "peak_rating": 697,
+      "peak_rating": 696,
       "last_played": 1787622728
     }
   },
