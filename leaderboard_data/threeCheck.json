@@ -8,7 +8,8 @@
       "games": 117
     },
     "rank_info": {
-      "rank": 15,
+      "rank": 16,
+      "delta_rank": -1,
       "peak_rank": 15,
       "peak_rating": 2049,
       "last_played": 1787676891
@@ -91,8 +92,9 @@
       "games": 169
     },
     "rank_info": {
-      "rank": 29,
-      "peak_rank": 29,
+      "rank": 28,
+      "delta_rank": 1,
+      "peak_rank": 28,
       "peak_rating": 1534,
       "last_played": 1787684161
     }
@@ -1374,16 +1376,19 @@
   {
     "name": "RaspFish",
     "perf": {
-      "rating": 2041,
+      "rating": 2050,
       "rd": 57,
-      "prog": -72,
-      "games": 1147
+      "prog": -57,
+      "games": 1148
     },
     "rank_info": {
-      "rank": 16,
-      "peak_rank": 16,
-      "peak_rating": 2041,
-      "last_played": 1787510879
+      "rank": 15,
+      "delta_rank": 1,
+      "delta_rating": 9,
+      "delta_games": 1,
+      "peak_rank": 15,
+      "peak_rating": 2050,
+      "last_played": 1787734907
     }
   },
   {
@@ -1514,18 +1519,19 @@
   {
     "name": "Stockfish-MEDIUM",
     "perf": {
-      "rating": 1533,
+      "rating": 1529,
       "rd": 45,
-      "prog": -19,
-      "games": 439
+      "prog": -23,
+      "games": 440
     },
     "rank_info": {
-      "rank": 28,
-      "delta_rating": -1,
-      "delta_games": 3,
+      "rank": 29,
+      "delta_rank": -1,
+      "delta_rating": -4,
+      "delta_games": 1,
       "peak_rank": 28,
-      "peak_rating": 1534,
-      "last_played": 1787728109
+      "peak_rating": 1533,
+      "last_played": 1787734907
     }
   },
   {
@@ -1799,7 +1805,7 @@
     "name": "YoBot_v2",
     "perf": {
       "rating": 2257,
-      "rd": 337,
+      "rd": 338,
       "prog": 7,
       "games": 36,
       "prov": true
