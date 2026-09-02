@@ -9,8 +9,6 @@
     },
     "rank_info": {
       "rank": 6,
-      "delta_rating": 9,
-      "delta_games": 2,
       "peak_rank": 6,
       "peak_rating": 2254,
       "last_played": 1788366874
@@ -94,8 +92,9 @@
       "games": 112
     },
     "rank_info": {
-      "rank": 23,
-      "peak_rank": 23,
+      "rank": 22,
+      "delta_rank": 1,
+      "peak_rank": 22,
       "peak_rating": 1795,
       "last_played": 1788101543
     }
@@ -209,7 +208,8 @@
       "games": 75
     },
     "rank_info": {
-      "rank": 12,
+      "rank": 13,
+      "delta_rank": -1,
       "peak_rank": 12,
       "peak_rating": 2092,
       "last_played": 1788280813
@@ -288,16 +288,19 @@
   {
     "name": "chess_set_manager",
     "perf": {
-      "rating": 2089,
-      "rd": 81,
-      "prog": 35,
-      "games": 26
+      "rating": 2096,
+      "rd": 80,
+      "prog": 75,
+      "games": 28
     },
     "rank_info": {
-      "rank": 13,
-      "peak_rank": 13,
-      "peak_rating": 2089,
-      "last_played": 1788308065
+      "rank": 12,
+      "delta_rank": 1,
+      "delta_rating": 7,
+      "delta_games": 2,
+      "peak_rank": 12,
+      "peak_rating": 2096,
+      "last_played": 1788383003
     }
   },
   {
@@ -438,16 +441,18 @@
   {
     "name": "DavidsGuterBot",
     "perf": {
-      "rating": 1225,
+      "rating": 1224,
       "rd": 51,
-      "prog": 10,
-      "games": 3913
+      "prog": -3,
+      "games": 3914
     },
     "rank_info": {
       "rank": 37,
+      "delta_rating": -1,
+      "delta_games": 1,
       "peak_rank": 37,
       "peak_rating": 1225,
-      "last_played": 1788296521
+      "last_played": 1788383003
     }
   },
   {
@@ -736,16 +741,19 @@
   {
     "name": "JemBok",
     "perf": {
-      "rating": 1819,
+      "rating": 1766,
       "rd": 45,
-      "prog": 43,
-      "games": 234
+      "prog": 10,
+      "games": 265
     },
     "rank_info": {
-      "rank": 21,
+      "rank": 23,
+      "delta_rank": -2,
+      "delta_rating": -53,
+      "delta_games": 31,
       "peak_rank": 21,
       "peak_rating": 1819,
-      "last_played": 1788101543
+      "last_played": 1788383003
     }
   },
   {
@@ -771,8 +779,6 @@
     },
     "rank_info": {
       "rank": 17,
-      "delta_rating": 12,
-      "delta_games": 7,
       "peak_rank": 17,
       "peak_rating": 1917,
       "last_played": 1788366874
@@ -1405,7 +1411,7 @@
     "name": "SF_Bot1nok",
     "perf": {
       "rating": 2174,
-      "rd": 65,
+      "rd": 66,
       "prog": -15,
       "games": 121
     },
@@ -1464,8 +1470,9 @@
       "games": 254
     },
     "rank_info": {
-      "rank": 22,
-      "peak_rank": 22,
+      "rank": 21,
+      "delta_rank": 1,
+      "peak_rank": 21,
       "peak_rating": 1813,
       "last_played": 1788036942
     }
