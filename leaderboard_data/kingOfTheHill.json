@@ -207,8 +207,9 @@
       "games": 75
     },
     "rank_info": {
-      "rank": 14,
-      "peak_rank": 14,
+      "rank": 13,
+      "delta_rank": 1,
+      "peak_rank": 13,
       "peak_rating": 2092,
       "last_played": 1788280813
     }
@@ -288,16 +289,19 @@
   {
     "name": "chess_set_manager",
     "perf": {
-      "rating": 2098,
-      "rd": 83,
-      "prog": 19,
-      "games": 25
+      "rating": 2089,
+      "rd": 81,
+      "prog": 35,
+      "games": 26
     },
     "rank_info": {
-      "rank": 13,
+      "rank": 14,
+      "delta_rank": -1,
+      "delta_rating": -9,
+      "delta_games": 1,
       "peak_rank": 13,
       "peak_rating": 2098,
-      "last_played": 1788239293
+      "last_played": 1788308065
     }
   },
   {
@@ -445,10 +449,8 @@
     },
     "rank_info": {
       "rank": 39,
-      "delta_rating": -1,
-      "delta_games": 1,
       "peak_rank": 39,
-      "peak_rating": 1226,
+      "peak_rating": 1225,
       "last_played": 1788296521
     }
   },
@@ -1305,7 +1307,7 @@
     "name": "Randmaster_Bot",
     "perf": {
       "rating": 619,
-      "rd": 71,
+      "rd": 72,
       "prog": -5,
       "games": 181
     },
@@ -1561,8 +1563,6 @@
       "prov": true
     },
     "rank_info": {
-      "delta_rating": 3,
-      "delta_games": 1,
       "peak_rating": 1917,
       "last_played": 1788296521
     }
