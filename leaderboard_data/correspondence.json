@@ -362,16 +362,18 @@
   {
     "name": "ChessatronBot",
     "perf": {
-      "rating": 2400,
+      "rating": 2396,
       "rd": 54,
-      "prog": 29,
-      "games": 76
+      "prog": 36,
+      "games": 77
     },
     "rank_info": {
       "rank": 2,
+      "delta_rating": -4,
+      "delta_games": 1,
       "peak_rank": 2,
       "peak_rating": 2400,
-      "last_played": 1788383003
+      "last_played": 1788469333
     }
   },
   {
@@ -1042,14 +1044,16 @@
   {
     "name": "LineNetBot",
     "perf": {
-      "rating": 2353,
-      "rd": 460,
-      "games": 2,
+      "rating": 2031,
+      "rd": 290,
+      "games": 3,
       "prov": true
     },
     "rank_info": {
+      "delta_rating": -322,
+      "delta_games": 1,
       "peak_rating": 2353,
-      "last_played": 1788434072
+      "last_played": 1788469333
     }
   },
   {
@@ -1155,9 +1159,7 @@
       "prov": true
     },
     "rank_info": {
-      "delta_rating": -284,
-      "delta_games": 1,
-      "peak_rating": 2494,
+      "peak_rating": 2210,
       "last_played": 1788452731
     }
   },
