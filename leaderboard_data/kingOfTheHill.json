@@ -78,8 +78,6 @@
     },
     "rank_info": {
       "rank": 28,
-      "delta_rating": -6,
-      "delta_games": 2,
       "peak_rank": 28,
       "peak_rating": 1647,
       "last_played": 1788652430
@@ -95,10 +93,7 @@
     },
     "rank_info": {
       "rank": 22,
-      "delta_rank": -1,
-      "delta_rating": -7,
-      "delta_games": 4,
-      "peak_rank": 21,
+      "peak_rank": 22,
       "peak_rating": 1820,
       "last_played": 1788652430
     }
@@ -256,7 +251,8 @@
       "games": 626
     },
     "rank_info": {
-      "rank": 13,
+      "rank": 14,
+      "delta_rank": -1,
       "peak_rank": 13,
       "peak_rating": 2053,
       "last_played": 1788496390
@@ -291,16 +287,19 @@
   {
     "name": "chess_set_manager",
     "perf": {
-      "rating": 2033,
-      "rd": 49,
-      "prog": -15,
-      "games": 74
+      "rating": 2061,
+      "rd": 47,
+      "prog": 15,
+      "games": 79
     },
     "rank_info": {
-      "rank": 15,
-      "peak_rank": 15,
-      "peak_rating": 2043,
-      "last_played": 1788640078
+      "rank": 13,
+      "delta_rank": 2,
+      "delta_rating": 28,
+      "delta_games": 5,
+      "peak_rank": 13,
+      "peak_rating": 2061,
+      "last_played": 1788669535
     }
   },
   {
@@ -433,8 +432,6 @@
     },
     "rank_info": {
       "rank": 7,
-      "delta_rating": 6,
-      "delta_games": 5,
       "peak_rank": 7,
       "peak_rating": 2235,
       "last_played": 1788652430
@@ -443,16 +440,18 @@
   {
     "name": "DavidsGuterBot",
     "perf": {
-      "rating": 1230,
+      "rating": 1227,
       "rd": 45,
-      "prog": 4,
-      "games": 3938
+      "prog": -1,
+      "games": 3940
     },
     "rank_info": {
       "rank": 37,
+      "delta_rating": -3,
+      "delta_games": 2,
       "peak_rank": 37,
       "peak_rating": 1230,
-      "last_played": 1788582562
+      "last_played": 1788669535
     }
   },
   {
@@ -1144,8 +1143,6 @@
     },
     "rank_info": {
       "rank": 20,
-      "delta_rating": 5,
-      "delta_games": 2,
       "peak_rank": 20,
       "peak_rating": 1841,
       "last_played": 1788652430
@@ -1160,7 +1157,8 @@
       "games": 627
     },
     "rank_info": {
-      "rank": 14,
+      "rank": 15,
+      "delta_rank": -1,
       "peak_rank": 14,
       "peak_rating": 2051,
       "last_played": 1788469333
@@ -1287,7 +1285,6 @@
     },
     "rank_info": {
       "rank": 21,
-      "delta_rank": 1,
       "peak_rank": 21,
       "peak_rating": 1816,
       "last_played": 1788480379
@@ -1371,7 +1368,7 @@
     "name": "ResoluteBot",
     "perf": {
       "rating": 2233,
-      "rd": 330,
+      "rd": 331,
       "games": 2,
       "prov": true
     },
@@ -1734,7 +1731,7 @@
     "name": "Worst-ai",
     "perf": {
       "rating": 2227,
-      "rd": 273,
+      "rd": 274,
       "games": 3,
       "prov": true
     },
