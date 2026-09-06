@@ -180,9 +180,6 @@
     },
     "rank_info": {
       "rank": 5,
-      "delta_rank": 1,
-      "delta_rating": 6,
-      "delta_games": 1,
       "peak_rank": 5,
       "peak_rating": 2627,
       "last_played": 1788708486
@@ -227,7 +224,6 @@
     },
     "rank_info": {
       "rank": 32,
-      "delta_games": 3,
       "peak_rank": 32,
       "peak_rating": 1385,
       "last_played": 1788708486
@@ -303,18 +299,19 @@
   {
     "name": "chess_set_manager",
     "perf": {
-      "rating": 2403,
-      "rd": 56,
+      "rating": 2416,
+      "rd": 54,
       "prog": 52,
-      "games": 56
+      "games": 58
     },
     "rank_info": {
-      "rank": 10,
-      "delta_rating": 7,
-      "delta_games": 3,
-      "peak_rank": 10,
-      "peak_rating": 2403,
-      "last_played": 1788708486
+      "rank": 9,
+      "delta_rank": 1,
+      "delta_rating": 13,
+      "delta_games": 2,
+      "peak_rank": 9,
+      "peak_rating": 2416,
+      "last_played": 1788718668
     }
   },
   {
@@ -1023,6 +1020,19 @@
     }
   },
   {
+    "name": "Martuni",
+    "perf": {
+      "rating": 1795,
+      "rd": 151,
+      "games": 6,
+      "prov": true
+    },
+    "rank_info": {
+      "peak_rating": 1795,
+      "last_played": 1788718668
+    }
+  },
+  {
     "name": "MateCheckCapture",
     "perf": {
       "rating": 885,
@@ -1276,26 +1286,26 @@
     },
     "rank_info": {
       "rank": 21,
-      "delta_rating": -4,
-      "delta_games": 1,
       "peak_rank": 21,
-      "peak_rating": 1938,
+      "peak_rating": 1934,
       "last_played": 1788708486
     }
   },
   {
     "name": "OSaurus",
     "perf": {
-      "rating": 2191,
+      "rating": 2207,
       "rd": 45,
-      "prog": -19,
-      "games": 499
+      "prog": 16,
+      "games": 510
     },
     "rank_info": {
       "rank": 14,
+      "delta_rating": 16,
+      "delta_games": 11,
       "peak_rank": 14,
-      "peak_rating": 2193,
-      "last_played": 1788469333
+      "peak_rating": 2207,
+      "last_played": 1788718668
     }
   },
   {
@@ -1317,13 +1327,14 @@
       "rating": 1296,
       "rd": 59,
       "prog": 25,
-      "games": 2201
+      "games": 2202
     },
     "rank_info": {
       "rank": 34,
+      "delta_games": 1,
       "peak_rank": 34,
       "peak_rating": 1296,
-      "last_played": 1788669535
+      "last_played": 1788718668
     }
   },
   {
@@ -1445,7 +1456,8 @@
       "games": 862
     },
     "rank_info": {
-      "rank": 9,
+      "rank": 10,
+      "delta_rank": -1,
       "peak_rank": 9,
       "peak_rating": 2405,
       "last_played": 1787862634
@@ -1530,11 +1542,8 @@
     },
     "rank_info": {
       "rank": 6,
-      "delta_rank": -1,
-      "delta_rating": -6,
-      "delta_games": 1,
-      "peak_rank": 5,
-      "peak_rating": 2630,
+      "peak_rank": 6,
+      "peak_rating": 2624,
       "last_played": 1788708486
     }
   },
@@ -1683,10 +1692,8 @@
     },
     "rank_info": {
       "rank": 12,
-      "delta_rating": -39,
-      "delta_games": 9,
       "peak_rank": 12,
-      "peak_rating": 2290,
+      "peak_rating": 2251,
       "last_played": 1788708486
     }
   },
