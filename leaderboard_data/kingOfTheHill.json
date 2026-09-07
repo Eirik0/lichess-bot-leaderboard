@@ -151,8 +151,7 @@
     },
     "rank_info": {
       "rank": 11,
-      "delta_rank": -1,
-      "peak_rank": 10,
+      "peak_rank": 11,
       "peak_rating": 2164,
       "last_played": 1788220260
     }
@@ -252,8 +251,9 @@
       "games": 626
     },
     "rank_info": {
-      "rank": 14,
-      "peak_rank": 14,
+      "rank": 13,
+      "delta_rank": 1,
+      "peak_rank": 13,
       "peak_rating": 2053,
       "last_played": 1788496390
     }
@@ -287,16 +287,19 @@
   {
     "name": "chess_set_manager",
     "perf": {
-      "rating": 2055,
-      "rd": 46,
-      "prog": 22,
-      "games": 85
+      "rating": 2051,
+      "rd": 45,
+      "prog": 6,
+      "games": 87
     },
     "rank_info": {
-      "rank": 13,
+      "rank": 14,
+      "delta_rank": -1,
+      "delta_rating": -4,
+      "delta_games": 2,
       "peak_rank": 13,
       "peak_rating": 2055,
-      "last_played": 1788756103
+      "last_played": 1788821434
     }
   },
   {
@@ -423,7 +426,7 @@
     "name": "DarkOnBot",
     "perf": {
       "rating": 2241,
-      "rd": 45,
+      "rd": 46,
       "prog": 9,
       "games": 440
     },
@@ -740,9 +743,6 @@
     },
     "rank_info": {
       "rank": 10,
-      "delta_rank": 1,
-      "delta_rating": 9,
-      "delta_games": 3,
       "peak_rank": 10,
       "peak_rating": 2172,
       "last_played": 1788806632
@@ -940,11 +940,8 @@
     },
     "rank_info": {
       "rank": 31,
-      "delta_rank": -1,
-      "delta_rating": -5,
-      "delta_games": 1,
-      "peak_rank": 30,
-      "peak_rating": 1624,
+      "peak_rank": 31,
+      "peak_rating": 1619,
       "last_played": 1788806632
     }
   },
@@ -1434,7 +1431,7 @@
     "name": "SF_Bot1nok",
     "perf": {
       "rating": 2174,
-      "rd": 67,
+      "rd": 68,
       "prog": -15,
       "games": 121
     },
@@ -1592,8 +1589,6 @@
       "prov": true
     },
     "rank_info": {
-      "delta_rating": 56,
-      "delta_games": 1,
       "peak_rating": 2072,
       "last_played": 1788806632
     }
