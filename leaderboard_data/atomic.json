@@ -218,8 +218,6 @@
     },
     "rank_info": {
       "rank": 4,
-      "delta_rating": 16,
-      "delta_games": 16,
       "peak_rank": 4,
       "peak_rating": 2259,
       "last_played": 1788726539
@@ -489,16 +487,19 @@
   {
     "name": "chess_set_manager",
     "perf": {
-      "rating": 1871,
-      "rd": 47,
-      "prog": -32,
-      "games": 74
+      "rating": 1863,
+      "rd": 45,
+      "prog": -30,
+      "games": 79
     },
     "rank_info": {
-      "rank": 20,
+      "rank": 21,
+      "delta_rank": -1,
+      "delta_rating": -8,
+      "delta_games": 5,
       "peak_rank": 20,
       "peak_rating": 1871,
-      "last_played": 1788708486
+      "last_played": 1788756103
     }
   },
   {
@@ -720,16 +721,18 @@
   {
     "name": "escarbo",
     "perf": {
-      "rating": 1201,
+      "rating": 1213,
       "rd": 45,
-      "prog": 3,
-      "games": 328
+      "prog": 10,
+      "games": 331
     },
     "rank_info": {
       "rank": 41,
+      "delta_rating": 12,
+      "delta_games": 3,
       "peak_rank": 41,
-      "peak_rating": 1201,
-      "last_played": 1788566775
+      "peak_rating": 1213,
+      "last_played": 1788756103
     }
   },
   {
@@ -1283,18 +1286,18 @@
   {
     "name": "MDBOT",
     "perf": {
-      "rating": 1885,
-      "rd": 84,
-      "prog": 13,
-      "games": 61
+      "rating": 1889,
+      "rd": 83,
+      "prog": -5,
+      "games": 69
     },
     "rank_info": {
       "rank": 19,
-      "delta_rating": -5,
-      "delta_games": 2,
+      "delta_rating": 4,
+      "delta_games": 8,
       "peak_rank": 19,
-      "peak_rating": 1890,
-      "last_played": 1788726539
+      "peak_rating": 1889,
+      "last_played": 1788756103
     }
   },
   {
@@ -1543,7 +1546,7 @@
     "name": "OpeningsBot",
     "perf": {
       "rating": 1622,
-      "rd": 70,
+      "rd": 71,
       "prog": 18,
       "games": 2460
     },
@@ -1585,17 +1588,18 @@
   {
     "name": "pawnrobot",
     "perf": {
-      "rating": 1133,
+      "rating": 1131,
       "rd": 46,
-      "prog": -4,
-      "games": 4414
+      "prog": -2,
+      "games": 4422
     },
     "rank_info": {
       "rank": 44,
-      "delta_games": 1,
+      "delta_rating": -2,
+      "delta_games": 8,
       "peak_rank": 44,
       "peak_rating": 1133,
-      "last_played": 1788726539
+      "last_played": 1788756103
     }
   },
   {
@@ -1628,16 +1632,18 @@
   {
     "name": "PineOnPi",
     "perf": {
-      "rating": 844,
-      "rd": 70,
-      "prog": -50,
-      "games": 55
+      "rating": 834,
+      "rd": 69,
+      "prog": -44,
+      "games": 58
     },
     "rank_info": {
       "rank": 45,
+      "delta_rating": -10,
+      "delta_games": 3,
       "peak_rank": 45,
       "peak_rating": 844,
-      "last_played": 1788566775
+      "last_played": 1788756103
     }
   },
   {
@@ -1816,8 +1822,6 @@
     },
     "rank_info": {
       "rank": 3,
-      "delta_rating": -14,
-      "delta_games": 16,
       "peak_rank": 3,
       "peak_rating": 2276,
       "last_played": 1788726539
@@ -1833,8 +1837,6 @@
     },
     "rank_info": {
       "rank": 7,
-      "delta_rating": 2,
-      "delta_games": 1,
       "peak_rank": 7,
       "peak_rating": 2206,
       "last_played": 1788726539
@@ -2003,10 +2005,8 @@
     },
     "rank_info": {
       "rank": 38,
-      "delta_rating": -5,
-      "delta_games": 2,
       "peak_rank": 38,
-      "peak_rating": 1322,
+      "peak_rating": 1317,
       "last_played": 1788726539
     }
   },
@@ -2040,7 +2040,7 @@
     "name": "SuperGame5",
     "perf": {
       "rating": 2223,
-      "rd": 45,
+      "rd": 46,
       "prog": -17,
       "games": 344
     },

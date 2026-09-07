@@ -148,8 +148,6 @@
     },
     "rank_info": {
       "rank": 2,
-      "delta_rating": 2,
-      "delta_games": 11,
       "peak_rank": 2,
       "peak_rating": 2303,
       "last_played": 1788726539
@@ -310,16 +308,18 @@
   {
     "name": "chess_set_manager",
     "perf": {
-      "rating": 1982,
-      "rd": 48,
-      "prog": 1,
-      "games": 73
+      "rating": 1997,
+      "rd": 45,
+      "prog": 15,
+      "games": 84
     },
     "rank_info": {
       "rank": 15,
+      "delta_rating": 15,
+      "delta_games": 11,
       "peak_rank": 15,
-      "peak_rating": 1982,
-      "last_played": 1788669535
+      "peak_rating": 1997,
+      "last_played": 1788756103
     }
   },
   {
@@ -368,7 +368,7 @@
     "name": "colinbot",
     "perf": {
       "rating": 2322,
-      "rd": 114,
+      "rd": 115,
       "prog": 21,
       "games": 582,
       "prov": true
@@ -394,18 +394,18 @@
   {
     "name": "DarkOnBot",
     "perf": {
-      "rating": 2278,
-      "rd": 51,
-      "prog": -12,
-      "games": 426
+      "rating": 2279,
+      "rd": 50,
+      "prog": -8,
+      "games": 428
     },
     "rank_info": {
       "rank": 5,
-      "delta_rating": 2,
-      "delta_games": 3,
+      "delta_rating": 1,
+      "delta_games": 2,
       "peak_rank": 5,
-      "peak_rating": 2278,
-      "last_played": 1788726539
+      "peak_rating": 2279,
+      "last_played": 1788756103
     }
   },
   {
@@ -476,16 +476,18 @@
   {
     "name": "escarbo",
     "perf": {
-      "rating": 1064,
-      "rd": 46,
-      "prog": 2,
-      "games": 269
+      "rating": 1051,
+      "rd": 45,
+      "prog": -6,
+      "games": 275
     },
     "rank_info": {
       "rank": 38,
+      "delta_rating": -13,
+      "delta_games": 6,
       "peak_rank": 38,
       "peak_rating": 1064,
-      "last_played": 1788566775
+      "last_played": 1788756103
     }
   },
   {
@@ -1166,7 +1168,8 @@
       "games": 507
     },
     "rank_info": {
-      "rank": 15,
+      "rank": 16,
+      "delta_rank": -1,
       "peak_rank": 15,
       "peak_rating": 1982,
       "last_played": 1788718668
@@ -1295,8 +1298,6 @@
     },
     "rank_info": {
       "rank": 3,
-      "delta_rating": -4,
-      "delta_games": 8,
       "peak_rank": 3,
       "peak_rating": 2297,
       "last_played": 1788726539
@@ -1312,8 +1313,7 @@
     },
     "rank_info": {
       "rank": 6,
-      "delta_rank": -1,
-      "peak_rank": 5,
+      "peak_rank": 6,
       "peak_rating": 2276,
       "last_played": 1788347909
     }
@@ -1502,7 +1502,7 @@
     "name": "SuperGame5",
     "perf": {
       "rating": 2252,
-      "rd": 46,
+      "rd": 47,
       "prog": 1,
       "games": 104
     },
@@ -1690,7 +1690,7 @@
     "name": "Worst-ai",
     "perf": {
       "rating": 2319,
-      "rd": 108,
+      "rd": 109,
       "prog": -7,
       "games": 57
     },
