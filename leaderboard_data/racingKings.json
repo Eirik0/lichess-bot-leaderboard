@@ -309,15 +309,17 @@
   {
     "name": "chess_set_manager",
     "perf": {
-      "rating": 1990,
+      "rating": 1988,
       "rd": 45,
-      "games": 118
+      "games": 119
     },
     "rank_info": {
       "rank": 16,
+      "delta_rating": -2,
+      "delta_games": 1,
       "peak_rank": 16,
       "peak_rating": 1990,
-      "last_played": 1789472660
+      "last_played": 1789544479
     }
   },
   {
@@ -495,8 +497,6 @@
     },
     "rank_info": {
       "rank": 40,
-      "delta_rating": 17,
-      "delta_games": 4,
       "peak_rank": 40,
       "peak_rating": 1068,
       "last_played": 1789518015
@@ -604,9 +604,7 @@
     },
     "rank_info": {
       "rank": 41,
-      "delta_rank": -41,
-      "delta_rating": -51,
-      "delta_games": 19,
+      "peak_rank": 41,
       "peak_rating": 1070,
       "last_played": 1789518015
     }
@@ -648,10 +646,7 @@
     },
     "rank_info": {
       "rank": 34,
-      "delta_rank": -1,
-      "delta_rating": -17,
-      "delta_games": 36,
-      "peak_rank": 33,
+      "peak_rank": 34,
       "peak_rating": 1334,
       "last_played": 1789518015
     }
@@ -759,7 +754,8 @@
       "games": 584
     },
     "rank_info": {
-      "rank": 8,
+      "rank": 9,
+      "delta_rank": -1,
       "peak_rank": 8,
       "peak_rating": 2249,
       "last_played": 1789491551
@@ -811,17 +807,19 @@
   {
     "name": "Lancelbot",
     "perf": {
-      "rating": 1333,
-      "rd": 45,
-      "prog": -37,
-      "games": 198
+      "rating": 1375,
+      "rd": 46,
+      "prog": 13,
+      "games": 221
     },
     "rank_info": {
-      "rank": 33,
+      "rank": 32,
       "delta_rank": 1,
-      "peak_rank": 33,
-      "peak_rating": 1345,
-      "last_played": 1788394549
+      "delta_rating": 42,
+      "delta_games": 23,
+      "peak_rank": 32,
+      "peak_rating": 1375,
+      "last_played": 1789544479
     }
   },
   {
@@ -965,16 +963,19 @@
   {
     "name": "MEGA-NOOB-BOT",
     "perf": {
-      "rating": 2247,
+      "rating": 2250,
       "rd": 45,
-      "prog": 2,
-      "games": 506
+      "prog": 6,
+      "games": 507
     },
     "rank_info": {
-      "rank": 10,
-      "peak_rank": 10,
-      "peak_rating": 2247,
-      "last_played": 1789491551
+      "rank": 8,
+      "delta_rank": 2,
+      "delta_rating": 3,
+      "delta_games": 1,
+      "peak_rank": 8,
+      "peak_rating": 2250,
+      "last_played": 1789544479
     }
   },
   {
@@ -1303,8 +1304,7 @@
     },
     "rank_info": {
       "rank": 42,
-      "delta_rank": -1,
-      "peak_rank": 41,
+      "peak_rank": 42,
       "peak_rating": 646,
       "last_played": 1788806632
     }
@@ -1458,7 +1458,8 @@
       "games": 189
     },
     "rank_info": {
-      "rank": 32,
+      "rank": 33,
+      "delta_rank": -1,
       "peak_rank": 32,
       "peak_rating": 1406,
       "last_played": 1788566775
@@ -1523,12 +1524,13 @@
     "name": "SuperGame5",
     "perf": {
       "rating": 2248,
-      "rd": 50,
+      "rd": 51,
       "prog": -6,
       "games": 108
     },
     "rank_info": {
-      "rank": 9,
+      "rank": 10,
+      "delta_rank": -1,
       "peak_rank": 9,
       "peak_rating": 2248,
       "last_played": 1788971919
