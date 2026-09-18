@@ -43,7 +43,7 @@
     "name": "AjedrezChamberi",
     "perf": {
       "rating": 2549,
-      "rd": 140,
+      "rd": 141,
       "prog": -310,
       "games": 128,
       "prov": true
@@ -364,7 +364,7 @@
     "name": "ChessatronBot",
     "perf": {
       "rating": 2396,
-      "rd": 60,
+      "rd": 61,
       "prog": 36,
       "games": 77
     },
@@ -570,8 +570,6 @@
     },
     "rank_info": {
       "rank": 9,
-      "delta_rating": 11,
-      "delta_games": 1,
       "peak_rank": 9,
       "peak_rating": 1476,
       "last_played": 1789716255
@@ -674,16 +672,18 @@
   {
     "name": "EdwardKillick",
     "perf": {
-      "rating": 1613,
-      "rd": 78,
-      "prog": -36,
-      "games": 85
+      "rating": 1604,
+      "rd": 75,
+      "prog": -60,
+      "games": 87
     },
     "rank_info": {
       "rank": 8,
+      "delta_rating": -9,
+      "delta_games": 2,
       "peak_rank": 8,
       "peak_rating": 1613,
-      "last_played": 1789390027
+      "last_played": 1789736291
     }
   },
   {
@@ -745,16 +745,18 @@
   {
     "name": "GarboBot",
     "perf": {
-      "rating": 1862,
-      "rd": 72,
-      "prog": -2,
-      "games": 723
+      "rating": 1839,
+      "rd": 71,
+      "prog": -25,
+      "games": 724
     },
     "rank_info": {
       "rank": 5,
+      "delta_rating": -23,
+      "delta_games": 1,
       "peak_rank": 5,
       "peak_rating": 1862,
-      "last_played": 1788756103
+      "last_played": 1789736291
     }
   },
   {
@@ -1088,9 +1090,7 @@
       "prov": true
     },
     "rank_info": {
-      "delta_rating": -61,
-      "delta_games": 1,
-      "peak_rating": 1435,
+      "peak_rating": 1374,
       "last_played": 1789716255
     }
   },
@@ -1204,6 +1204,32 @@
     }
   },
   {
+    "name": "maia3-79m_1200",
+    "perf": {
+      "rating": 2300,
+      "rd": 482,
+      "games": 1,
+      "prov": true
+    },
+    "rank_info": {
+      "peak_rating": 2300,
+      "last_played": 1789736291
+    }
+  },
+  {
+    "name": "maia3-79m_1400",
+    "perf": {
+      "rating": 2300,
+      "rd": 483,
+      "games": 1,
+      "prov": true
+    },
+    "rank_info": {
+      "peak_rating": 2300,
+      "last_played": 1789736291
+    }
+  },
+  {
     "name": "maia3-79m_1600",
     "perf": {
       "rating": 1571,
@@ -1218,16 +1244,31 @@
     }
   },
   {
-    "name": "maia3-79m_2400",
+    "name": "maia3-79m_1800",
     "perf": {
-      "rating": 2556,
-      "rd": 261,
-      "games": 3,
+      "rating": 2311,
+      "rd": 467,
+      "games": 2,
       "prov": true
     },
     "rank_info": {
-      "peak_rating": 2556,
-      "last_played": 1789630790
+      "peak_rating": 2311,
+      "last_played": 1789736291
+    }
+  },
+  {
+    "name": "maia3-79m_2400",
+    "perf": {
+      "rating": 2591,
+      "rd": 237,
+      "games": 4,
+      "prov": true
+    },
+    "rank_info": {
+      "delta_rating": 35,
+      "delta_games": 1,
+      "peak_rating": 2591,
+      "last_played": 1789736291
     }
   },
   {
@@ -1239,9 +1280,7 @@
       "prov": true
     },
     "rank_info": {
-      "delta_rating": -40,
-      "delta_games": 2,
-      "peak_rating": 1700,
+      "peak_rating": 1660,
       "last_played": 1789716255
     }
   },
@@ -1653,16 +1692,18 @@
   {
     "name": "puisne",
     "perf": {
-      "rating": 1625,
-      "rd": 60,
-      "prog": -44,
-      "games": 79
+      "rating": 1623,
+      "rd": 58,
+      "prog": -35,
+      "games": 82
     },
     "rank_info": {
       "rank": 7,
+      "delta_rating": -2,
+      "delta_games": 3,
       "peak_rank": 7,
       "peak_rating": 1625,
-      "last_played": 1789668841
+      "last_played": 1789736291
     }
   },
   {
@@ -2147,14 +2188,17 @@
   {
     "name": "WoodStyleEngine",
     "perf": {
-      "rating": 2509,
-      "rd": 84,
-      "prog": 24,
-      "games": 77
+      "rating": 2398,
+      "rd": 126,
+      "prog": -99,
+      "games": 82,
+      "prov": true
     },
     "rank_info": {
+      "delta_rating": -111,
+      "delta_games": 5,
       "peak_rating": 2509,
-      "last_played": 1770035369
+      "last_played": 1789736291
     }
   },
   {
