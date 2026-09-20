@@ -8,8 +8,9 @@
       "games": 148
     },
     "rank_info": {
-      "rank": 11,
-      "peak_rank": 11,
+      "rank": 10,
+      "delta_rank": 1,
+      "peak_rank": 10,
       "peak_rating": 2244,
       "last_played": 1789820993
     }
@@ -196,31 +197,36 @@
   {
     "name": "bot1e",
     "perf": {
-      "rating": 2226,
+      "rating": 2227,
       "rd": 57,
-      "prog": 15,
-      "games": 95
+      "prog": 19,
+      "games": 96
     },
     "rank_info": {
       "rank": 12,
+      "delta_rating": 1,
+      "delta_games": 1,
       "peak_rank": 12,
-      "peak_rating": 2226,
-      "last_played": 1789736291
+      "peak_rating": 2227,
+      "last_played": 1789903453
     }
   },
   {
     "name": "Bot1nokk",
     "perf": {
-      "rating": 2265,
+      "rating": 2270,
       "rd": 71,
-      "prog": -15,
-      "games": 95
+      "prog": -2,
+      "games": 100
     },
     "rank_info": {
-      "rank": 7,
-      "peak_rank": 7,
-      "peak_rating": 2265,
-      "last_played": 1789753262
+      "rank": 6,
+      "delta_rank": 1,
+      "delta_rating": 5,
+      "delta_games": 5,
+      "peak_rank": 6,
+      "peak_rating": 2270,
+      "last_played": 1789903453
     }
   },
   {
@@ -363,16 +369,18 @@
   {
     "name": "colinbot",
     "perf": {
-      "rating": 2054,
+      "rating": 2052,
       "rd": 45,
-      "prog": -3,
-      "games": 650
+      "prog": -8,
+      "games": 651
     },
     "rank_info": {
       "rank": 14,
+      "delta_rating": -2,
+      "delta_games": 1,
       "peak_rank": 14,
       "peak_rating": 2054,
-      "last_played": 1789862936
+      "last_played": 1789903453
     }
   },
   {
@@ -391,16 +399,18 @@
   {
     "name": "DarkOnBot",
     "perf": {
-      "rating": 2275,
-      "rd": 48,
-      "prog": -4,
-      "games": 450
+      "rating": 2277,
+      "rd": 47,
+      "prog": -1,
+      "games": 458
     },
     "rank_info": {
       "rank": 5,
+      "delta_rating": 2,
+      "delta_games": 8,
       "peak_rank": 5,
-      "peak_rating": 2275,
-      "last_played": 1789820993
+      "peak_rating": 2277,
+      "last_played": 1789903453
     }
   },
   {
@@ -744,16 +754,19 @@
   {
     "name": "is_BOSS",
     "perf": {
-      "rating": 2269,
+      "rating": 2267,
       "rd": 45,
-      "prog": 19,
-      "games": 603
+      "prog": 10,
+      "games": 605
     },
     "rank_info": {
-      "rank": 6,
+      "rank": 7,
+      "delta_rank": -1,
+      "delta_rating": -2,
+      "delta_games": 2,
       "peak_rank": 6,
       "peak_rating": 2269,
-      "last_played": 1789850430
+      "last_played": 1789903453
     }
   },
   {
@@ -920,16 +933,18 @@
   {
     "name": "Martuni",
     "perf": {
-      "rating": 1376,
+      "rating": 1382,
       "rd": 46,
-      "prog": 4,
-      "games": 99
+      "prog": 5,
+      "games": 102
     },
     "rank_info": {
       "rank": 25,
+      "delta_rating": 6,
+      "delta_games": 3,
       "peak_rank": 25,
-      "peak_rating": 1376,
-      "last_played": 1789850430
+      "peak_rating": 1382,
+      "last_played": 1789903453
     }
   },
   {
@@ -949,30 +964,35 @@
   {
     "name": "MDBOT",
     "perf": {
-      "rating": 2012,
-      "rd": 120,
-      "prog": 2,
-      "games": 12,
+      "rating": 2005,
+      "rd": 110,
+      "prog": -5,
+      "games": 15,
       "prov": true
     },
     "rank_info": {
+      "delta_rating": -7,
+      "delta_games": 3,
       "peak_rating": 2012,
-      "last_played": 1789850430
+      "last_played": 1789903453
     }
   },
   {
     "name": "MEGA-NOOB-BOT",
     "perf": {
-      "rating": 2251,
+      "rating": 2244,
       "rd": 45,
-      "prog": -3,
-      "games": 523
+      "prog": -7,
+      "games": 528
     },
     "rank_info": {
-      "rank": 9,
+      "rank": 10,
+      "delta_rank": -1,
+      "delta_rating": -7,
+      "delta_games": 5,
       "peak_rank": 9,
       "peak_rating": 2251,
-      "last_played": 1789820993
+      "last_played": 1789903453
     }
   },
   {
@@ -992,9 +1012,10 @@
     "name": "MMC_HUANGBAI",
     "perf": {
       "rating": 1553,
-      "rd": 80,
+      "rd": 168,
       "prog": 70,
-      "games": 28
+      "games": 28,
+      "prov": true
     },
     "rank_info": {
       "peak_rating": 1553,
@@ -1018,7 +1039,7 @@
     "name": "NewChessEngine-ai",
     "perf": {
       "rating": 2680,
-      "rd": 133,
+      "rd": 134,
       "prog": -94,
       "games": 55,
       "prov": true
@@ -1232,6 +1253,20 @@
     }
   },
   {
+    "name": "puisne",
+    "perf": {
+      "rating": 1367,
+      "rd": 341,
+      "prog": -27,
+      "games": 17,
+      "prov": true
+    },
+    "rank_info": {
+      "peak_rating": 1367,
+      "last_played": 1789903453
+    }
+  },
+  {
     "name": "PumpkinLatteBob",
     "perf": {
       "rating": 2524,
@@ -1322,16 +1357,18 @@
   {
     "name": "RaspFish",
     "perf": {
-      "rating": 2252,
+      "rating": 2253,
       "rd": 54,
-      "prog": -24,
-      "games": 2019
+      "prog": -11,
+      "games": 2022
     },
     "rank_info": {
       "rank": 8,
+      "delta_rating": 1,
+      "delta_games": 3,
       "peak_rank": 8,
-      "peak_rating": 2252,
-      "last_played": 1789820993
+      "peak_rating": 2253,
+      "last_played": 1789903453
     }
   },
   {
@@ -1379,16 +1416,18 @@
   {
     "name": "SF_Bot1nok",
     "perf": {
-      "rating": 2286,
-      "rd": 65,
-      "prog": -20,
-      "games": 144
+      "rating": 2287,
+      "rd": 63,
+      "prog": -15,
+      "games": 147
     },
     "rank_info": {
       "rank": 3,
+      "delta_rating": 1,
+      "delta_games": 3,
       "peak_rank": 3,
-      "peak_rating": 2286,
-      "last_played": 1789651653
+      "peak_rating": 2287,
+      "last_played": 1789903453
     }
   },
   {
@@ -1475,7 +1514,7 @@
     "name": "StockfishLowDepth",
     "perf": {
       "rating": 1935,
-      "rd": 61,
+      "rd": 62,
       "prog": 11,
       "games": 220
     },
@@ -1521,8 +1560,9 @@
       "games": 109
     },
     "rank_info": {
-      "rank": 10,
-      "peak_rank": 10,
+      "rank": 9,
+      "delta_rank": 1,
+      "peak_rank": 9,
       "peak_rating": 2249,
       "last_played": 1789565409
     }
