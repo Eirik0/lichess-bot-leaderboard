@@ -308,16 +308,18 @@
   {
     "name": "chess_set_manager",
     "perf": {
-      "rating": 1992,
+      "rating": 1995,
       "rd": 45,
-      "prog": 8,
-      "games": 147
+      "prog": 15,
+      "games": 149
     },
     "rank_info": {
       "rank": 16,
+      "delta_rating": 3,
+      "delta_games": 2,
       "peak_rank": 16,
-      "peak_rating": 1992,
-      "last_played": 1790096244
+      "peak_rating": 1995,
+      "last_played": 1790149533
     }
   },
   {
@@ -950,31 +952,36 @@
   {
     "name": "MDBOT",
     "perf": {
-      "rating": 1975,
-      "rd": 95,
-      "prog": -35,
-      "games": 19
+      "rating": 1952,
+      "rd": 92,
+      "prog": -58,
+      "games": 20
     },
     "rank_info": {
-      "rank": 17,
+      "rank": 18,
+      "delta_rank": -1,
+      "delta_rating": -23,
+      "delta_games": 1,
       "peak_rank": 17,
       "peak_rating": 1975,
-      "last_played": 1790077107
+      "last_played": 1790149533
     }
   },
   {
     "name": "MEGA-NOOB-BOT",
     "perf": {
-      "rating": 2239,
+      "rating": 2241,
       "rd": 45,
       "prog": -5,
-      "games": 539
+      "games": 540
     },
     "rank_info": {
       "rank": 11,
+      "delta_rating": 2,
+      "delta_games": 1,
       "peak_rank": 11,
-      "peak_rating": 2239,
-      "last_played": 1790077107
+      "peak_rating": 2241,
+      "last_played": 1790149533
     }
   },
   {
@@ -1188,8 +1195,9 @@
       "games": 530
     },
     "rank_info": {
-      "rank": 18,
-      "peak_rank": 18,
+      "rank": 17,
+      "delta_rank": 1,
+      "peak_rank": 17,
       "peak_rating": 1960,
       "last_played": 1790032575
     }
