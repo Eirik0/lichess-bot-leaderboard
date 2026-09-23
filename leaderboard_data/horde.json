@@ -121,8 +121,6 @@
     },
     "rank_info": {
       "rank": 8,
-      "delta_rating": 1,
-      "delta_games": 4,
       "peak_rank": 8,
       "peak_rating": 2404,
       "last_played": 1790111950
@@ -299,16 +297,18 @@
   {
     "name": "chess_set_manager",
     "perf": {
-      "rating": 2291,
+      "rating": 2287,
       "rd": 45,
-      "prog": -34,
-      "games": 125
+      "prog": -43,
+      "games": 126
     },
     "rank_info": {
       "rank": 13,
+      "delta_rating": -4,
+      "delta_games": 1,
       "peak_rank": 13,
-      "peak_rating": 2296,
-      "last_played": 1790096244
+      "peak_rating": 2291,
+      "last_played": 1790123599
     }
   },
   {
@@ -1505,10 +1505,8 @@
     },
     "rank_info": {
       "rank": 7,
-      "delta_rating": -2,
-      "delta_games": 4,
       "peak_rank": 7,
-      "peak_rating": 2420,
+      "peak_rating": 2418,
       "last_played": 1790111950
     }
   },
