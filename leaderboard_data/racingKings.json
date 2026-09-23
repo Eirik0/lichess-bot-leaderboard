@@ -308,16 +308,18 @@
   {
     "name": "chess_set_manager",
     "perf": {
-      "rating": 1995,
+      "rating": 1992,
       "rd": 45,
-      "prog": 15,
-      "games": 149
+      "prog": 3,
+      "games": 153
     },
     "rank_info": {
       "rank": 16,
+      "delta_rating": -3,
+      "delta_games": 4,
       "peak_rank": 16,
       "peak_rating": 1995,
-      "last_played": 1790149533
+      "last_played": 1790187832
     }
   },
   {
@@ -370,8 +372,6 @@
     },
     "rank_info": {
       "rank": 14,
-      "delta_rating": 4,
-      "delta_games": 1,
       "peak_rank": 14,
       "peak_rating": 2061,
       "last_played": 1790170719
@@ -745,17 +745,18 @@
   {
     "name": "is_BOSS",
     "perf": {
-      "rating": 2268,
+      "rating": 2270,
       "rd": 45,
-      "prog": -3,
-      "games": 615
+      "prog": 3,
+      "games": 616
     },
     "rank_info": {
       "rank": 7,
-      "delta_games": 3,
+      "delta_rating": 2,
+      "delta_games": 1,
       "peak_rank": 7,
-      "peak_rating": 2268,
-      "last_played": 1790170719
+      "peak_rating": 2270,
+      "last_played": 1790187832
     }
   },
   {
@@ -975,8 +976,6 @@
     },
     "rank_info": {
       "rank": 11,
-      "delta_rating": 2,
-      "delta_games": 5,
       "peak_rank": 11,
       "peak_rating": 2243,
       "last_played": 1790170719
@@ -1321,7 +1320,6 @@
     },
     "rank_info": {
       "rank": 36,
-      "delta_games": 1,
       "peak_rank": 36,
       "peak_rating": 646,
       "last_played": 1790170719
@@ -1346,7 +1344,7 @@
     "name": "RaspFish",
     "perf": {
       "rating": 2256,
-      "rd": 54,
+      "rd": 55,
       "prog": 3,
       "games": 2034
     },
@@ -1407,10 +1405,8 @@
     },
     "rank_info": {
       "rank": 3,
-      "delta_rating": -1,
-      "delta_games": 2,
       "peak_rank": 3,
-      "peak_rating": 2288,
+      "peak_rating": 2287,
       "last_played": 1790170719
     }
   },
