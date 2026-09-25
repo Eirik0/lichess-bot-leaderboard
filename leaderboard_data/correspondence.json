@@ -273,7 +273,8 @@
       "games": 379
     },
     "rank_info": {
-      "rank": 6,
+      "rank": 7,
+      "delta_rank": -1,
       "peak_rank": 6,
       "peak_rating": 1606,
       "last_played": 1790077107
@@ -378,7 +379,7 @@
     "name": "ChessatronBot",
     "perf": {
       "rating": 2396,
-      "rd": 63,
+      "rd": 64,
       "prog": 36,
       "games": 77
     },
@@ -684,16 +685,19 @@
   {
     "name": "EdwardKillick",
     "perf": {
-      "rating": 1604,
-      "rd": 78,
-      "prog": -60,
-      "games": 87
+      "rating": 1611,
+      "rd": 77,
+      "prog": -38,
+      "games": 88
     },
     "rank_info": {
-      "rank": 7,
-      "peak_rank": 7,
-      "peak_rating": 1604,
-      "last_played": 1789736291
+      "rank": 6,
+      "delta_rank": 1,
+      "delta_rating": 7,
+      "delta_games": 1,
+      "peak_rank": 6,
+      "peak_rating": 1611,
+      "last_played": 1790361407
     }
   },
   {
@@ -2163,7 +2167,7 @@
     "name": "vanibot",
     "perf": {
       "rating": 1897,
-      "rd": 127,
+      "rd": 128,
       "prog": 61,
       "games": 70,
       "prov": true
