@@ -9,8 +9,6 @@
     },
     "rank_info": {
       "rank": 14,
-      "delta_rating": 8,
-      "delta_games": 2,
       "peak_rank": 14,
       "peak_rating": 2106,
       "last_played": 1790533456
@@ -513,14 +511,14 @@
     "name": "chess_set_manager",
     "perf": {
       "rating": 1886,
-      "rd": 45,
+      "rd": 46,
       "prog": -2,
       "games": 157
     },
     "rank_info": {
       "rank": 22,
       "peak_rank": 22,
-      "peak_rating": 1888,
+      "peak_rating": 1886,
       "last_played": 1790496610
     }
   },
@@ -696,7 +694,8 @@
       "games": 106
     },
     "rank_info": {
-      "rank": 33,
+      "rank": 34,
+      "delta_rank": -1,
       "peak_rank": 33,
       "peak_rating": 1398,
       "last_played": 1790421903
@@ -1346,18 +1345,19 @@
   {
     "name": "McDonalds1955",
     "perf": {
-      "rating": 2232,
-      "rd": 58,
-      "prog": -15,
-      "games": 73
+      "rating": 2223,
+      "rd": 57,
+      "prog": -23,
+      "games": 76
     },
     "rank_info": {
-      "rank": 6,
-      "delta_rating": -1,
-      "delta_games": 2,
+      "rank": 7,
+      "delta_rank": -1,
+      "delta_rating": -9,
+      "delta_games": 3,
       "peak_rank": 6,
-      "peak_rating": 2233,
-      "last_played": 1790533456
+      "peak_rating": 2232,
+      "last_played": 1790550196
     }
   },
   {
@@ -1380,14 +1380,15 @@
     "perf": {
       "rating": 2313,
       "rd": 45,
-      "prog": 14,
-      "games": 924
+      "prog": 8,
+      "games": 925
     },
     "rank_info": {
       "rank": 1,
+      "delta_games": 1,
       "peak_rank": 1,
       "peak_rating": 2313,
-      "last_played": 1790517533
+      "last_played": 1790550196
     }
   },
   {
@@ -1460,7 +1461,7 @@
     "name": "NewChessEngine-ai",
     "perf": {
       "rating": 2361,
-      "rd": 150,
+      "rd": 151,
       "prog": 164,
       "games": 21,
       "prov": true
@@ -1925,7 +1926,7 @@
     "name": "RaspFish",
     "perf": {
       "rating": 2174,
-      "rd": 47,
+      "rd": 48,
       "prog": 4,
       "games": 2845
     },
@@ -2090,16 +2091,19 @@
   {
     "name": "StockfishLowDepth",
     "perf": {
-      "rating": 1392,
-      "rd": 49,
-      "prog": 31,
-      "games": 2971
+      "rating": 1413,
+      "rd": 48,
+      "prog": 55,
+      "games": 2975
     },
     "rank_info": {
-      "rank": 34,
-      "peak_rank": 34,
-      "peak_rating": 1392,
-      "last_played": 1790439814
+      "rank": 33,
+      "delta_rank": 1,
+      "delta_rating": 21,
+      "delta_games": 4,
+      "peak_rank": 33,
+      "peak_rating": 1413,
+      "last_played": 1790550196
     }
   },
   {
@@ -2137,8 +2141,9 @@
       "games": 358
     },
     "rank_info": {
-      "rank": 7,
-      "peak_rank": 7,
+      "rank": 6,
+      "delta_rank": 1,
+      "peak_rank": 6,
       "peak_rating": 2228,
       "last_played": 1790439814
     }
