@@ -295,15 +295,17 @@
   {
     "name": "chess_set_manager",
     "perf": {
-      "rating": 1951,
+      "rating": 1949,
       "rd": 45,
-      "games": 172
+      "games": 173
     },
     "rank_info": {
       "rank": 19,
+      "delta_rating": -2,
+      "delta_games": 1,
       "peak_rank": 19,
       "peak_rating": 1951,
-      "last_played": 1790647039
+      "last_played": 1790699457
     }
   },
   {
@@ -430,7 +432,7 @@
     "name": "DarkOnBot",
     "perf": {
       "rating": 2219,
-      "rd": 51,
+      "rd": 52,
       "prog": -22,
       "games": 451
     },
@@ -587,9 +589,7 @@
       "prov": true
     },
     "rank_info": {
-      "delta_rating": -60,
-      "delta_games": 1,
-      "peak_rating": 2317,
+      "peak_rating": 2257,
       "last_played": 1790670648
     }
   },
@@ -759,18 +759,18 @@
   {
     "name": "is_BOSS",
     "perf": {
-      "rating": 2255,
+      "rating": 2258,
       "rd": 45,
-      "prog": 12,
-      "games": 423
+      "prog": 2,
+      "games": 425
     },
     "rank_info": {
       "rank": 7,
-      "delta_rating": 2,
+      "delta_rating": 3,
       "delta_games": 2,
       "peak_rank": 7,
-      "peak_rating": 2255,
-      "last_played": 1790670648
+      "peak_rating": 2258,
+      "last_played": 1790699457
     }
   },
   {
@@ -1033,8 +1033,6 @@
     },
     "rank_info": {
       "rank": 2,
-      "delta_rating": 4,
-      "delta_games": 1,
       "peak_rank": 2,
       "peak_rating": 2356,
       "last_played": 1790670648
@@ -1283,16 +1281,18 @@
   {
     "name": "pawnrobot",
     "perf": {
-      "rating": 1021,
+      "rating": 1018,
       "rd": 69,
-      "prog": -53,
-      "games": 3213
+      "prog": -54,
+      "games": 3215
     },
     "rank_info": {
       "rank": 37,
+      "delta_rating": -3,
+      "delta_games": 2,
       "peak_rank": 37,
       "peak_rating": 1021,
-      "last_played": 1790285466
+      "last_played": 1790699457
     }
   },
   {
@@ -1454,7 +1454,7 @@
     "name": "RaspFish",
     "perf": {
       "rating": 2218,
-      "rd": 57,
+      "rd": 58,
       "prog": 18,
       "games": 1044
     },
@@ -1630,7 +1630,7 @@
     "name": "StockfishLowDepth",
     "perf": {
       "rating": 1785,
-      "rd": 101,
+      "rd": 102,
       "prog": 88,
       "games": 73
     },
