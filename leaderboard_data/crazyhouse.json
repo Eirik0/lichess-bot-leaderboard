@@ -376,16 +376,18 @@
   {
     "name": "chess_set_manager",
     "perf": {
-      "rating": 2011,
+      "rating": 2008,
       "rd": 47,
-      "prog": -32,
-      "games": 156
+      "prog": -27,
+      "games": 159
     },
     "rank_info": {
       "rank": 23,
+      "delta_rating": -3,
+      "delta_games": 3,
       "peak_rank": 23,
       "peak_rating": 2011,
-      "last_played": 1790874113
+      "last_played": 1790984787
     }
   },
   {
@@ -967,9 +969,6 @@
     },
     "rank_info": {
       "rank": 7,
-      "delta_rank": 1,
-      "delta_rating": 5,
-      "delta_games": 1,
       "peak_rank": 7,
       "peak_rating": 2457,
       "last_played": 1790968702
@@ -1241,11 +1240,8 @@
     },
     "rank_info": {
       "rank": 8,
-      "delta_rank": -2,
-      "delta_rating": -17,
-      "delta_games": 1,
-      "peak_rank": 6,
-      "peak_rating": 2472,
+      "peak_rank": 8,
+      "peak_rating": 2455,
       "last_played": 1790968702
     }
   },
@@ -1731,7 +1727,7 @@
     "name": "RaspFish",
     "perf": {
       "rating": 2428,
-      "rd": 53,
+      "rd": 54,
       "prog": -1,
       "games": 1344
     },
