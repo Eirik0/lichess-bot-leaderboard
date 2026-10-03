@@ -8,8 +8,9 @@
       "games": 150
     },
     "rank_info": {
-      "rank": 5,
-      "peak_rank": 5,
+      "rank": 4,
+      "delta_rank": 1,
+      "peak_rank": 4,
       "peak_rating": 2283,
       "last_played": 1790874113
     }
@@ -118,8 +119,9 @@
       "games": 352
     },
     "rank_info": {
-      "rank": 4,
-      "peak_rank": 4,
+      "rank": 3,
+      "delta_rank": 1,
+      "peak_rank": 3,
       "peak_rating": 2306,
       "last_played": 1790123599
     }
@@ -296,14 +298,12 @@
     "name": "chess_set_manager",
     "perf": {
       "rating": 1959,
-      "rd": 46,
+      "rd": 47,
       "prog": 9,
       "games": 177
     },
     "rank_info": {
       "rank": 19,
-      "delta_rating": 5,
-      "delta_games": 1,
       "peak_rank": 19,
       "peak_rating": 1959,
       "last_played": 1791055009
@@ -585,16 +585,19 @@
   {
     "name": "FayEFish",
     "perf": {
-      "rating": 2312,
-      "rd": 108,
-      "prog": -11,
-      "games": 44
+      "rating": 2265,
+      "rd": 105,
+      "prog": -56,
+      "games": 45
     },
     "rank_info": {
-      "rank": 3,
+      "rank": 5,
+      "delta_rank": -2,
+      "delta_rating": -47,
+      "delta_games": 1,
       "peak_rank": 3,
       "peak_rating": 2312,
-      "last_played": 1791044271
+      "last_played": 1791068673
     }
   },
   {
@@ -1665,16 +1668,18 @@
   {
     "name": "SuperGame5",
     "perf": {
-      "rating": 2099,
-      "rd": 97,
-      "prog": -80,
-      "games": 28
+      "rating": 2137,
+      "rd": 95,
+      "prog": -43,
+      "games": 29
     },
     "rank_info": {
       "rank": 14,
+      "delta_rating": 38,
+      "delta_games": 1,
       "peak_rank": 14,
-      "peak_rating": 2099,
-      "last_played": 1790968702
+      "peak_rating": 2137,
+      "last_played": 1791068673
     }
   },
   {

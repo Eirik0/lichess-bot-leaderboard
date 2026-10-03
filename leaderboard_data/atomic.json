@@ -409,9 +409,6 @@
     },
     "rank_info": {
       "rank": 32,
-      "delta_rank": 1,
-      "delta_rating": 10,
-      "delta_games": 3,
       "peak_rank": 32,
       "peak_rating": 1438,
       "last_played": 1791055009
@@ -521,10 +518,8 @@
     },
     "rank_info": {
       "rank": 25,
-      "delta_rating": -3,
-      "delta_games": 3,
       "peak_rank": 25,
-      "peak_rating": 1886,
+      "peak_rating": 1883,
       "last_played": 1791055009
     }
   },
@@ -920,8 +915,7 @@
     },
     "rank_info": {
       "rank": 33,
-      "delta_rank": -1,
-      "peak_rank": 32,
+      "peak_rank": 33,
       "peak_rating": 1437,
       "last_played": 1790421903
     }
@@ -1042,10 +1036,8 @@
     },
     "rank_info": {
       "rank": 9,
-      "delta_rating": -9,
-      "delta_games": 1,
       "peak_rank": 9,
-      "peak_rating": 2222,
+      "peak_rating": 2213,
       "last_played": 1791055009
     }
   },
@@ -1157,7 +1149,6 @@
     },
     "rank_info": {
       "rank": 25,
-      "delta_rank": 1,
       "peak_rank": 25,
       "peak_rating": 1883,
       "last_played": 1790469387
@@ -1356,19 +1347,19 @@
   {
     "name": "McDonalds1955",
     "perf": {
-      "rating": 2260,
+      "rating": 2263,
       "rd": 48,
-      "prog": 1,
-      "games": 112
+      "prog": 10,
+      "games": 113
     },
     "rank_info": {
-      "rank": 8,
-      "delta_rank": -1,
-      "delta_rating": -3,
-      "delta_games": 2,
+      "rank": 7,
+      "delta_rank": 1,
+      "delta_rating": 3,
+      "delta_games": 1,
       "peak_rank": 7,
       "peak_rating": 2263,
-      "last_played": 1791055009
+      "last_played": 1791068673
     }
   },
   {
@@ -1565,16 +1556,18 @@
   {
     "name": "Noel-bot",
     "perf": {
-      "rating": 1759,
-      "rd": 80,
-      "prog": 58,
-      "games": 31
+      "rating": 1751,
+      "rd": 79,
+      "prog": 31,
+      "games": 32
     },
     "rank_info": {
       "rank": 27,
+      "delta_rating": -8,
+      "delta_games": 1,
       "peak_rank": 27,
       "peak_rating": 1759,
-      "last_played": 1791027593
+      "last_played": 1791068673
     }
   },
   {
@@ -1646,7 +1639,7 @@
     "name": "OpeningsBot",
     "perf": {
       "rating": 1632,
-      "rd": 75,
+      "rd": 76,
       "prog": 15,
       "games": 2470
     },
@@ -1952,8 +1945,8 @@
       "games": 952
     },
     "rank_info": {
-      "rank": 7,
-      "delta_rank": 1,
+      "rank": 8,
+      "delta_rank": -1,
       "peak_rank": 7,
       "peak_rating": 2270,
       "last_played": 1790361407
@@ -2451,9 +2444,10 @@
     "name": "Worst-ai",
     "perf": {
       "rating": 1872,
-      "rd": 109,
+      "rd": 110,
       "prog": 39,
-      "games": 91
+      "games": 91,
+      "prov": true
     },
     "rank_info": {
       "peak_rating": 1872,
