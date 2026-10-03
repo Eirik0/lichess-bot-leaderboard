@@ -376,16 +376,18 @@
   {
     "name": "chess_set_manager",
     "perf": {
-      "rating": 2008,
+      "rating": 2018,
       "rd": 47,
-      "prog": -27,
-      "games": 159
+      "prog": -10,
+      "games": 162
     },
     "rank_info": {
       "rank": 23,
+      "delta_rating": 10,
+      "delta_games": 3,
       "peak_rank": 23,
-      "peak_rating": 2008,
-      "last_played": 1790984787
+      "peak_rating": 2018,
+      "last_played": 1791055009
     }
   },
   {
@@ -749,10 +751,8 @@
     },
     "rank_info": {
       "rank": 17,
-      "delta_rating": -11,
-      "delta_games": 1,
       "peak_rank": 17,
-      "peak_rating": 2279,
+      "peak_rating": 2268,
       "last_played": 1791044271
     }
   },
@@ -969,8 +969,6 @@
     },
     "rank_info": {
       "rank": 7,
-      "delta_rating": 3,
-      "delta_games": 1,
       "peak_rank": 7,
       "peak_rating": 2461,
       "last_played": 1791044271
@@ -1562,17 +1560,18 @@
   {
     "name": "pawnrobot",
     "perf": {
-      "rating": 818,
+      "rating": 817,
       "rd": 62,
-      "prog": 30,
-      "games": 1962
+      "prog": 29,
+      "games": 1963
     },
     "rank_info": {
       "rank": 37,
+      "delta_rating": -1,
       "delta_games": 1,
       "peak_rank": 37,
       "peak_rating": 818,
-      "last_played": 1791044271
+      "last_played": 1791055009
     }
   },
   {
@@ -1644,16 +1643,18 @@
   {
     "name": "puisne",
     "perf": {
-      "rating": 1557,
+      "rating": 1561,
       "rd": 45,
-      "prog": -5,
-      "games": 595
+      "prog": 7,
+      "games": 596
     },
     "rank_info": {
       "rank": 29,
+      "delta_rating": 4,
+      "delta_games": 1,
       "peak_rank": 29,
-      "peak_rating": 1557,
-      "last_played": 1790944499
+      "peak_rating": 1561,
+      "last_played": 1791055009
     }
   },
   {
@@ -1976,7 +1977,7 @@
     "name": "SybBot",
     "perf": {
       "rating": 1265,
-      "rd": 411,
+      "rd": 412,
       "games": 1,
       "prov": true
     },
