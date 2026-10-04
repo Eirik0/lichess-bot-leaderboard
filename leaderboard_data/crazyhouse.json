@@ -1370,7 +1370,7 @@
     "name": "NewChessEngine-ai",
     "perf": {
       "rating": 2110,
-      "rd": 178,
+      "rd": 179,
       "games": 7,
       "prov": true
     },
@@ -1558,16 +1558,18 @@
   {
     "name": "pawnrobot",
     "perf": {
-      "rating": 817,
+      "rating": 815,
       "rd": 62,
-      "prog": 29,
-      "games": 1963
+      "prog": 27,
+      "games": 1964
     },
     "rank_info": {
       "rank": 37,
+      "delta_rating": -2,
+      "delta_games": 1,
       "peak_rank": 37,
       "peak_rating": 817,
-      "last_played": 1791055009
+      "last_played": 1791093207
     }
   },
   {
@@ -1646,8 +1648,6 @@
     },
     "rank_info": {
       "rank": 29,
-      "delta_rating": 8,
-      "delta_games": 5,
       "peak_rank": 29,
       "peak_rating": 1569,
       "last_played": 1791068673
