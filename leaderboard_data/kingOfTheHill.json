@@ -8,7 +8,8 @@
       "games": 150
     },
     "rank_info": {
-      "rank": 4,
+      "rank": 5,
+      "delta_rank": -1,
       "peak_rank": 4,
       "peak_rating": 2283,
       "last_played": 1790874113
@@ -242,7 +243,6 @@
     },
     "rank_info": {
       "rank": 26,
-      "delta_games": 2,
       "peak_rank": 26,
       "peak_rating": 1330,
       "last_played": 1791379405
@@ -290,16 +290,18 @@
   {
     "name": "chess_set_manager",
     "perf": {
-      "rating": 1951,
+      "rating": 1946,
       "rd": 47,
-      "prog": 9,
-      "games": 182
+      "prog": -1,
+      "games": 185
     },
     "rank_info": {
       "rank": 16,
+      "delta_rating": -5,
+      "delta_games": 3,
       "peak_rank": 16,
       "peak_rating": 1951,
-      "last_played": 1791326355
+      "last_played": 1791403151
     }
   },
   {
@@ -449,7 +451,6 @@
     },
     "rank_info": {
       "rank": 28,
-      "delta_games": 1,
       "peak_rank": 28,
       "peak_rating": 1274,
       "last_played": 1791379405
@@ -586,10 +587,7 @@
     },
     "rank_info": {
       "rank": 3,
-      "delta_rank": -1,
-      "delta_rating": -20,
-      "delta_games": 1,
-      "peak_rank": 2,
+      "peak_rank": 3,
       "peak_rating": 2330,
       "last_played": 1791379405
     }
@@ -760,19 +758,18 @@
   {
     "name": "is_BOSS",
     "perf": {
-      "rating": 2283,
+      "rating": 2284,
       "rd": 45,
-      "prog": 23,
-      "games": 462
+      "prog": 22,
+      "games": 463
     },
     "rank_info": {
       "rank": 4,
-      "delta_rank": 1,
-      "delta_rating": 8,
-      "delta_games": 3,
+      "delta_rating": 1,
+      "delta_games": 1,
       "peak_rank": 4,
-      "peak_rating": 2283,
-      "last_played": 1791379405
+      "peak_rating": 2284,
+      "last_played": 1791403151
     }
   },
   {
@@ -1033,10 +1030,8 @@
     },
     "rank_info": {
       "rank": 1,
-      "delta_rating": -2,
-      "delta_games": 8,
       "peak_rank": 1,
-      "peak_rating": 2339,
+      "peak_rating": 2337,
       "last_played": 1791379405
     }
   },
@@ -1441,7 +1436,6 @@
     },
     "rank_info": {
       "rank": 2,
-      "delta_rank": 1,
       "peak_rank": 2,
       "peak_rating": 2322,
       "last_played": 1790361407
@@ -1450,16 +1444,18 @@
   {
     "name": "RaspFish",
     "perf": {
-      "rating": 2211,
+      "rating": 2215,
       "rd": 58,
-      "prog": -1,
-      "games": 1048
+      "prog": 2,
+      "games": 1049
     },
     "rank_info": {
       "rank": 9,
+      "delta_rating": 4,
+      "delta_games": 1,
       "peak_rank": 9,
-      "peak_rating": 2211,
-      "last_played": 1791277130
+      "peak_rating": 2215,
+      "last_played": 1791403151
     }
   },
   {
@@ -1841,7 +1837,7 @@
     "name": "Worst-ai",
     "perf": {
       "rating": 2227,
-      "rd": 276,
+      "rd": 277,
       "games": 3,
       "prov": true
     },
@@ -1875,6 +1871,19 @@
     "rank_info": {
       "peak_rating": 2294,
       "last_played": 1757269573
+    }
+  },
+  {
+    "name": "zanebot",
+    "perf": {
+      "rating": 1490,
+      "rd": 226,
+      "games": 4,
+      "prov": true
+    },
+    "rank_info": {
+      "peak_rating": 1490,
+      "last_played": 1791403151
     }
   },
   {
