@@ -273,7 +273,8 @@
       "games": 380
     },
     "rank_info": {
-      "rank": 5,
+      "rank": 6,
+      "delta_rank": -1,
       "peak_rank": 5,
       "peak_rating": 1618,
       "last_played": 1790785473
@@ -379,12 +380,15 @@
     "perf": {
       "rating": 2396,
       "rd": 69,
-      "prog": 36,
-      "games": 77
+      "prog": 31,
+      "games": 78
     },
     "rank_info": {
+      "rank": 2,
+      "delta_rank": -2,
+      "delta_games": 1,
       "peak_rating": 2396,
-      "last_played": 1788469333
+      "last_played": 1791565164
     }
   },
   {
@@ -536,7 +540,7 @@
     "name": "colinbot",
     "perf": {
       "rating": 2492,
-      "rd": 193,
+      "rd": 194,
       "prog": 61,
       "games": 48,
       "prov": true
@@ -581,7 +585,8 @@
       "games": 99
     },
     "rank_info": {
-      "rank": 7,
+      "rank": 8,
+      "delta_rank": -1,
       "peak_rank": 7,
       "peak_rating": 1435,
       "last_played": 1791505381
@@ -590,14 +595,16 @@
   {
     "name": "CuteBot",
     "perf": {
-      "rating": 3185,
-      "rd": 143,
-      "games": 10,
+      "rating": 3217,
+      "rd": 134,
+      "games": 11,
       "prov": true
     },
     "rank_info": {
-      "peak_rating": 3185,
-      "last_played": 1791505381
+      "delta_rating": 32,
+      "delta_games": 1,
+      "peak_rating": 3217,
+      "last_played": 1791565164
     }
   },
   {
@@ -684,16 +691,19 @@
   {
     "name": "EdwardKillick",
     "perf": {
-      "rating": 1606,
+      "rating": 1605,
       "rd": 78,
-      "prog": -52,
-      "games": 91
+      "prog": -40,
+      "games": 92
     },
     "rank_info": {
-      "rank": 6,
+      "rank": 7,
+      "delta_rank": -1,
+      "delta_rating": -1,
+      "delta_games": 1,
       "peak_rank": 6,
       "peak_rating": 1606,
-      "last_played": 1791379405
+      "last_played": 1791565164
     }
   },
   {
@@ -787,7 +797,8 @@
       "games": 725
     },
     "rank_info": {
-      "rank": 3,
+      "rank": 4,
+      "delta_rank": -1,
       "peak_rank": 3,
       "peak_rating": 1838,
       "last_played": 1790457022
@@ -1103,7 +1114,7 @@
     "name": "likeawizard-bot",
     "perf": {
       "rating": 1565,
-      "rd": 298,
+      "rd": 299,
       "prog": 50,
       "games": 35,
       "prov": true
@@ -1230,7 +1241,8 @@
       "games": 26
     },
     "rank_info": {
-      "rank": 4,
+      "rank": 5,
+      "delta_rank": -1,
       "peak_rank": 4,
       "peak_rating": 1823,
       "last_played": 1791249491
@@ -1293,14 +1305,13 @@
     "name": "maia3-79m_2000",
     "perf": {
       "rating": 1981,
-      "rd": 84,
+      "rd": 85,
       "prog": -70,
       "games": 27
     },
     "rank_info": {
-      "rank": 2,
-      "delta_rating": 11,
-      "delta_games": 6,
+      "rank": 3,
+      "delta_rank": -1,
       "peak_rank": 2,
       "peak_rating": 1981,
       "last_played": 1791536662
@@ -1310,7 +1321,7 @@
     "name": "maia3-79m_2400",
     "perf": {
       "rating": 2591,
-      "rd": 239,
+      "rd": 240,
       "games": 4,
       "prov": true
     },
@@ -2140,7 +2151,7 @@
     "name": "Trainer-Bot",
     "perf": {
       "rating": 2406,
-      "rd": 333,
+      "rd": 334,
       "games": 8,
       "prov": true
     },
@@ -2345,8 +2356,6 @@
       "prov": true
     },
     "rank_info": {
-      "delta_rating": 65,
-      "delta_games": 2,
       "peak_rating": 2687,
       "last_played": 1791536662
     }
