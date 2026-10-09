@@ -373,16 +373,18 @@
   {
     "name": "chess_set_manager",
     "perf": {
-      "rating": 2110,
+      "rating": 2103,
       "rd": 45,
-      "prog": -7,
-      "games": 208
+      "prog": -16,
+      "games": 210
     },
     "rank_info": {
       "rank": 15,
+      "delta_rating": -7,
+      "delta_games": 2,
       "peak_rank": 15,
       "peak_rating": 2110,
-      "last_played": 1791403151
+      "last_played": 1791505381
     }
   },
   {
@@ -449,7 +451,8 @@
       "games": 726
     },
     "rank_info": {
-      "rank": 6,
+      "rank": 7,
+      "delta_rank": -1,
       "peak_rank": 6,
       "peak_rating": 2250,
       "last_played": 1791116505
@@ -649,14 +652,14 @@
     "name": "FayEFish",
     "perf": {
       "rating": 2303,
-      "rd": 62,
+      "rd": 63,
       "prog": -2,
       "games": 68
     },
     "rank_info": {
       "rank": 2,
       "peak_rank": 2,
-      "peak_rating": 2307,
+      "peak_rating": 2303,
       "last_played": 1791466168
     }
   },
@@ -860,8 +863,6 @@
     },
     "rank_info": {
       "rank": 3,
-      "delta_rating": 1,
-      "delta_games": 2,
       "peak_rank": 3,
       "peak_rating": 2294,
       "last_played": 1791489416
@@ -1085,16 +1086,19 @@
   {
     "name": "McDonalds1955",
     "perf": {
-      "rating": 2248,
+      "rating": 2262,
       "rd": 45,
-      "prog": 32,
-      "games": 153
+      "prog": 29,
+      "games": 157
     },
     "rank_info": {
-      "rank": 7,
-      "peak_rank": 7,
-      "peak_rating": 2248,
-      "last_played": 1791466168
+      "rank": 5,
+      "delta_rank": 2,
+      "delta_rating": 14,
+      "delta_games": 4,
+      "peak_rank": 5,
+      "peak_rating": 2262,
+      "last_played": 1791505381
     }
   },
   {
@@ -1553,7 +1557,8 @@
       "games": 934
     },
     "rank_info": {
-      "rank": 5,
+      "rank": 6,
+      "delta_rank": -1,
       "peak_rank": 5,
       "peak_rating": 2261,
       "last_played": 1790361407
