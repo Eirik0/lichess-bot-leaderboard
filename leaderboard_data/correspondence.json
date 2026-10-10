@@ -377,16 +377,18 @@
   {
     "name": "ChessatronBot",
     "perf": {
-      "rating": 2396,
+      "rating": 2395,
       "rd": 69,
-      "prog": 31,
-      "games": 78
+      "prog": 24,
+      "games": 79
     },
     "rank_info": {
       "rank": 2,
+      "delta_rating": -1,
+      "delta_games": 1,
       "peak_rank": 2,
       "peak_rating": 2396,
-      "last_played": 1791565164
+      "last_played": 1791657355
     }
   },
   {
@@ -577,30 +579,34 @@
   {
     "name": "croco_little_bot",
     "perf": {
-      "rating": 1435,
-      "rd": 71,
-      "prog": -22,
-      "games": 99
+      "rating": 1431,
+      "rd": 70,
+      "prog": -34,
+      "games": 101
     },
     "rank_info": {
       "rank": 8,
+      "delta_rating": -4,
+      "delta_games": 2,
       "peak_rank": 8,
       "peak_rating": 1435,
-      "last_played": 1791505381
+      "last_played": 1791657355
     }
   },
   {
     "name": "CuteBot",
     "perf": {
-      "rating": 3238,
-      "rd": 117,
-      "prog": 21,
-      "games": 14,
+      "rating": 3259,
+      "rd": 112,
+      "prog": 42,
+      "games": 15,
       "prov": true
     },
     "rank_info": {
-      "peak_rating": 3238,
-      "last_played": 1791585494
+      "delta_rating": 21,
+      "delta_games": 1,
+      "peak_rating": 3259,
+      "last_played": 1791657355
     }
   },
   {
@@ -785,7 +791,7 @@
     "name": "GarboBot",
     "perf": {
       "rating": 1838,
-      "rd": 74,
+      "rd": 75,
       "prog": -26,
       "games": 725
     },
@@ -1880,8 +1886,6 @@
       "prov": true
     },
     "rank_info": {
-      "delta_rating": 155,
-      "delta_games": 2,
       "peak_rating": 2204,
       "last_played": 1791635526
     }
@@ -2208,7 +2212,7 @@
     "name": "vanibot",
     "perf": {
       "rating": 1897,
-      "rd": 130,
+      "rd": 131,
       "prog": 61,
       "games": 70,
       "prov": true
@@ -2401,9 +2405,7 @@
       "prov": true
     },
     "rank_info": {
-      "delta_rating": -25,
-      "delta_games": 2,
-      "peak_rating": 2755,
+      "peak_rating": 2730,
       "last_played": 1791635526
     }
   },
