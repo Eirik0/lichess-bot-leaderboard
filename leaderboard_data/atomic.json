@@ -461,7 +461,7 @@
     "name": "c-t-r-l",
     "perf": {
       "rating": 2106,
-      "rd": 49,
+      "rd": 50,
       "prog": -10,
       "games": 94
     },
@@ -528,16 +528,18 @@
   {
     "name": "chess_set_manager",
     "perf": {
-      "rating": 1893,
+      "rating": 1891,
       "rd": 45,
-      "prog": 5,
-      "games": 228
+      "prog": 4,
+      "games": 229
     },
     "rank_info": {
       "rank": 22,
+      "delta_rating": -2,
+      "delta_games": 1,
       "peak_rank": 22,
       "peak_rating": 1893,
-      "last_played": 1792689027
+      "last_played": 1792715999
     }
   },
   {
@@ -1053,8 +1055,6 @@
     },
     "rank_info": {
       "rank": 7,
-      "delta_rating": 1,
-      "delta_games": 1,
       "peak_rank": 7,
       "peak_rating": 2257,
       "last_played": 1792704953
