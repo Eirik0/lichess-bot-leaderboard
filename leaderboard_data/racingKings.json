@@ -203,7 +203,8 @@
       "games": 108
     },
     "rank_info": {
-      "rank": 10,
+      "rank": 11,
+      "delta_rank": -1,
       "peak_rank": 10,
       "peak_rating": 2235,
       "last_played": 1791907125
@@ -259,26 +260,26 @@
     },
     "rank_info": {
       "rank": 40,
-      "delta_rating": -2,
-      "delta_games": 1,
       "peak_rank": 40,
-      "peak_rating": 1126,
+      "peak_rating": 1124,
       "last_played": 1792880907
     }
   },
   {
     "name": "c-t-r-l",
     "perf": {
-      "rating": 2211,
-      "rd": 49,
-      "prog": 12,
-      "games": 80
+      "rating": 2212,
+      "rd": 48,
+      "prog": 11,
+      "games": 82
     },
     "rank_info": {
       "rank": 13,
+      "delta_rating": 1,
+      "delta_games": 2,
       "peak_rank": 13,
-      "peak_rating": 2211,
-      "last_played": 1792857439
+      "peak_rating": 2212,
+      "last_played": 1792903279
     }
   },
   {
@@ -325,16 +326,18 @@
   {
     "name": "chess_set_manager",
     "perf": {
-      "rating": 2051,
+      "rating": 2045,
       "rd": 45,
-      "prog": -6,
-      "games": 289
+      "prog": -1,
+      "games": 293
     },
     "rank_info": {
       "rank": 17,
+      "delta_rating": -6,
+      "delta_games": 4,
       "peak_rank": 17,
       "peak_rating": 2051,
-      "last_played": 1792839611
+      "last_played": 1792903279
     }
   },
   {
@@ -776,17 +779,18 @@
   {
     "name": "is_BOSS",
     "perf": {
-      "rating": 2250,
+      "rating": 2252,
       "rd": 45,
-      "prog": -3,
-      "games": 721
+      "prog": 2,
+      "games": 723
     },
     "rank_info": {
       "rank": 8,
-      "delta_games": 1,
+      "delta_rating": 2,
+      "delta_games": 2,
       "peak_rank": 8,
-      "peak_rating": 2250,
-      "last_played": 1792880907
+      "peak_rating": 2252,
+      "last_played": 1792903279
     }
   },
   {
@@ -1027,17 +1031,19 @@
   {
     "name": "MEGA-NOOB-BOT",
     "perf": {
-      "rating": 2233,
+      "rating": 2236,
       "rd": 45,
-      "prog": -6,
-      "games": 739
+      "prog": 3,
+      "games": 745
     },
     "rank_info": {
-      "rank": 11,
-      "delta_games": 1,
-      "peak_rank": 11,
-      "peak_rating": 2233,
-      "last_played": 1792880907
+      "rank": 10,
+      "delta_rank": 1,
+      "delta_rating": 3,
+      "delta_games": 6,
+      "peak_rank": 10,
+      "peak_rating": 2236,
+      "last_played": 1792903279
     }
   },
   {
@@ -1098,7 +1104,7 @@
     "name": "NewChessEngine-ai",
     "perf": {
       "rating": 2680,
-      "rd": 140,
+      "rd": 141,
       "prog": -94,
       "games": 55,
       "prov": true
@@ -1610,7 +1616,7 @@
     "name": "StockfishLowDepth",
     "perf": {
       "rating": 1967,
-      "rd": 51,
+      "rd": 52,
       "prog": 13,
       "games": 327
     },
