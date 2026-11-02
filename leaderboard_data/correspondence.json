@@ -201,14 +201,12 @@
     "name": "BlueMoonBot",
     "perf": {
       "rating": 3333,
-      "rd": 64,
+      "rd": 65,
       "prog": 6,
       "games": 55
     },
     "rank_info": {
       "rank": 1,
-      "delta_rating": 5,
-      "delta_games": 1,
       "peak_rank": 1,
       "peak_rating": 3333,
       "last_played": 1793576118
@@ -290,8 +288,7 @@
       "games": 383
     },
     "rank_info": {
-      "rank": 12,
-      "peak_rank": 12,
+      "delta_rank": 12,
       "peak_rating": 1721,
       "last_played": 1792384840
     }
@@ -602,8 +599,9 @@
       "games": 109
     },
     "rank_info": {
-      "rank": 16,
-      "peak_rank": 16,
+      "rank": 15,
+      "delta_rank": 1,
+      "peak_rank": 15,
       "peak_rating": 1423,
       "last_played": 1792607936
     }
@@ -713,8 +711,9 @@
       "games": 97
     },
     "rank_info": {
-      "rank": 14,
-      "peak_rank": 14,
+      "rank": 13,
+      "delta_rank": 1,
+      "peak_rank": 13,
       "peak_rating": 1590,
       "last_played": 1793449767
     }
@@ -805,7 +804,7 @@
     "name": "GarboBot",
     "perf": {
       "rating": 1913,
-      "rd": 70,
+      "rd": 71,
       "prog": 51,
       "games": 734
     },
@@ -1264,16 +1263,14 @@
     "name": "maia3-79m_1000",
     "perf": {
       "rating": 1798,
-      "rd": 91,
+      "rd": 92,
       "prog": -119,
       "games": 30
     },
     "rank_info": {
       "rank": 11,
-      "delta_rating": -26,
-      "delta_games": 1,
       "peak_rank": 11,
-      "peak_rating": 1824,
+      "peak_rating": 1798,
       "last_played": 1793576118
     }
   },
@@ -1375,7 +1372,7 @@
     "name": "maia3-79m_600",
     "perf": {
       "rating": 1541,
-      "rd": 182,
+      "rd": 183,
       "games": 8,
       "prov": true
     },
@@ -1387,16 +1384,19 @@
   {
     "name": "maia3-79m_800",
     "perf": {
-      "rating": 1561,
-      "rd": 95,
-      "prog": 23,
-      "games": 33
+      "rating": 1583,
+      "rd": 91,
+      "prog": 74,
+      "games": 35
     },
     "rank_info": {
-      "rank": 15,
-      "peak_rank": 15,
-      "peak_rating": 1561,
-      "last_played": 1793559383
+      "rank": 14,
+      "delta_rank": 1,
+      "delta_rating": 22,
+      "delta_games": 2,
+      "peak_rank": 14,
+      "peak_rating": 1583,
+      "last_played": 1793599293
     }
   },
   {
@@ -1604,15 +1604,17 @@
   {
     "name": "OpeningsBot",
     "perf": {
-      "rating": 2221,
-      "rd": 72,
-      "games": 1207
+      "rating": 2219,
+      "rd": 71,
+      "games": 1208
     },
     "rank_info": {
       "rank": 7,
+      "delta_rating": -2,
+      "delta_games": 1,
       "peak_rank": 7,
       "peak_rating": 2221,
-      "last_played": 1793489034
+      "last_played": 1793599293
     }
   },
   {
@@ -1799,8 +1801,9 @@
       "games": 93
     },
     "rank_info": {
-      "rank": 13,
-      "peak_rank": 13,
+      "rank": 12,
+      "delta_rank": 1,
+      "peak_rank": 12,
       "peak_rating": 1604,
       "last_played": 1792496182
     }
