@@ -207,8 +207,6 @@
     },
     "rank_info": {
       "rank": 1,
-      "delta_rating": 6,
-      "delta_games": 1,
       "peak_rank": 1,
       "peak_rating": 3339,
       "last_played": 1793794063
@@ -600,8 +598,7 @@
       "games": 109
     },
     "rank_info": {
-      "rank": 13,
-      "peak_rank": 13,
+      "delta_rank": 13,
       "peak_rating": 1423,
       "last_played": 1792607936
     }
@@ -711,7 +708,8 @@
       "games": 97
     },
     "rank_info": {
-      "rank": 12,
+      "rank": 13,
+      "delta_rank": -1,
       "peak_rank": 12,
       "peak_rating": 1590,
       "last_played": 1793449767
@@ -808,7 +806,8 @@
       "games": 734
     },
     "rank_info": {
-      "rank": 8,
+      "rank": 9,
+      "delta_rank": -1,
       "peak_rank": 8,
       "peak_rating": 1913,
       "last_played": 1793559383
@@ -1010,7 +1009,8 @@
       "games": 733
     },
     "rank_info": {
-      "rank": 9,
+      "rank": 10,
+      "delta_rank": -1,
       "peak_rank": 9,
       "peak_rating": 1888,
       "last_played": 1792779696
@@ -1261,16 +1261,19 @@
   {
     "name": "maia3-79m_1000",
     "perf": {
-      "rating": 1801,
-      "rd": 84,
-      "prog": -65,
-      "games": 34
+      "rating": 1868,
+      "rd": 70,
+      "prog": 72,
+      "games": 43
     },
     "rank_info": {
-      "rank": 10,
+      "rank": 11,
+      "delta_rank": -1,
+      "delta_rating": 67,
+      "delta_games": 9,
       "peak_rank": 10,
-      "peak_rating": 1801,
-      "last_played": 1793742485
+      "peak_rating": 1868,
+      "last_played": 1793821508
     }
   },
   {
@@ -1329,14 +1332,18 @@
   {
     "name": "maia3-79m_2000",
     "perf": {
-      "rating": 2003,
+      "rating": 2008,
       "rd": 71,
-      "prog": -29,
-      "games": 43
+      "prog": -37,
+      "games": 44
     },
     "rank_info": {
-      "peak_rating": 2003,
-      "last_played": 1792471864
+      "rank": 8,
+      "delta_rank": -8,
+      "delta_rating": 5,
+      "delta_games": 1,
+      "peak_rating": 2008,
+      "last_played": 1793821508
     }
   },
   {
@@ -1381,18 +1388,19 @@
   {
     "name": "maia3-79m_800",
     "perf": {
-      "rating": 1646,
-      "rd": 71,
-      "prog": 44,
-      "games": 48
+      "rating": 1600,
+      "rd": 64,
+      "prog": 22,
+      "games": 54
     },
     "rank_info": {
-      "rank": 11,
-      "delta_rating": 22,
-      "delta_games": 3,
+      "rank": 12,
+      "delta_rank": -1,
+      "delta_rating": -46,
+      "delta_games": 6,
       "peak_rank": 11,
       "peak_rating": 1646,
-      "last_played": 1793794063
+      "last_played": 1793821508
     }
   },
   {
@@ -1916,8 +1924,6 @@
       "prov": true
     },
     "rank_info": {
-      "delta_rating": 142,
-      "delta_games": 2,
       "peak_rating": 2425,
       "last_played": 1793794063
     }
