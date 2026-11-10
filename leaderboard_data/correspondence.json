@@ -296,7 +296,7 @@
     "name": "BubbleBot2",
     "perf": {
       "rating": 1408,
-      "rd": 152,
+      "rd": 153,
       "prog": -345,
       "games": 25,
       "prov": true
@@ -475,8 +475,7 @@
       "games": 50
     },
     "rank_info": {
-      "rank": 6,
-      "peak_rank": 6,
+      "delta_rank": 6,
       "peak_rating": 2296,
       "last_played": 1793133719
     }
@@ -484,16 +483,18 @@
   {
     "name": "ChronicGambler",
     "perf": {
-      "rating": 2429,
-      "rd": 88,
-      "prog": -453,
-      "games": 23
+      "rating": 2413,
+      "rd": 86,
+      "prog": -397,
+      "games": 24
     },
     "rank_info": {
       "rank": 5,
+      "delta_rating": -16,
+      "delta_games": 1,
       "peak_rank": 5,
       "peak_rating": 2429,
-      "last_played": 1794217678
+      "last_played": 1794343764
     }
   },
   {
@@ -688,7 +689,7 @@
     "name": "duchessAI",
     "perf": {
       "rating": 2344,
-      "rd": 195,
+      "rd": 196,
       "prog": -53,
       "games": 106,
       "prov": true
@@ -707,11 +708,10 @@
       "games": 101
     },
     "rank_info": {
-      "rank": 13,
-      "delta_rating": -4,
-      "delta_games": 1,
-      "peak_rank": 13,
-      "peak_rating": 1572,
+      "rank": 12,
+      "delta_rank": 1,
+      "peak_rank": 12,
+      "peak_rating": 1568,
       "last_played": 1794314357
     }
   },
@@ -806,11 +806,10 @@
       "games": 737
     },
     "rank_info": {
-      "rank": 9,
-      "delta_rating": -4,
-      "delta_games": 1,
-      "peak_rank": 9,
-      "peak_rating": 1921,
+      "rank": 8,
+      "delta_rank": 1,
+      "peak_rank": 8,
+      "peak_rating": 1917,
       "last_played": 1794314357
     }
   },
@@ -1005,7 +1004,7 @@
     "name": "Jibbby",
     "perf": {
       "rating": 1888,
-      "rd": 85,
+      "rd": 86,
       "prog": 30,
       "games": 733
     },
@@ -1265,8 +1264,9 @@
       "games": 44
     },
     "rank_info": {
-      "rank": 10,
-      "peak_rank": 10,
+      "rank": 9,
+      "delta_rank": 1,
+      "peak_rank": 9,
       "peak_rating": 1876,
       "last_played": 1793980528
     }
@@ -1287,14 +1287,16 @@
   {
     "name": "maia3-79m_1400",
     "perf": {
-      "rating": 1745,
-      "rd": 211,
-      "games": 5,
+      "rating": 1668,
+      "rd": 192,
+      "games": 6,
       "prov": true
     },
     "rank_info": {
+      "delta_rating": -77,
+      "delta_games": 1,
       "peak_rating": 1745,
-      "last_played": 1793000874
+      "last_played": 1794343764
     }
   },
   {
@@ -1333,8 +1335,9 @@
       "games": 44
     },
     "rank_info": {
-      "rank": 8,
-      "peak_rank": 8,
+      "rank": 7,
+      "delta_rank": 1,
+      "peak_rank": 7,
       "peak_rating": 2008,
       "last_played": 1793821508
     }
@@ -1381,16 +1384,19 @@
   {
     "name": "maia3-79m_800",
     "perf": {
-      "rating": 1589,
+      "rating": 1588,
       "rd": 64,
-      "prog": -45,
-      "games": 60
+      "prog": -48,
+      "games": 61
     },
     "rank_info": {
-      "rank": 12,
-      "peak_rank": 12,
+      "rank": 11,
+      "delta_rank": 1,
+      "delta_rating": -1,
+      "delta_games": 1,
+      "peak_rank": 11,
       "peak_rating": 1589,
-      "last_played": 1793980528
+      "last_played": 1794343764
     }
   },
   {
@@ -1604,8 +1610,9 @@
       "games": 1211
     },
     "rank_info": {
-      "rank": 7,
-      "peak_rank": 7,
+      "rank": 6,
+      "delta_rank": 1,
+      "peak_rank": 6,
       "peak_rating": 2213,
       "last_played": 1794128360
     }
@@ -1627,7 +1634,7 @@
     "name": "pawn_git",
     "perf": {
       "rating": 2801,
-      "rd": 68,
+      "rd": 69,
       "prog": 53,
       "games": 256
     },
@@ -1794,8 +1801,9 @@
       "games": 95
     },
     "rank_info": {
-      "rank": 11,
-      "peak_rank": 11,
+      "rank": 10,
+      "delta_rank": 1,
+      "peak_rank": 10,
       "peak_rating": 1622,
       "last_played": 1793947545
     }
