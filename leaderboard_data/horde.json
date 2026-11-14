@@ -299,18 +299,18 @@
   {
     "name": "chess_set_manager",
     "perf": {
-      "rating": 2237,
+      "rating": 2234,
       "rd": 48,
-      "prog": -56,
-      "games": 299
+      "prog": -43,
+      "games": 301
     },
     "rank_info": {
       "rank": 11,
-      "delta_rating": -8,
+      "delta_rating": -3,
       "delta_games": 2,
       "peak_rank": 11,
-      "peak_rating": 2245,
-      "last_played": 1794637363
+      "peak_rating": 2237,
+      "last_played": 1794668662
     }
   },
   {
@@ -459,8 +459,6 @@
     },
     "rank_info": {
       "rank": 9,
-      "delta_rating": -9,
-      "delta_games": 3,
       "peak_rank": 9,
       "peak_rating": 2371,
       "last_played": 1794637363
@@ -1116,16 +1114,18 @@
   {
     "name": "MDBOT",
     "perf": {
-      "rating": 2473,
+      "rating": 2471,
       "rd": 45,
-      "prog": 36,
-      "games": 141
+      "prog": 24,
+      "games": 144
     },
     "rank_info": {
       "rank": 6,
+      "delta_rating": -2,
+      "delta_games": 3,
       "peak_rank": 6,
       "peak_rating": 2473,
-      "last_played": 1794612801
+      "last_played": 1794668662
     }
   },
   {
@@ -1133,14 +1133,15 @@
     "perf": {
       "rating": 2138,
       "rd": 45,
-      "prog": -8,
-      "games": 931
+      "prog": -1,
+      "games": 935
     },
     "rank_info": {
       "rank": 14,
+      "delta_games": 4,
       "peak_rank": 14,
       "peak_rating": 2138,
-      "last_played": 1794591865
+      "last_played": 1794668662
     }
   },
   {
@@ -1633,7 +1634,7 @@
     "name": "SleepyCPU",
     "perf": {
       "rating": 1508,
-      "rd": 263,
+      "rd": 291,
       "games": 3,
       "prov": true
     },

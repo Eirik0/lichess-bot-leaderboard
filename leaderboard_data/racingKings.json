@@ -309,26 +309,25 @@
   {
     "name": "chess_set_manager",
     "perf": {
-      "rating": 2045,
-      "rd": 47,
-      "prog": 12,
-      "games": 340
+      "rating": 2052,
+      "rd": 45,
+      "prog": 6,
+      "games": 354
     },
     "rank_info": {
       "rank": 15,
-      "delta_rank": 1,
-      "delta_rating": 11,
-      "delta_games": 3,
+      "delta_rating": 7,
+      "delta_games": 14,
       "peak_rank": 15,
-      "peak_rating": 2045,
-      "last_played": 1794637363
+      "peak_rating": 2052,
+      "last_played": 1794668662
     }
   },
   {
     "name": "chessbot2880",
     "perf": {
       "rating": 2623,
-      "rd": 128,
+      "rd": 129,
       "prog": -44,
       "games": 67,
       "prov": true
@@ -371,14 +370,15 @@
     "perf": {
       "rating": 2182,
       "rd": 45,
-      "prog": 5,
-      "games": 861
+      "prog": 7,
+      "games": 862
     },
     "rank_info": {
       "rank": 9,
+      "delta_games": 1,
       "peak_rank": 9,
       "peak_rating": 2182,
-      "last_played": 1794612801
+      "last_played": 1794668662
     }
   },
   {
@@ -759,14 +759,15 @@
     "perf": {
       "rating": 2173,
       "rd": 45,
-      "prog": 4,
-      "games": 947
+      "prog": -3,
+      "games": 969
     },
     "rank_info": {
       "rank": 11,
+      "delta_games": 22,
       "peak_rank": 11,
       "peak_rating": 2173,
-      "last_played": 1794591865
+      "last_played": 1794668662
     }
   },
   {
@@ -952,13 +953,14 @@
       "rating": 1349,
       "rd": 46,
       "prog": 16,
-      "games": 208
+      "games": 209
     },
     "rank_info": {
       "rank": 25,
+      "delta_games": 1,
       "peak_rank": 25,
       "peak_rating": 1349,
-      "last_played": 1794507526
+      "last_played": 1794668662
     }
   },
   {
@@ -984,8 +986,9 @@
       "games": 296
     },
     "rank_info": {
-      "rank": 7,
-      "peak_rank": 7,
+      "rank": 6,
+      "delta_rank": 1,
+      "peak_rank": 6,
       "peak_rating": 2192,
       "last_played": 1794612801
     }
@@ -993,31 +996,36 @@
   {
     "name": "MDBOT",
     "perf": {
-      "rating": 2177,
+      "rating": 2181,
       "rd": 45,
-      "prog": -2,
-      "games": 260
+      "prog": 2,
+      "games": 283
     },
     "rank_info": {
       "rank": 10,
+      "delta_rating": 4,
+      "delta_games": 23,
       "peak_rank": 10,
-      "peak_rating": 2177,
-      "last_played": 1794612801
+      "peak_rating": 2181,
+      "last_played": 1794668662
     }
   },
   {
     "name": "MEGA-NOOB-BOT",
     "perf": {
-      "rating": 2200,
+      "rating": 2207,
       "rd": 45,
-      "prog": -7,
-      "games": 1016
+      "prog": 7,
+      "games": 1033
     },
     "rank_info": {
-      "rank": 4,
-      "peak_rank": 4,
-      "peak_rating": 2200,
-      "last_played": 1794591865
+      "rank": 3,
+      "delta_rank": 1,
+      "delta_rating": 7,
+      "delta_games": 17,
+      "peak_rank": 3,
+      "peak_rating": 2207,
+      "last_played": 1794668662
     }
   },
   {
@@ -1240,7 +1248,7 @@
     "name": "OpeningsBot",
     "perf": {
       "rating": 1604,
-      "rd": 49,
+      "rd": 50,
       "prog": -38,
       "games": 17987
     },
@@ -1377,16 +1385,19 @@
   {
     "name": "RacingKingsBot_1",
     "perf": {
-      "rating": 2195,
+      "rating": 2191,
       "rd": 45,
-      "prog": -1,
-      "games": 1263
+      "prog": 2,
+      "games": 1353
     },
     "rank_info": {
-      "rank": 6,
+      "rank": 7,
+      "delta_rank": -1,
+      "delta_rating": -4,
+      "delta_games": 90,
       "peak_rank": 6,
       "peak_rating": 2195,
-      "last_played": 1794591865
+      "last_played": 1794668662
     }
   },
   {
@@ -1423,13 +1434,15 @@
       "rating": 2201,
       "rd": 45,
       "prog": -15,
-      "games": 2109
+      "games": 2111
     },
     "rank_info": {
-      "rank": 3,
+      "rank": 4,
+      "delta_rank": -1,
+      "delta_games": 2,
       "peak_rank": 3,
       "peak_rating": 2201,
-      "last_played": 1794612801
+      "last_played": 1794668662
     }
   },
   {
@@ -1488,7 +1501,7 @@
     "name": "RockingSuperstars",
     "perf": {
       "rating": 2152,
-      "rd": 78,
+      "rd": 79,
       "prog": 76,
       "games": 55
     },
@@ -1516,7 +1529,7 @@
     "name": "SleepyCPU",
     "perf": {
       "rating": 1792,
-      "rd": 403,
+      "rd": 422,
       "games": 1,
       "prov": true
     },
@@ -1722,10 +1735,7 @@
     },
     "rank_info": {
       "rank": 16,
-      "delta_rank": -1,
-      "delta_rating": -15,
-      "delta_games": 1,
-      "peak_rank": 15,
+      "peak_rank": 16,
       "peak_rating": 2052,
       "last_played": 1794637363
     }
