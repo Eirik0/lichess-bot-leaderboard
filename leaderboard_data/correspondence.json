@@ -489,10 +489,8 @@
     },
     "rank_info": {
       "rank": 5,
-      "delta_rating": -9,
-      "delta_games": 1,
       "peak_rank": 5,
-      "peak_rating": 2358,
+      "peak_rating": 2349,
       "last_played": 1794734757
     }
   },
@@ -598,7 +596,8 @@
       "games": 116
     },
     "rank_info": {
-      "rank": 13,
+      "rank": 14,
+      "delta_rank": -1,
       "peak_rank": 13,
       "peak_rating": 1444,
       "last_played": 1794688983
@@ -707,7 +706,8 @@
       "games": 102
     },
     "rank_info": {
-      "rank": 12,
+      "rank": 13,
+      "delta_rank": -1,
       "peak_rank": 12,
       "peak_rating": 1561,
       "last_played": 1794668662
@@ -1000,14 +1000,18 @@
   {
     "name": "Jibbby",
     "perf": {
-      "rating": 1888,
-      "rd": 87,
-      "prog": 30,
-      "games": 733
+      "rating": 1904,
+      "rd": 85,
+      "prog": 42,
+      "games": 734
     },
     "rank_info": {
-      "peak_rating": 1888,
-      "last_played": 1792779696
+      "rank": 10,
+      "delta_rank": -10,
+      "delta_rating": 16,
+      "delta_games": 1,
+      "peak_rating": 1904,
+      "last_played": 1794762635
     }
   },
   {
@@ -1324,7 +1328,7 @@
     "name": "maia3-79m_2000",
     "perf": {
       "rating": 2008,
-      "rd": 74,
+      "rd": 75,
       "prog": -37,
       "games": 44
     },
@@ -1339,7 +1343,7 @@
     "name": "maia3-79m_2400",
     "perf": {
       "rating": 2591,
-      "rd": 243,
+      "rd": 244,
       "games": 4,
       "prov": true
     },
@@ -1383,7 +1387,8 @@
       "games": 61
     },
     "rank_info": {
-      "rank": 11,
+      "rank": 12,
+      "delta_rank": -1,
       "peak_rank": 11,
       "peak_rating": 1588,
       "last_played": 1794343764
@@ -1629,10 +1634,8 @@
     },
     "rank_info": {
       "rank": 2,
-      "delta_rating": -14,
-      "delta_games": 1,
       "peak_rank": 2,
-      "peak_rating": 2770,
+      "peak_rating": 2756,
       "last_played": 1794734757
     }
   },
@@ -1792,7 +1795,8 @@
       "games": 95
     },
     "rank_info": {
-      "rank": 10,
+      "rank": 11,
+      "delta_rank": -1,
       "peak_rank": 10,
       "peak_rating": 1622,
       "last_played": 1793947545
@@ -2010,6 +2014,19 @@
     "rank_info": {
       "peak_rating": 2332,
       "last_played": 1756038459
+    }
+  },
+  {
+    "name": "SJ_NorBot",
+    "perf": {
+      "rating": 2300,
+      "rd": 495,
+      "games": 1,
+      "prov": true
+    },
+    "rank_info": {
+      "peak_rating": 2300,
+      "last_played": 1794762635
     }
   },
   {
@@ -2281,7 +2298,7 @@
     "name": "vanibot",
     "perf": {
       "rating": 1897,
-      "rd": 137,
+      "rd": 138,
       "prog": 61,
       "games": 70,
       "prov": true
