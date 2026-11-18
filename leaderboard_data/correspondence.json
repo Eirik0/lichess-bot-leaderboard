@@ -201,7 +201,7 @@
     "name": "BlueMoonBot",
     "perf": {
       "rating": 3355,
-      "rd": 68,
+      "rd": 69,
       "prog": 32,
       "games": 59
     },
@@ -337,7 +337,7 @@
     "name": "ChamberiAjedrez",
     "perf": {
       "rating": 2647,
-      "rd": 153,
+      "rd": 154,
       "prog": 26,
       "games": 170,
       "prov": true
@@ -482,16 +482,18 @@
   {
     "name": "ChronicGambler",
     "perf": {
-      "rating": 2335,
-      "rd": 75,
-      "prog": -129,
-      "games": 32
+      "rating": 2307,
+      "rd": 73,
+      "prog": -122,
+      "games": 34
     },
     "rank_info": {
       "rank": 5,
+      "delta_rating": -28,
+      "delta_games": 2,
       "peak_rank": 5,
       "peak_rating": 2335,
-      "last_played": 1794884145
+      "last_played": 1795022115
     }
   },
   {
@@ -1032,9 +1034,7 @@
       "prov": true
     },
     "rank_info": {
-      "delta_rating": -285,
-      "delta_games": 1,
-      "peak_rating": 2366,
+      "peak_rating": 2081,
       "last_played": 1794986932
     }
   },
@@ -1283,23 +1283,26 @@
   {
     "name": "maia3-79m_1000",
     "perf": {
-      "rating": 1890,
-      "rd": 67,
-      "prog": 31,
-      "games": 53
+      "rating": 1895,
+      "rd": 65,
+      "prog": -23,
+      "games": 57
     },
     "rank_info": {
-      "rank": 11,
-      "peak_rank": 11,
-      "peak_rating": 1890,
-      "last_played": 1794954225
+      "rank": 10,
+      "delta_rank": 1,
+      "delta_rating": 5,
+      "delta_games": 4,
+      "peak_rank": 10,
+      "peak_rating": 1895,
+      "last_played": 1795022115
     }
   },
   {
     "name": "maia3-79m_1200",
     "perf": {
       "rating": 1686,
-      "rd": 184,
+      "rd": 185,
       "games": 9,
       "prov": true
     },
@@ -1352,7 +1355,7 @@
     "name": "maia3-79m_2000",
     "perf": {
       "rating": 2008,
-      "rd": 75,
+      "rd": 76,
       "prog": -37,
       "games": 44
     },
@@ -1657,10 +1660,8 @@
     },
     "rank_info": {
       "rank": 2,
-      "delta_rating": -11,
-      "delta_games": 1,
       "peak_rank": 2,
-      "peak_rating": 2743,
+      "peak_rating": 2732,
       "last_played": 1794986932
     }
   },
@@ -1722,7 +1723,7 @@
     "name": "pi0w",
     "perf": {
       "rating": 1865,
-      "rd": 346,
+      "rd": 347,
       "games": 2,
       "prov": true
     },
@@ -1830,7 +1831,7 @@
     "name": "PZChessBot",
     "perf": {
       "rating": 1387,
-      "rd": 449,
+      "rd": 450,
       "games": 2,
       "prov": true
     },
