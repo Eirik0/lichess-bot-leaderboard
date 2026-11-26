@@ -193,7 +193,8 @@
       "games": 54
     },
     "rank_info": {
-      "rank": 5,
+      "rank": 6,
+      "delta_rank": -1,
       "peak_rank": 5,
       "peak_rating": 2258,
       "last_played": 1794884145
@@ -245,13 +246,12 @@
     "name": "BubbleBot2",
     "perf": {
       "rating": 1324,
-      "rd": 56,
+      "rd": 57,
       "prog": 15,
       "games": 265
     },
     "rank_info": {
       "rank": 26,
-      "delta_rank": 1,
       "peak_rank": 26,
       "peak_rating": 1324,
       "last_played": 1795616501
@@ -321,8 +321,6 @@
     },
     "rank_info": {
       "rank": 19,
-      "delta_rating": 15,
-      "delta_games": 5,
       "peak_rank": 19,
       "peak_rating": 1896,
       "last_played": 1795652403
@@ -363,7 +361,6 @@
       "games": 452
     },
     "rank_info": {
-      "delta_rank": 23,
       "peak_rating": 1710,
       "last_played": 1794419616
     }
@@ -385,7 +382,7 @@
     "name": "clrsrc_lc0",
     "perf": {
       "rating": 1742,
-      "rd": 440,
+      "rd": 441,
       "games": 1,
       "prov": true
     },
@@ -411,7 +408,7 @@
     "name": "colinbot",
     "perf": {
       "rating": 1942,
-      "rd": 56,
+      "rd": 57,
       "prog": 9,
       "games": 720
     },
@@ -457,8 +454,9 @@
       "games": 472
     },
     "rank_info": {
-      "rank": 13,
-      "peak_rank": 13,
+      "rank": 12,
+      "delta_rank": 1,
+      "peak_rank": 12,
       "peak_rating": 2196,
       "last_played": 1795464805
     }
@@ -472,7 +470,6 @@
     },
     "rank_info": {
       "rank": 27,
-      "delta_rank": 1,
       "peak_rank": 27,
       "peak_rating": 1240,
       "last_played": 1795542281
@@ -830,7 +827,6 @@
     },
     "rank_info": {
       "rank": 24,
-      "delta_rank": 1,
       "peak_rank": 24,
       "peak_rating": 1622,
       "last_played": 1795616501
@@ -1035,7 +1031,6 @@
     },
     "rank_info": {
       "rank": 23,
-      "delta_rank": 1,
       "peak_rank": 23,
       "peak_rating": 1667,
       "last_played": 1795022115
@@ -1058,16 +1053,19 @@
   {
     "name": "McDonalds1955",
     "perf": {
-      "rating": 2200,
-      "rd": 46,
-      "prog": 10,
-      "games": 289
+      "rating": 2191,
+      "rd": 45,
+      "prog": -17,
+      "games": 295
     },
     "rank_info": {
-      "rank": 12,
+      "rank": 13,
+      "delta_rank": -1,
+      "delta_rating": -9,
+      "delta_games": 6,
       "peak_rank": 12,
-      "peak_rating": 2203,
-      "last_played": 1795495636
+      "peak_rating": 2200,
+      "last_played": 1795690412
     }
   },
   {
@@ -1088,16 +1086,18 @@
   {
     "name": "MEGA-NOOB-BOT",
     "perf": {
-      "rating": 2380,
+      "rating": 2378,
       "rd": 45,
-      "prog": 14,
-      "games": 917
+      "prog": 10,
+      "games": 921
     },
     "rank_info": {
       "rank": 2,
+      "delta_rating": -2,
+      "delta_games": 4,
       "peak_rank": 2,
       "peak_rating": 2380,
-      "last_played": 1795616501
+      "last_played": 1795690412
     }
   },
   {
@@ -1359,16 +1359,15 @@
     "perf": {
       "rating": 1102,
       "rd": 62,
-      "prog": 14,
-      "games": 3252
+      "prog": 20,
+      "games": 3253
     },
     "rank_info": {
       "rank": 28,
-      "delta_rank": 1,
       "delta_games": 1,
       "peak_rank": 28,
       "peak_rating": 1102,
-      "last_played": 1795652403
+      "last_played": 1795690412
     }
   },
   {
@@ -1428,13 +1427,12 @@
     "name": "puisne",
     "perf": {
       "rating": 1572,
-      "rd": 46,
+      "rd": 47,
       "prog": -17,
       "games": 84
     },
     "rank_info": {
       "rank": 25,
-      "delta_rank": 1,
       "peak_rank": 25,
       "peak_rating": 1572,
       "last_played": 1795369780
@@ -1536,16 +1534,19 @@
   {
     "name": "RaspFish",
     "perf": {
-      "rating": 2257,
+      "rating": 2260,
       "rd": 58,
-      "prog": 13,
-      "games": 1084
+      "prog": 29,
+      "games": 1085
     },
     "rank_info": {
-      "rank": 6,
-      "peak_rank": 6,
-      "peak_rating": 2257,
-      "last_played": 1795616501
+      "rank": 5,
+      "delta_rank": 1,
+      "delta_rating": 3,
+      "delta_games": 1,
+      "peak_rank": 5,
+      "peak_rating": 2260,
+      "last_played": 1795690412
     }
   },
   {
@@ -1738,7 +1739,7 @@
     "name": "StockfishLowDepth",
     "perf": {
       "rating": 1854,
-      "rd": 86,
+      "rd": 87,
       "prog": 127,
       "games": 82
     },
