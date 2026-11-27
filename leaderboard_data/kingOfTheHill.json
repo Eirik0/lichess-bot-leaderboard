@@ -250,9 +250,9 @@
       "games": 269
     },
     "rank_info": {
-      "rank": 26,
-      "delta_games": 3,
-      "peak_rank": 26,
+      "rank": 25,
+      "delta_rank": 1,
+      "peak_rank": 25,
       "peak_rating": 1324,
       "last_played": 1795787688
     }
@@ -314,16 +314,18 @@
   {
     "name": "chess_set_manager",
     "perf": {
-      "rating": 1896,
+      "rating": 1910,
       "rd": 52,
-      "prog": 13,
-      "games": 300
+      "prog": 26,
+      "games": 302
     },
     "rank_info": {
       "rank": 19,
+      "delta_rating": 14,
+      "delta_games": 2,
       "peak_rank": 19,
-      "peak_rating": 1896,
-      "last_played": 1795652403
+      "peak_rating": 1910,
+      "last_played": 1795819354
     }
   },
   {
@@ -465,15 +467,15 @@
     "perf": {
       "rating": 1240,
       "rd": 59,
-      "prog": 1,
-      "games": 4040
+      "games": 4042
     },
     "rank_info": {
-      "rank": 27,
-      "delta_games": 1,
-      "peak_rank": 27,
+      "rank": 26,
+      "delta_rank": 1,
+      "delta_games": 2,
+      "peak_rank": 26,
       "peak_rating": 1240,
-      "last_played": 1795787688
+      "last_played": 1795819354
     }
   },
   {
@@ -812,8 +814,7 @@
       "games": 352
     },
     "rank_info": {
-      "rank": 22,
-      "peak_rank": 22,
+      "delta_rank": 22,
       "peak_rating": 1789,
       "last_played": 1794591865
     }
@@ -827,8 +828,9 @@
       "games": 33
     },
     "rank_info": {
-      "rank": 24,
-      "peak_rank": 24,
+      "rank": 23,
+      "delta_rank": 1,
+      "peak_rank": 23,
       "peak_rating": 1622,
       "last_played": 1795616501
     }
@@ -1026,13 +1028,14 @@
     "name": "Martuni",
     "perf": {
       "rating": 1667,
-      "rd": 51,
+      "rd": 52,
       "prog": 13,
       "games": 230
     },
     "rank_info": {
-      "rank": 23,
-      "peak_rank": 23,
+      "rank": 22,
+      "delta_rank": 1,
+      "peak_rank": 22,
       "peak_rating": 1667,
       "last_played": 1795022115
     }
@@ -1091,10 +1094,8 @@
     },
     "rank_info": {
       "rank": 2,
-      "delta_rating": -10,
-      "delta_games": 6,
       "peak_rank": 2,
-      "peak_rating": 2378,
+      "peak_rating": 2368,
       "last_played": 1795787688
     }
   },
@@ -1357,14 +1358,16 @@
     "perf": {
       "rating": 1102,
       "rd": 62,
-      "prog": 20,
-      "games": 3253
+      "prog": 26,
+      "games": 3254
     },
     "rank_info": {
-      "rank": 28,
-      "peak_rank": 28,
+      "rank": 27,
+      "delta_rank": 1,
+      "delta_games": 1,
+      "peak_rank": 27,
       "peak_rating": 1102,
-      "last_played": 1795690412
+      "last_played": 1795819354
     }
   },
   {
@@ -1424,13 +1427,14 @@
     "name": "puisne",
     "perf": {
       "rating": 1572,
-      "rd": 47,
+      "rd": 48,
       "prog": -17,
       "games": 84
     },
     "rank_info": {
-      "rank": 25,
-      "peak_rank": 25,
+      "rank": 24,
+      "delta_rank": 1,
+      "peak_rank": 24,
       "peak_rating": 1572,
       "last_played": 1795369780
     }
@@ -1474,6 +1478,19 @@
     "rank_info": {
       "peak_rating": 1900,
       "last_played": 1793364944
+    }
+  },
+  {
+    "name": "R4033",
+    "perf": {
+      "rating": 1575,
+      "rd": 399,
+      "games": 1,
+      "prov": true
+    },
+    "rank_info": {
+      "peak_rating": 1575,
+      "last_played": 1795819354
     }
   },
   {
